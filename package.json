@@ -1,0 +1,13 @@
+{
+  "name": "jcolag",
+  "version": "1.0.0",
+  "description": "John's GitHub profile",
+  "main": "update.js",
+  "repository": "git@github.com:jcolag/jcolag.git",
+  "author": "John Colagioia <john@colagioia.net>",
+  "license": "AGPL3",
+  "private": false,
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
