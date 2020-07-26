@@ -1,6 +1,8 @@
 #!/bin/sh
 today=$(/bin/date +"%Y-%m-%d")
 /usr/bin/id
+/bin/echo $HOME
+/usr/bin/ssh-add "${HOME}/.ssh/id_rsa"
 /usr/bin/git pull
 /usr/local/bin/yarn install
 /usr/bin/node update.js
