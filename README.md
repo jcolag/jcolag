@@ -6,10 +6,10 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club - Magnificent Mechanical Man §25–36](https://john.colagioia.net/blog/2020/07/25/manuel.html)|Sat Jul 25 2020|
 |[Tweets from 07/20 to 07/24](https://john.colagioia.net/blog/media/2020/07/24/week.html)|Fri Jul 24 2020|
 |[Real Life in Star Trek, The City on the Edge of Forever](https://john.colagioia.net/blog/2020/07/23/edge.html)|Thu Jul 23 2020|
-|[Developer Journal, Moon Landing Anniversery](https://john.colagioia.net/blog/2020/07/20/apollo11.html)|Mon Jul 20 2020|
+|[Developer Journal, Moon Landing Anniversary](https://john.colagioia.net/blog/2020/07/20/apollo11.html)|Mon Jul 20 2020|
 |[Copyright Searches](https://john.colagioia.net/blog/2020/07/19/pdomain.html)|Sun Jul 19 2020|
-|[Free Culture Book Club - Magnificent Mechanical Man §13–24](https://john.colagioia.net/blog/2020/07/18/manuel.html)|Sat Jul 18 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi."
