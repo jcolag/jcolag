@@ -1,5 +1,6 @@
 #!/bin/sh
 today=$(/bin/date +"%Y-%m-%d")
+/usr/bin/id
 /usr/bin/git pull
 /usr/local/bin/yarn install
 /usr/bin/node update.js
