@@ -6,11 +6,11 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Friendship Day](https://john.colagioia.net/blog/2020/08/03/friend.html)|Mon Aug 03 2020|
 |[Wanted — Ethical Media Consumption](https://john.colagioia.net/blog/2020/08/02/ethmedia.html)|Sun Aug 02 2020|
 |[Free Culture Book Club - Magnificent Mechanical Man §37–49](https://john.colagioia.net/blog/2020/08/01/manuel.html)|Sat Aug 01 2020|
 |[Tweets from 07/27 to 07/31](https://john.colagioia.net/blog/media/2020/07/31/week.html)|Fri Jul 31 2020|
 |[Real Life in Star Trek, Operation—Annihilate!](https://john.colagioia.net/blog/2020/07/30/opann.html)|Thu Jul 30 2020|
 |[Changing the Primary Git Branch](https://john.colagioia.net/blog/2020/07/29/gitmain.html)|Wed Jul 29 2020|
-|[Developer Journal, Korean War Veterans Armistice Day](https://john.colagioia.net/blog/2020/07/27/kwvad.html)|Mon Jul 27 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi."
