@@ -8,4 +8,4 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |-----|-------|
 <!--BlogPostsHere-->
 
-Feel free to suggest ideas on any project or just poke at me to say "hi."
+Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
