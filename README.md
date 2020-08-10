@@ -10,6 +10,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 08/03 to 08/07](https://john.colagioia.net/blog/media/2020/08/07/week.html)|Fri Aug 07 2020|
 |[Real Life in Star Trek, Season 1 Summary](https://john.colagioia.net/blog/2020/08/06/season1.html)|Thu Aug 06 2020|
 |[Developer Journal, Friendship Day](https://john.colagioia.net/blog/2020/08/03/friend.html)|Mon Aug 03 2020|
-|[Wanted — Ethical Media Consumption](https://john.colagioia.net/blog/2020/08/02/ethmedia.html)|Sun Aug 02 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
