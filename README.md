@@ -6,9 +6,9 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Amok Time](https://john.colagioia.net/blog/2020/08/13/amok.html)|Thu Aug 13 2020|
 |[Developer Journal, Indigenous Peoples Day](https://john.colagioia.net/blog/2020/08/10/indigenous.html)|Mon Aug 10 2020|
 |[Free Culture Book Club — Morevna, Episode 3](https://john.colagioia.net/blog/2020/08/08/morevna3.html)|Sat Aug 08 2020|
 |[Tweets from 08/03 to 08/07](https://john.colagioia.net/blog/media/2020/08/07/week.html)|Fri Aug 07 2020|
-|[Real Life in Star Trek, Season 1 Summary](https://john.colagioia.net/blog/2020/08/06/season1.html)|Thu Aug 06 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
