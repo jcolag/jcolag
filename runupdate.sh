@@ -7,6 +7,6 @@ today=$(/bin/date +"%Y-%m-%d")
 /usr/local/bin/yarn install
 /usr/bin/node update.js
 /usr/bin/git add .
-/usr/bin/git commit -m "Update blog posts as of ${today} morning"
+/usr/bin/git commit -m "Update blog posts as of the morning of ${today}"
 /usr/bin/git push
 
