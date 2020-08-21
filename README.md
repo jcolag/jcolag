@@ -6,10 +6,10 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Who Mourns for Adonais?](https://john.colagioia.net/blog/2020/08/20/mourn.html)|Thu Aug 20 2020|
 |[Developer Journal, Marcus Garvey’s Birthday](https://john.colagioia.net/blog/2020/08/17/garvey.html)|Mon Aug 17 2020|
 |[Fiction — Grandfathers, Butterflies, and Patient Minus-One](https://john.colagioia.net/blog/2020/08/16/butterfly.html)|Sun Aug 16 2020|
 |[Free Culture Book Club — Prelude to Whitespace](https://john.colagioia.net/blog/2020/08/15/white.html)|Sat Aug 15 2020|
 |[Tweets from 08/10 to 08/14](https://john.colagioia.net/blog/media/2020/08/14/week.html)|Fri Aug 14 2020|
-|[Real Life in Star Trek, Amok Time](https://john.colagioia.net/blog/2020/08/13/amok.html)|Thu Aug 13 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
