@@ -6,10 +6,10 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, September Eve](https://john.colagioia.net/blog/2020/08/31/end-august.html)|Mon Aug 31 2020|
 |[Of Course Political Parties Don’t Reflect You!](https://john.colagioia.net/blog/2020/08/30/parties.html)|Sun Aug 30 2020|
 |[Free Culture Book Club — Virtuoso Prologue](https://john.colagioia.net/blog/2020/08/29/virtuoso.html)|Sat Aug 29 2020|
 |[Tweets from 08/24 to 08/28](https://john.colagioia.net/blog/media/2020/08/28/week.html)|Fri Aug 28 2020|
 |[Real Life in Star Trek, The Changeling](https://john.colagioia.net/blog/2020/08/27/change.html)|Thu Aug 27 2020|
-|[Developer Journal, International Strange Music Day](https://john.colagioia.net/blog/2020/08/24/music.html)|Mon Aug 24 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
