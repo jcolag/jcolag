@@ -6,10 +6,10 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The Fight of the Century (and The Last Century)](https://john.colagioia.net/blog/2020/09/06/enlight.html)|Sun Sep 06 2020|
 |[Free Culture Book Club — Endgame∶ Singularity](https://john.colagioia.net/blog/2020/09/05/endgame.html)|Sat Sep 05 2020|
 |[Tweets from 08/31 to 09/04](https://john.colagioia.net/blog/media/2020/09/04/week.html)|Fri Sep 04 2020|
 |[Real Life in Star Trek, Mirror, Mirror](https://john.colagioia.net/blog/2020/09/03/mirror.html)|Thu Sep 03 2020|
 |[Developer Journal, September Eve](https://john.colagioia.net/blog/2020/08/31/end-august.html)|Mon Aug 31 2020|
-|[Of Course Political Parties Don’t Reflect You!](https://john.colagioia.net/blog/2020/08/30/parties.html)|Sun Aug 30 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
