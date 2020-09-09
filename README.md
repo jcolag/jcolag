@@ -12,4 +12,4 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 08/31 to 09/04](https://john.colagioia.net/blog/media/2020/09/04/week.html)|Fri Sep 04 2020|
 |[Real Life in Star Trek, Mirror, Mirror](https://john.colagioia.net/blog/2020/09/03/mirror.html)|Thu Sep 03 2020|
 
-Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally, though.
+Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
