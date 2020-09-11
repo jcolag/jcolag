@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Apple](https://john.colagioia.net/blog/2020/09/10/apple.html)|Thu Sep 10 2020|
 |[Developer Journal, International Literacy Eve](https://john.colagioia.net/blog/2020/09/07/literacy.html)|Mon Sep 07 2020|
 |[The Fight of the Century (and The Last Century)](https://john.colagioia.net/blog/2020/09/06/enlight.html)|Sun Sep 06 2020|
 |[Free Culture Book Club — Endgame∶ Singularity](https://john.colagioia.net/blog/2020/09/05/endgame.html)|Sat Sep 05 2020|
