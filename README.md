@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Doomsday Machine](https://john.colagioia.net/blog/2020/09/17/doomday.html)|Thu Sep 17 2020|
 |[Developer Journal, International Eve of Democracy](https://john.colagioia.net/blog/2020/09/14/democracy.html)|Mon Sep 14 2020|
 |[Free Culture Book Club — Bookdash Books, Part 1](https://john.colagioia.net/blog/2020/09/12/bookdash.html)|Sat Sep 12 2020|
 |[Tweets from 09/07 to 09/11](https://john.colagioia.net/blog/media/2020/09/11/week.html)|Fri Sep 11 2020|
