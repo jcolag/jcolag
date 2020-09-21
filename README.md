@@ -6,10 +6,10 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Personal Pronouns, Revisited](https://john.colagioia.net/blog/2020/09/20/pronoun.html)|Sun Sep 20 2020|
 |[Free Culture Book Club — Bookdash Books, Part 2](https://john.colagioia.net/blog/2020/09/19/bookdash2.html)|Sat Sep 19 2020|
 |[Tweets from 09/14 to 09/18](https://john.colagioia.net/blog/media/2020/09/18/week.html)|Fri Sep 18 2020|
 |[Real Life in Star Trek, The Doomsday Machine](https://john.colagioia.net/blog/2020/09/17/doomday.html)|Thu Sep 17 2020|
 |[Developer Journal, International Eve of Democracy](https://john.colagioia.net/blog/2020/09/14/democracy.html)|Mon Sep 14 2020|
-|[Free Culture Book Club — Bookdash Books, Part 1](https://john.colagioia.net/blog/2020/09/12/bookdash.html)|Sat Sep 12 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
