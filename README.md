@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, International Day of Peace](https://john.colagioia.net/blog/2020/09/21/peace.html)|Mon Sep 21 2020|
 |[Personal Pronouns, Revisited](https://john.colagioia.net/blog/2020/09/20/pronoun.html)|Sun Sep 20 2020|
 |[Free Culture Book Club — Bookdash Books, Part 2](https://john.colagioia.net/blog/2020/09/19/bookdash2.html)|Sat Sep 19 2020|
 |[Tweets from 09/14 to 09/18](https://john.colagioia.net/blog/media/2020/09/18/week.html)|Fri Sep 18 2020|
