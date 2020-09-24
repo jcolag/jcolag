@@ -22,7 +22,7 @@ https.get('https://john.colagioia.net/blog/feed.xml', (res) => {
         const published = new Date(entry.published[0]);
         const lastWeek = new Date();
 
-        lastWeek.setDate(lastWeek.getDate() - 8);
+        lastWeek.setDate(lastWeek.getDate() - 10);
         lastWeek.setHours(0);
         if (published > lastWeek) {
           table += `|[${title}](${url})|${published.toDateString()}|\n`;
