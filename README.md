@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Where Are the Joneses? Part 1](https://john.colagioia.net/blog/2020/09/26/joneses1.html)|Sat Sep 26 2020|
 |[Tweets from 09/21 to 09/25](https://john.colagioia.net/blog/media/2020/09/25/week.html)|Fri Sep 25 2020|
 |[Real Life in Star Trek, Catspaw](https://john.colagioia.net/blog/2020/09/24/catspaw.html)|Thu Sep 24 2020|
 |[Developer Journal, International Day of Peace](https://john.colagioia.net/blog/2020/09/21/peace.html)|Mon Sep 21 2020|
