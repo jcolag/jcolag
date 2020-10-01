@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 09/21 to 09/25](https://john.colagioia.net/blog/media/2020/09/25/week.html)|Fri Sep 25 2020|
 |[Real Life in Star Trek, Catspaw](https://john.colagioia.net/blog/2020/09/24/catspaw.html)|Thu Sep 24 2020|
 |[Developer Journal, International Day of Peace](https://john.colagioia.net/blog/2020/09/21/peace.html)|Mon Sep 21 2020|
-|[Personal Pronouns, Revisited](https://john.colagioia.net/blog/2020/09/20/pronoun.html)|Sun Sep 20 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
