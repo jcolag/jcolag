@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Where Are the Joneses? Part 2](https://john.colagioia.net/blog/2020/10/03/joneses2.html)|Sat Oct 03 2020|
 |[Tweets from 09/28 to 10/02](https://john.colagioia.net/blog/media/2020/10/02/week.html)|Fri Oct 02 2020|
 |[Real Life in Star Trek, I, Mudd](https://john.colagioia.net/blog/2020/10/01/mudd.html)|Thu Oct 01 2020|
 |[Developer Journal, International Right to Know Day](https://john.colagioia.net/blog/2020/09/28/know.html)|Mon Sep 28 2020|
