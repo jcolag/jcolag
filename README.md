@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 10/12 to 10/16](https://john.colagioia.net/blog/media/2020/10/16/week.html)|Fri Oct 16 2020|
 |[Real Life in Star Trek, Journey to Babel](https://john.colagioia.net/blog/2020/10/15/babel.html)|Thu Oct 15 2020|
 |[Developer Journal, Indigenous Peoples’ Day](https://john.colagioia.net/blog/2020/10/12/america.html)|Mon Oct 12 2020|
 |[Voting as a Communal Activity](https://john.colagioia.net/blog/2020/10/11/vote.html)|Sun Oct 11 2020|
