@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, World Eve for Audiovisual Heritage](https://john.colagioia.net/blog/2020/10/26/inter.html)|Mon Oct 26 2020|
 |[Free Culture Book Club — Drakes](https://john.colagioia.net/blog/2020/10/24/drakes.html)|Sat Oct 24 2020|
 |[Tweets from 10/19 to 10/23](https://john.colagioia.net/blog/media/2020/10/23/week.html)|Fri Oct 23 2020|
 |[Real Life in Star Trek, Friday’s Child](https://john.colagioia.net/blog/2020/10/22/friday.html)|Thu Oct 22 2020|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Politics in Art and Technology](https://john.colagioia.net/blog/2020/10/18/stories.html)|Sun Oct 18 2020|
 |[Free Culture Book Club — Where Are the Joneses? Part 4](https://john.colagioia.net/blog/2020/10/17/joneses4.html)|Sat Oct 17 2020|
 |[Tweets from 10/12 to 10/16](https://john.colagioia.net/blog/media/2020/10/16/week.html)|Fri Oct 16 2020|
-|[Real Life in Star Trek, Journey to Babel](https://john.colagioia.net/blog/2020/10/15/babel.html)|Thu Oct 15 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
