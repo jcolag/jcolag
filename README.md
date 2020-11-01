@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — MTF Sigma-5 “Pumpkin Punchers”](https://john.colagioia.net/blog/2020/10/31/pumpkin.html)|Sat Oct 31 2020|
 |[Tweets from 10/26 to 10/30](https://john.colagioia.net/blog/media/2020/10/30/week.html)|Fri Oct 30 2020|
 |[Real Life in Star Trek, The Deadly Years](https://john.colagioia.net/blog/2020/10/29/deadly.html)|Thu Oct 29 2020|
 |[Writing a Twitter Bot](https://john.colagioia.net/blog/2020/10/28/twitter.html)|Wed Oct 28 2020|
