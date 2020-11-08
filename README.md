@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Nothing to Hide](https://john.colagioia.net/blog/2020/11/07/hide.html)|Sat Nov 07 2020|
 |[Tweets from 11/02 to 11/06](https://john.colagioia.net/blog/media/2020/11/06/week.html)|Fri Nov 06 2020|
 |[Real Life in Star Trek, Obsession](https://john.colagioia.net/blog/2020/11/05/obsess.html)|Thu Nov 05 2020|
 |[Developer Journal, Election Eve](https://john.colagioia.net/blog/2020/11/02/election.html)|Mon Nov 02 2020|
