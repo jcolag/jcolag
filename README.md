@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 11/02 to 11/06](https://john.colagioia.net/blog/media/2020/11/06/week.html)|Fri Nov 06 2020|
 |[Real Life in Star Trek, Obsession](https://john.colagioia.net/blog/2020/11/05/obsess.html)|Thu Nov 05 2020|
 |[Developer Journal, Election Eve](https://john.colagioia.net/blog/2020/11/02/election.html)|Mon Nov 02 2020|
-|[Free Culture Book Club — MTF Sigma-5 “Pumpkin Punchers”](https://john.colagioia.net/blog/2020/10/31/pumpkin.html)|Sat Oct 31 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
