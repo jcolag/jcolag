@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — The Journey to Thelio](https://john.colagioia.net/blog/2020/11/21/thelio.html)|Sat Nov 21 2020|
 |[Tweets from 11/16 to 11/20](https://john.colagioia.net/blog/media/2020/11/20/week.html)|Fri Nov 20 2020|
 |[Real Life in Star Trek, The Trouble with Tribbles](https://john.colagioia.net/blog/2020/11/19/trouble.html)|Thu Nov 19 2020|
 |[Developer Journal, International Day for Tolerance](https://john.colagioia.net/blog/2020/11/16/tolerance.html)|Mon Nov 16 2020|
