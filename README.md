@@ -14,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, International Day for Tolerance](https://john.colagioia.net/blog/2020/11/16/tolerance.html)|Mon Nov 16 2020|
 |[Loving It and/or Leaving It and What “It” Might Be](https://john.colagioia.net/blog/2020/11/15/love-leave.html)|Sun Nov 15 2020|
 |[Free Culture Book Club — Elvie](https://john.colagioia.net/blog/2020/11/14/elvie.html)|Sat Nov 14 2020|
-|[Tweets from 11/09 to 11/13](https://john.colagioia.net/blog/media/2020/11/13/week.html)|Fri Nov 13 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
