@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Pratham Books, Part 1](https://john.colagioia.net/blog/2020/11/28/pratham.html)|Sat Nov 28 2020|
 |[Tweets from 11/23 to 11/27](https://john.colagioia.net/blog/media/2020/11/27/week.html)|Fri Nov 27 2020|
 |[Real Life in Star Trek, The Gamesters of Triskelion](https://john.colagioia.net/blog/2020/11/26/games.html)|Thu Nov 26 2020|
 |[Developer Journal, Mary Brewster Hazelton’s Birthday](https://john.colagioia.net/blog/2020/11/23/hazelton.html)|Mon Nov 23 2020|
