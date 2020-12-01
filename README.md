@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Jonathan Swift’s Birthday](https://john.colagioia.net/blog/2020/11/30/swift.html)|Mon Nov 30 2020|
 |[Free Culture Book Club — Pratham Books, Part 1](https://john.colagioia.net/blog/2020/11/28/pratham.html)|Sat Nov 28 2020|
 |[Tweets from 11/23 to 11/27](https://john.colagioia.net/blog/media/2020/11/27/week.html)|Fri Nov 27 2020|
 |[Real Life in Star Trek, The Gamesters of Triskelion](https://john.colagioia.net/blog/2020/11/26/games.html)|Thu Nov 26 2020|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Replybrary](https://john.colagioia.net/blog/2020/11/22/replybrary.html)|Sun Nov 22 2020|
 |[Free Culture Book Club — The Journey to Thelio](https://john.colagioia.net/blog/2020/11/21/thelio.html)|Sat Nov 21 2020|
 |[Tweets from 11/16 to 11/20](https://john.colagioia.net/blog/media/2020/11/20/week.html)|Fri Nov 20 2020|
-|[Real Life in Star Trek, The Trouble with Tribbles](https://john.colagioia.net/blog/2020/11/19/trouble.html)|Thu Nov 19 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
