@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, A Piece of the Action](https://john.colagioia.net/blog/2020/12/03/action.html)|Thu Dec 03 2020|
 |[Developer Journal, Jonathan Swift’s Birthday](https://john.colagioia.net/blog/2020/11/30/swift.html)|Mon Nov 30 2020|
 |[Free Culture Book Club — Pratham Books, Part 1](https://john.colagioia.net/blog/2020/11/28/pratham.html)|Sat Nov 28 2020|
-|[Tweets from 11/23 to 11/27](https://john.colagioia.net/blog/media/2020/11/27/week.html)|Fri Nov 27 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
