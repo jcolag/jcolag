@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Monkaa](https://john.colagioia.net/blog/2020/12/12/monkaa.html)|Sat Dec 12 2020|
 |[Tweets from 12/07 to 12/11](https://john.colagioia.net/blog/media/2020/12/11/week.html)|Fri Dec 11 2020|
 |[Real Life in Star Trek, The Immunity Syndrome](https://john.colagioia.net/blog/2020/12/10/immunity.html)|Thu Dec 10 2020|
 |[Developer Journal, Willa Cather’s Birthday](https://john.colagioia.net/blog/2020/12/07/cather.html)|Mon Dec 07 2020|
