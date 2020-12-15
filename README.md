@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Zamenhof Eve](https://john.colagioia.net/blog/2020/12/14/zamenhof.html)|Mon Dec 14 2020|
 |[Free Culture Book Club — Monkaa](https://john.colagioia.net/blog/2020/12/12/monkaa.html)|Sat Dec 12 2020|
 |[Tweets from 12/07 to 12/11](https://john.colagioia.net/blog/media/2020/12/11/week.html)|Fri Dec 11 2020|
 |[Real Life in Star Trek, The Immunity Syndrome](https://john.colagioia.net/blog/2020/12/10/immunity.html)|Thu Dec 10 2020|
 |[Developer Journal, Willa Cather’s Birthday](https://john.colagioia.net/blog/2020/12/07/cather.html)|Mon Dec 07 2020|
 |[Free Culture Book Club — Pratham Books, Part 2](https://john.colagioia.net/blog/2020/12/05/pratham.html)|Sat Dec 05 2020|
 |[Tweets from 11/30 to 12/04](https://john.colagioia.net/blog/media/2020/12/04/week.html)|Fri Dec 04 2020|
-|[Real Life in Star Trek, A Piece of the Action](https://john.colagioia.net/blog/2020/12/03/action.html)|Thu Dec 03 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
