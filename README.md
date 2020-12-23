@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, A Private Little War](https://john.colagioia.net/blog/2020/12/17/war.html)|Thu Dec 17 2020|
 |[Developer Journal, Zamenhof Eve](https://john.colagioia.net/blog/2020/12/14/zamenhof.html)|Mon Dec 14 2020|
 |[Free Culture Book Club — Monkaa](https://john.colagioia.net/blog/2020/12/12/monkaa.html)|Sat Dec 12 2020|
-|[Tweets from 12/07 to 12/11](https://john.colagioia.net/blog/media/2020/12/11/week.html)|Fri Dec 11 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
