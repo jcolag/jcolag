@@ -6,11 +6,11 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 12/21 to 12/25](https://john.colagioia.net/blog/media/2020/12/25/week.html)|Fri Dec 25 2020|
 |[Real Life in Star Trek, Return to Tomorrow](https://john.colagioia.net/blog/2020/12/24/return.html)|Thu Dec 24 2020|
 |[Developer Journal, Winter Solstice](https://john.colagioia.net/blog/2020/12/21/solstice.html)|Mon Dec 21 2020|
 |[Free Culture Book Club — Pepper &amp; Carrot, ep. 1–6](https://john.colagioia.net/blog/2020/12/19/pepper.html)|Sat Dec 19 2020|
 |[Tweets from 12/14 to 12/18](https://john.colagioia.net/blog/media/2020/12/18/week.html)|Fri Dec 18 2020|
 |[Real Life in Star Trek, A Private Little War](https://john.colagioia.net/blog/2020/12/17/war.html)|Thu Dec 17 2020|
-|[Developer Journal, Zamenhof Eve](https://john.colagioia.net/blog/2020/12/14/zamenhof.html)|Mon Dec 14 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
