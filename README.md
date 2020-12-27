@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Biodigital, ch 1–13](https://john.colagioia.net/blog/2020/12/26/biodigital.html)|Sat Dec 26 2020|
 |[Tweets from 12/21 to 12/25](https://john.colagioia.net/blog/media/2020/12/25/week.html)|Fri Dec 25 2020|
 |[Real Life in Star Trek, Return to Tomorrow](https://john.colagioia.net/blog/2020/12/24/return.html)|Thu Dec 24 2020|
 |[Developer Journal, Winter Solstice](https://john.colagioia.net/blog/2020/12/21/solstice.html)|Mon Dec 21 2020|
