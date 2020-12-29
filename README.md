@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, End of 2020](https://john.colagioia.net/blog/2020/12/28/yearend.html)|Mon Dec 28 2020|
 |[🔭 Looking Back on 2020](https://john.colagioia.net/blog/2020/12/27/year.html)|Sun Dec 27 2020|
 |[Free Culture Book Club — Biodigital, ch 1–13](https://john.colagioia.net/blog/2020/12/26/biodigital.html)|Sat Dec 26 2020|
 |[Tweets from 12/21 to 12/25](https://john.colagioia.net/blog/media/2020/12/25/week.html)|Fri Dec 25 2020|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Winter Solstice](https://john.colagioia.net/blog/2020/12/21/solstice.html)|Mon Dec 21 2020|
 |[Free Culture Book Club — Pepper &amp; Carrot, ep. 1–6](https://john.colagioia.net/blog/2020/12/19/pepper.html)|Sat Dec 19 2020|
 |[Tweets from 12/14 to 12/18](https://john.colagioia.net/blog/media/2020/12/18/week.html)|Fri Dec 18 2020|
-|[Real Life in Star Trek, A Private Little War](https://john.colagioia.net/blog/2020/12/17/war.html)|Thu Dec 17 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
