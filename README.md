@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Patterns of Force](https://john.colagioia.net/blog/2020/12/31/force.html)|Thu Dec 31 2020|
 |[Developer Journal, End of 2020](https://john.colagioia.net/blog/2020/12/28/yearend.html)|Mon Dec 28 2020|
 |[🔭 Looking Back on 2020](https://john.colagioia.net/blog/2020/12/27/year.html)|Sun Dec 27 2020|
 |[Free Culture Book Club — Biodigital, ch 1–13](https://john.colagioia.net/blog/2020/12/26/biodigital.html)|Sat Dec 26 2020|
