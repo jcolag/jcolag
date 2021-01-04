@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[🍾 Happy Calendar-Changing Day (Belated), 2021 🎆](https://john.colagioia.net/blog/2021/01/03/hny2021.html)|Sun Jan 03 2021|
 |[Free Culture Book Club — Biodigital, ch 14–26](https://john.colagioia.net/blog/2021/01/02/biodigital2.html)|Sat Jan 02 2021|
 |[Tweets from 12/28 to 01/01](https://john.colagioia.net/blog/media/2021/01/01/week.html)|Fri Jan 01 2021|
 |[Real Life in Star Trek, Patterns of Force](https://john.colagioia.net/blog/2020/12/31/force.html)|Thu Dec 31 2020|
