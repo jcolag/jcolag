@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, ⠠⠸⠺⠀⠠⠃⠗⠇⠀⠠⠐⠙](https://john.colagioia.net/blog/2021/01/04/braille.html)|Mon Jan 04 2021|
 |[🍾 Happy Calendar-Changing Day (Belated), 2021 🎆](https://john.colagioia.net/blog/2021/01/03/hny2021.html)|Sun Jan 03 2021|
 |[Free Culture Book Club — Biodigital, ch 14–26](https://john.colagioia.net/blog/2021/01/02/biodigital2.html)|Sat Jan 02 2021|
 |[Tweets from 12/28 to 01/01](https://john.colagioia.net/blog/media/2021/01/01/week.html)|Fri Jan 01 2021|
@@ -14,6 +15,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[🔭 Looking Back on 2020](https://john.colagioia.net/blog/2020/12/27/year.html)|Sun Dec 27 2020|
 |[Free Culture Book Club — Biodigital, ch 1–13](https://john.colagioia.net/blog/2020/12/26/biodigital.html)|Sat Dec 26 2020|
 |[Tweets from 12/21 to 12/25](https://john.colagioia.net/blog/media/2020/12/25/week.html)|Fri Dec 25 2020|
-|[Real Life in Star Trek, Return to Tomorrow](https://john.colagioia.net/blog/2020/12/24/return.html)|Thu Dec 24 2020|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
