@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[…Perchance to Dream](https://john.colagioia.net/blog/2021/01/10/sleep.html)|Sun Jan 10 2021|
 |[Free Culture Book Club — Biodigital, ch 27–39](https://john.colagioia.net/blog/2021/01/09/biodigital3.html)|Sat Jan 09 2021|
 |[Tweets from 01/04 to 01/08](https://john.colagioia.net/blog/media/2021/01/08/week.html)|Fri Jan 08 2021|
 |[Real Life in Star Trek, By Any Other Name](https://john.colagioia.net/blog/2021/01/07/any-name.html)|Thu Jan 07 2021|
