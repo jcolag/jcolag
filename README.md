@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The Parler Problem](https://john.colagioia.net/blog/2021/01/17/social-media.html)|Sun Jan 17 2021|
 |[Free Culture Book Club — Biodigital, ch 40–52](https://john.colagioia.net/blog/2021/01/16/biodigital4.html)|Sat Jan 16 2021|
 |[Tweets from 01/11 to 01/15](https://john.colagioia.net/blog/media/2021/01/15/week.html)|Fri Jan 15 2021|
 |[Real Life in Star Trek, The Omega Glory](https://john.colagioia.net/blog/2021/01/14/omega.html)|Thu Jan 14 2021|
