@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Martin Luther King Jr. Day](https://john.colagioia.net/blog/2021/01/18/king.html)|Mon Jan 18 2021|
 |[The Parler Problem](https://john.colagioia.net/blog/2021/01/17/social-media.html)|Sun Jan 17 2021|
 |[Free Culture Book Club — Biodigital, ch 40–52](https://john.colagioia.net/blog/2021/01/16/biodigital4.html)|Sat Jan 16 2021|
 |[Tweets from 01/11 to 01/15](https://john.colagioia.net/blog/media/2021/01/15/week.html)|Fri Jan 15 2021|
@@ -14,6 +15,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[…Perchance to Dream](https://john.colagioia.net/blog/2021/01/10/sleep.html)|Sun Jan 10 2021|
 |[Free Culture Book Club — Biodigital, ch 27–39](https://john.colagioia.net/blog/2021/01/09/biodigital3.html)|Sat Jan 09 2021|
 |[Tweets from 01/04 to 01/08](https://john.colagioia.net/blog/media/2021/01/08/week.html)|Fri Jan 08 2021|
-|[Real Life in Star Trek, By Any Other Name](https://john.colagioia.net/blog/2021/01/07/any-name.html)|Thu Jan 07 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
