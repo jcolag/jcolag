@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Bread and Circuses](https://john.colagioia.net/blog/2021/01/28/bread.html)|Thu Jan 28 2021|
 |[How Long Will That Project Take?](https://john.colagioia.net/blog/2021/01/27/estimate.html)|Wed Jan 27 2021|
 |[Developer Journal, Home for Nellie Bly](https://john.colagioia.net/blog/2021/01/25/bly72.html)|Mon Jan 25 2021|
 |[Free Culture Book Club — Biodigital, ch 53–end](https://john.colagioia.net/blog/2021/01/23/biodigital5.html)|Sat Jan 23 2021|
 |[Tweets from 01/18 to 01/22](https://john.colagioia.net/blog/media/2021/01/22/week.html)|Fri Jan 22 2021|
 |[Real Life in Star Trek, The Ultimate Computer](https://john.colagioia.net/blog/2021/01/21/ultimate.html)|Thu Jan 21 2021|
 |[Developer Journal, Martin Luther King Jr. Day](https://john.colagioia.net/blog/2021/01/18/king.html)|Mon Jan 18 2021|
-|[The Parler Problem](https://john.colagioia.net/blog/2021/01/17/social-media.html)|Sun Jan 17 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
