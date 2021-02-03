@@ -13,6 +13,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[How Long Will That Project Take?](https://john.colagioia.net/blog/2021/01/27/estimate.html)|Wed Jan 27 2021|
 |[Developer Journal, Home for Nellie Bly](https://john.colagioia.net/blog/2021/01/25/bly72.html)|Mon Jan 25 2021|
 |[Free Culture Book Club — Biodigital, ch 53–end](https://john.colagioia.net/blog/2021/01/23/biodigital5.html)|Sat Jan 23 2021|
-|[Tweets from 01/18 to 01/22](https://john.colagioia.net/blog/media/2021/01/22/week.html)|Fri Jan 22 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
