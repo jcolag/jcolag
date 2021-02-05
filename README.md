@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Assignment∶ Earth](https://john.colagioia.net/blog/2021/02/04/earth.html)|Thu Feb 04 2021|
 |[Developer Journal, National Freedom Day](https://john.colagioia.net/blog/2021/02/01/freedom.html)|Mon Feb 01 2021|
 |[Free Culture Book Club — Continuity Drift](https://john.colagioia.net/blog/2021/01/30/drift.html)|Sat Jan 30 2021|
 |[Tweets from 01/25 to 01/29](https://john.colagioia.net/blog/media/2021/01/29/week.html)|Fri Jan 29 2021|
