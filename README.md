@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Uncle Nagy’s House](https://john.colagioia.net/blog/2021/02/06/nagy.html)|Sat Feb 06 2021|
 |[Tweets from 02/01 to 02/05](https://john.colagioia.net/blog/media/2021/02/05/week.html)|Fri Feb 05 2021|
 |[Real Life in Star Trek, Assignment∶ Earth](https://john.colagioia.net/blog/2021/02/04/earth.html)|Thu Feb 04 2021|
 |[Developer Journal, National Freedom Day](https://john.colagioia.net/blog/2021/02/01/freedom.html)|Mon Feb 01 2021|
