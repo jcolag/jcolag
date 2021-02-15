@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[An Unexpected Case for Reparations](https://john.colagioia.net/blog/2021/02/14/reparations.html)|Sun Feb 14 2021|
 |[Free Culture Book Club — The Wanderers’ Library](https://john.colagioia.net/blog/2021/02/13/wanderers.html)|Sat Feb 13 2021|
 |[Tweets from 02/08 to 02/12](https://john.colagioia.net/blog/media/2021/02/12/week.html)|Fri Feb 12 2021|
 |[Real Life in Star Trek, Season 2 Summary](https://john.colagioia.net/blog/2021/02/11/season2.html)|Thu Feb 11 2021|
