@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Presidents’ Day](https://john.colagioia.net/blog/2021/02/15/president.html)|Mon Feb 15 2021|
 |[An Unexpected Case for Reparations](https://john.colagioia.net/blog/2021/02/14/reparations.html)|Sun Feb 14 2021|
 |[Free Culture Book Club — The Wanderers’ Library](https://john.colagioia.net/blog/2021/02/13/wanderers.html)|Sat Feb 13 2021|
 |[Tweets from 02/08 to 02/12](https://john.colagioia.net/blog/media/2021/02/12/week.html)|Fri Feb 12 2021|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Mendeleev’s Birthday](https://john.colagioia.net/blog/2021/02/08/mendeleev.html)|Mon Feb 08 2021|
 |[Free Culture Book Club — Uncle Nagy’s House](https://john.colagioia.net/blog/2021/02/06/nagy.html)|Sat Feb 06 2021|
 |[Tweets from 02/01 to 02/05](https://john.colagioia.net/blog/media/2021/02/05/week.html)|Fri Feb 05 2021|
-|[Real Life in Star Trek, Assignment∶ Earth](https://john.colagioia.net/blog/2021/02/04/earth.html)|Thu Feb 04 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
