@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Spock’s Brain](https://john.colagioia.net/blog/2021/02/18/brain.html)|Thu Feb 18 2021|
 |[Developer Journal, Presidents’ Day](https://john.colagioia.net/blog/2021/02/15/president.html)|Mon Feb 15 2021|
 |[An Unexpected Case for Reparations](https://john.colagioia.net/blog/2021/02/14/reparations.html)|Sun Feb 14 2021|
 |[Free Culture Book Club — The Wanderers’ Library](https://john.colagioia.net/blog/2021/02/13/wanderers.html)|Sat Feb 13 2021|
