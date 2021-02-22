@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Daily Nonogram](https://john.colagioia.net/blog/2021/02/21/nonogram.html)|Sun Feb 21 2021|
 |[Free Culture Book Club — Phill from GCHQ](https://john.colagioia.net/blog/2021/02/20/phill.html)|Sat Feb 20 2021|
 |[Tweets from 02/15 to 02/19](https://john.colagioia.net/blog/media/2021/02/19/week.html)|Fri Feb 19 2021|
 |[Real Life in Star Trek, Spock’s Brain](https://john.colagioia.net/blog/2021/02/18/brain.html)|Thu Feb 18 2021|
