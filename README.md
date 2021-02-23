@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Northwest States Anniversary](https://john.colagioia.net/blog/2021/02/22/northwest.html)|Mon Feb 22 2021|
 |[Daily Nonogram](https://john.colagioia.net/blog/2021/02/21/nonogram.html)|Sun Feb 21 2021|
 |[Free Culture Book Club — Phill from GCHQ](https://john.colagioia.net/blog/2021/02/20/phill.html)|Sat Feb 20 2021|
 |[Tweets from 02/15 to 02/19](https://john.colagioia.net/blog/media/2021/02/19/week.html)|Fri Feb 19 2021|
@@ -14,6 +15,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[An Unexpected Case for Reparations](https://john.colagioia.net/blog/2021/02/14/reparations.html)|Sun Feb 14 2021|
 |[Free Culture Book Club — The Wanderers’ Library](https://john.colagioia.net/blog/2021/02/13/wanderers.html)|Sat Feb 13 2021|
 |[Tweets from 02/08 to 02/12](https://john.colagioia.net/blog/media/2021/02/12/week.html)|Fri Feb 12 2021|
-|[Real Life in Star Trek, Season 2 Summary](https://john.colagioia.net/blog/2021/02/11/season2.html)|Thu Feb 11 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
