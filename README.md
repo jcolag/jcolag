@@ -13,6 +13,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Enterprise Incident](https://john.colagioia.net/blog/2021/02/25/incident.html)|Thu Feb 25 2021|
 |[Developer Journal, Northwest States Anniversary](https://john.colagioia.net/blog/2021/02/22/northwest.html)|Mon Feb 22 2021|
 |[Daily Nonogram](https://john.colagioia.net/blog/2021/02/21/nonogram.html)|Sun Feb 21 2021|
-|[Free Culture Book Club — Phill from GCHQ](https://john.colagioia.net/blog/2021/02/20/phill.html)|Sat Feb 20 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
