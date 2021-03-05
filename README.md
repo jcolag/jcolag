@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Paradise Syndrome](https://john.colagioia.net/blog/2021/03/04/syndrome.html)|Thu Mar 04 2021|
 |[Developer Journal, Self-Injury Awareness Day](https://john.colagioia.net/blog/2021/03/01/injury.html)|Mon Mar 01 2021|
 |[Explaining Gender to the Biased](https://john.colagioia.net/blog/2021/02/28/genders.html)|Sun Feb 28 2021|
 |[Free Culture Book Club — The Spiraling Web, Part 1](https://john.colagioia.net/blog/2021/02/27/spiraling1.html)|Sat Feb 27 2021|
 |[Tweets from 02/22 to 02/26](https://john.colagioia.net/blog/media/2021/02/26/week.html)|Fri Feb 26 2021|
 |[Real Life in Star Trek, The Enterprise Incident](https://john.colagioia.net/blog/2021/02/25/incident.html)|Thu Feb 25 2021|
 |[Developer Journal, Northwest States Anniversary](https://john.colagioia.net/blog/2021/02/22/northwest.html)|Mon Feb 22 2021|
-|[Daily Nonogram](https://john.colagioia.net/blog/2021/02/21/nonogram.html)|Sun Feb 21 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
