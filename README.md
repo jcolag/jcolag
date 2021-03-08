@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Superheroes and Race](https://john.colagioia.net/blog/2021/03/07/super.html)|Sun Mar 07 2021|
 |[Free Culture Book Club — The Spiraling Web, Part 2](https://john.colagioia.net/blog/2021/03/06/spiraling2.html)|Sat Mar 06 2021|
 |[Tweets from 03/01 to 03/05](https://john.colagioia.net/blog/media/2021/03/05/week.html)|Fri Mar 05 2021|
 |[Real Life in Star Trek, The Paradise Syndrome](https://john.colagioia.net/blog/2021/03/04/syndrome.html)|Thu Mar 04 2021|
