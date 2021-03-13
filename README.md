@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
-|[Real Life in Star Trek, And the Children Shall Lead](https://domain.invalid/blog/2021/03/11/children.html)|Thu Mar 11 2021|
-|[Developer Journal, International Women’s Day](https://domain.invalid/blog/2021/03/08/women.html)|Mon Mar 08 2021|
-|[Superheroes and Race](https://domain.invalid/blog/2021/03/07/super.html)|Sun Mar 07 2021|
-|[Free Culture Book Club — The Spiraling Web, Part 2](https://domain.invalid/blog/2021/03/06/spiraling2.html)|Sat Mar 06 2021|
-|[Tweets from 03/01 to 03/05](https://domain.invalid/blog/media/2021/03/05/week.html)|Fri Mar 05 2021|
-|[Real Life in Star Trek, The Paradise Syndrome](https://domain.invalid/blog/2021/03/04/syndrome.html)|Thu Mar 04 2021|
-|[Developer Journal, Self-Injury Awareness Day](https://domain.invalid/blog/2021/03/01/injury.html)|Mon Mar 01 2021|
+|[Tweets from 03/08 to 03/12](https://john.colagioia.net/blog/media/2021/03/12/week.html)|Fri Mar 12 2021|
+|[Real Life in Star Trek, And the Children Shall Lead](https://john.colagioia.net/blog/2021/03/11/children.html)|Thu Mar 11 2021|
+|[Developer Journal, International Women’s Day](https://john.colagioia.net/blog/2021/03/08/women.html)|Mon Mar 08 2021|
+|[Superheroes and Race](https://john.colagioia.net/blog/2021/03/07/super.html)|Sun Mar 07 2021|
+|[Free Culture Book Club — The Spiraling Web, Part 2](https://john.colagioia.net/blog/2021/03/06/spiraling2.html)|Sat Mar 06 2021|
+|[Tweets from 03/01 to 03/05](https://john.colagioia.net/blog/media/2021/03/05/week.html)|Fri Mar 05 2021|
+|[Real Life in Star Trek, The Paradise Syndrome](https://john.colagioia.net/blog/2021/03/04/syndrome.html)|Thu Mar 04 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
