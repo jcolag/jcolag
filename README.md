@@ -13,6 +13,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, International Women’s Day](https://john.colagioia.net/blog/2021/03/08/women.html)|Mon Mar 08 2021|
 |[Superheroes and Race](https://john.colagioia.net/blog/2021/03/07/super.html)|Sun Mar 07 2021|
 |[Free Culture Book Club — The Spiraling Web, Part 2](https://john.colagioia.net/blog/2021/03/06/spiraling2.html)|Sat Mar 06 2021|
-|[Tweets from 03/01 to 03/05](https://john.colagioia.net/blog/media/2021/03/05/week.html)|Fri Mar 05 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
