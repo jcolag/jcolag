@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Asian Women in Fiction](https://john.colagioia.net/blog/2021/03/21/asian.html)|Sun Mar 21 2021|
 |[Free Culture Book Club — The Spiraling Web, Part 4](https://john.colagioia.net/blog/2021/03/20/spiraling4.html)|Sat Mar 20 2021|
 |[Tweets from 03/15 to 03/19](https://john.colagioia.net/blog/media/2021/03/19/week.html)|Fri Mar 19 2021|
 |[Real Life in Star Trek, Is There in Truth No Beauty?](https://john.colagioia.net/blog/2021/03/18/beauty.html)|Thu Mar 18 2021|
