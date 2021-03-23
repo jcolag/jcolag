@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, World Water Day](https://john.colagioia.net/blog/2021/03/22/water.html)|Mon Mar 22 2021|
 |[Asian Women in Fiction](https://john.colagioia.net/blog/2021/03/21/asian.html)|Sun Mar 21 2021|
 |[Free Culture Book Club — The Spiraling Web, Part 4](https://john.colagioia.net/blog/2021/03/20/spiraling4.html)|Sat Mar 20 2021|
 |[Tweets from 03/15 to 03/19](https://john.colagioia.net/blog/media/2021/03/19/week.html)|Fri Mar 19 2021|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Day against Police Brutality](https://john.colagioia.net/blog/2021/03/15/police.html)|Mon Mar 15 2021|
 |[Free Culture Book Club — The Spiraling Web, Part 3](https://john.colagioia.net/blog/2021/03/13/spiraling3.html)|Sat Mar 13 2021|
 |[Tweets from 03/08 to 03/12](https://john.colagioia.net/blog/media/2021/03/12/week.html)|Fri Mar 12 2021|
-|[Real Life in Star Trek, And the Children Shall Lead](https://john.colagioia.net/blog/2021/03/11/children.html)|Thu Mar 11 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
