@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Spectre of the Gun](https://john.colagioia.net/blog/2021/03/25/spectre.html)|Thu Mar 25 2021|
 |[Assembling a Dark Mode](https://john.colagioia.net/blog/2021/03/24/darkmode.html)|Wed Mar 24 2021|
 |[Developer Journal, World Water Day](https://john.colagioia.net/blog/2021/03/22/water.html)|Mon Mar 22 2021|
 |[Asian Women in Fiction](https://john.colagioia.net/blog/2021/03/21/asian.html)|Sun Mar 21 2021|
