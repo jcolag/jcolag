@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Valkaama](https://john.colagioia.net/blog/2021/03/27/valkaama.html)|Sat Mar 27 2021|
 |[Tweets from 03/22 to 03/26](https://john.colagioia.net/blog/media/2021/03/26/week.html)|Fri Mar 26 2021|
 |[Real Life in Star Trek, Spectre of the Gun](https://john.colagioia.net/blog/2021/03/25/spectre.html)|Thu Mar 25 2021|
 |[Assembling a Dark Mode](https://john.colagioia.net/blog/2021/03/24/darkmode.html)|Wed Mar 24 2021|
