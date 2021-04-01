@@ -14,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Assembling a Dark Mode](https://john.colagioia.net/blog/2021/03/24/darkmode.html)|Wed Mar 24 2021|
 |[Developer Journal, World Water Day](https://john.colagioia.net/blog/2021/03/22/water.html)|Mon Mar 22 2021|
 |[Asian Women in Fiction](https://john.colagioia.net/blog/2021/03/21/asian.html)|Sun Mar 21 2021|
-|[Free Culture Book Club — The Spiraling Web, Part 4](https://john.colagioia.net/blog/2021/03/20/spiraling4.html)|Sat Mar 20 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
