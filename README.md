@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Day of the Dove](https://john.colagioia.net/blog/2021/04/01/dove.html)|Thu Apr 01 2021|
 |[Developer Journal, National Doctors’ Eve](https://john.colagioia.net/blog/2021/03/29/doctors.html)|Mon Mar 29 2021|
 |[Calafia, Queen of California](https://john.colagioia.net/blog/2021/03/28/calafia.html)|Sun Mar 28 2021|
 |[Free Culture Book Club — Valkaama](https://john.colagioia.net/blog/2021/03/27/valkaama.html)|Sat Mar 27 2021|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Spectre of the Gun](https://john.colagioia.net/blog/2021/03/25/spectre.html)|Thu Mar 25 2021|
 |[Assembling a Dark Mode](https://john.colagioia.net/blog/2021/03/24/darkmode.html)|Wed Mar 24 2021|
 |[Developer Journal, World Water Day](https://john.colagioia.net/blog/2021/03/22/water.html)|Mon Mar 22 2021|
-|[Asian Women in Fiction](https://john.colagioia.net/blog/2021/03/21/asian.html)|Sun Mar 21 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
