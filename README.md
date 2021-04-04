@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — A Dark Room](https://john.colagioia.net/blog/2021/04/03/darkroom.html)|Sat Apr 03 2021|
 |[Tweets from 03/29 to 04/02](https://john.colagioia.net/blog/media/2021/04/02/week.html)|Fri Apr 02 2021|
 |[Real Life in Star Trek, Day of the Dove](https://john.colagioia.net/blog/2021/04/01/dove.html)|Thu Apr 01 2021|
 |[Developer Journal, National Doctors’ Eve](https://john.colagioia.net/blog/2021/03/29/doctors.html)|Mon Mar 29 2021|
