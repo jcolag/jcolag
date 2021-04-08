@@ -13,6 +13,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Day of the Dove](https://john.colagioia.net/blog/2021/04/01/dove.html)|Thu Apr 01 2021|
 |[Developer Journal, National Doctors’ Eve](https://john.colagioia.net/blog/2021/03/29/doctors.html)|Mon Mar 29 2021|
 |[Calafia, Queen of California](https://john.colagioia.net/blog/2021/03/28/calafia.html)|Sun Mar 28 2021|
-|[Free Culture Book Club — Valkaama](https://john.colagioia.net/blog/2021/03/27/valkaama.html)|Sat Mar 27 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
