@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Moses und Aron, ch 1-3](https://john.colagioia.net/blog/2021/04/17/moses1.html)|Sat Apr 17 2021|
 |[Tweets from 04/12 to 04/16](https://john.colagioia.net/blog/media/2021/04/16/week.html)|Fri Apr 16 2021|
 |[Real Life in Star Trek, The Tholian Web](https://john.colagioia.net/blog/2021/04/15/tholian.html)|Thu Apr 15 2021|
 |[Developer Journal, Yuri’s Night](https://john.colagioia.net/blog/2021/04/12/yuri.html)|Mon Apr 12 2021|
