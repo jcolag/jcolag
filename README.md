@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Tholian Web](https://john.colagioia.net/blog/2021/04/15/tholian.html)|Thu Apr 15 2021|
 |[Developer Journal, Yuri’s Night](https://john.colagioia.net/blog/2021/04/12/yuri.html)|Mon Apr 12 2021|
 |[Free Culture Book Club — The Fellowship of Heroes](https://john.colagioia.net/blog/2021/04/10/fellowship.html)|Sat Apr 10 2021|
-|[Tweets from 04/05 to 04/09](https://john.colagioia.net/blog/media/2021/04/09/week.html)|Fri Apr 09 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
