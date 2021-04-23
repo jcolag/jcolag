@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Plato’s Stepchildren](https://john.colagioia.net/blog/2021/04/22/plato.html)|Thu Apr 22 2021|
 |[Developer Journal, Patriots’ Day](https://john.colagioia.net/blog/2021/04/19/patriot.html)|Mon Apr 19 2021|
 |[Free Culture Book Club — Moses und Aron, ch 1-3](https://john.colagioia.net/blog/2021/04/17/moses1.html)|Sat Apr 17 2021|
 |[Tweets from 04/12 to 04/16](https://john.colagioia.net/blog/media/2021/04/16/week.html)|Fri Apr 16 2021|
