@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Old Permic Alphabet Day](https://john.colagioia.net/blog/2021/04/26/permic.html)|Mon Apr 26 2021|
 |[Announcing All Around the News](https://john.colagioia.net/blog/2021/04/25/aatn.html)|Sun Apr 25 2021|
 |[Free Culture Book Club — Moses und Aron, ch 4-6](https://john.colagioia.net/blog/2021/04/24/moses2.html)|Sat Apr 24 2021|
 |[Tweets from 04/19 to 04/23](https://john.colagioia.net/blog/media/2021/04/23/week.html)|Fri Apr 23 2021|
@@ -13,6 +14,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Patriots’ Day](https://john.colagioia.net/blog/2021/04/19/patriot.html)|Mon Apr 19 2021|
 |[Free Culture Book Club — Moses und Aron, ch 1-3](https://john.colagioia.net/blog/2021/04/17/moses1.html)|Sat Apr 17 2021|
 |[Tweets from 04/12 to 04/16](https://john.colagioia.net/blog/media/2021/04/16/week.html)|Fri Apr 16 2021|
-|[Real Life in Star Trek, The Tholian Web](https://john.colagioia.net/blog/2021/04/15/tholian.html)|Thu Apr 15 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
