@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 04/19 to 04/23](https://john.colagioia.net/blog/media/2021/04/23/week.html)|Fri Apr 23 2021|
 |[Real Life in Star Trek, Plato’s Stepchildren](https://john.colagioia.net/blog/2021/04/22/plato.html)|Thu Apr 22 2021|
 |[Developer Journal, Patriots’ Day](https://john.colagioia.net/blog/2021/04/19/patriot.html)|Mon Apr 19 2021|
-|[Free Culture Book Club — Moses und Aron, ch 1-3](https://john.colagioia.net/blog/2021/04/17/moses1.html)|Sat Apr 17 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
