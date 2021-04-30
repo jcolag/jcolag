@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Wink of an Eye](https://john.colagioia.net/blog/2021/04/29/wink.html)|Thu Apr 29 2021|
 |[Developer Journal, Old Permic Alphabet Day](https://john.colagioia.net/blog/2021/04/26/permic.html)|Mon Apr 26 2021|
 |[Announcing All Around the News](https://john.colagioia.net/blog/2021/04/25/aatn.html)|Sun Apr 25 2021|
 |[Free Culture Book Club — Moses und Aron, ch 4-6](https://john.colagioia.net/blog/2021/04/24/moses2.html)|Sat Apr 24 2021|
