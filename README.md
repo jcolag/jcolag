@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Media Websites Wanted…](https://john.colagioia.net/blog/2021/05/02/wanted.html)|Sun May 02 2021|
 |[Free Culture Book Club — Moses und Aron, ch 7-9](https://john.colagioia.net/blog/2021/05/01/moses3.html)|Sat May 01 2021|
 |[Tweets from 04/26 to 04/30](https://john.colagioia.net/blog/media/2021/04/30/week.html)|Fri Apr 30 2021|
 |[Real Life in Star Trek, Wink of an Eye](https://john.colagioia.net/blog/2021/04/29/wink.html)|Thu Apr 29 2021|
