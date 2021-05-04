@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, World Press Freedom Day](https://john.colagioia.net/blog/2021/05/03/press.html)|Mon May 03 2021|
 |[Media Websites Wanted…](https://john.colagioia.net/blog/2021/05/02/wanted.html)|Sun May 02 2021|
 |[Free Culture Book Club — Moses und Aron, ch 7-9](https://john.colagioia.net/blog/2021/05/01/moses3.html)|Sat May 01 2021|
 |[Tweets from 04/26 to 04/30](https://john.colagioia.net/blog/media/2021/04/30/week.html)|Fri Apr 30 2021|
@@ -14,6 +15,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Announcing All Around the News](https://john.colagioia.net/blog/2021/04/25/aatn.html)|Sun Apr 25 2021|
 |[Free Culture Book Club — Moses und Aron, ch 4-6](https://john.colagioia.net/blog/2021/04/24/moses2.html)|Sat Apr 24 2021|
 |[Tweets from 04/19 to 04/23](https://john.colagioia.net/blog/media/2021/04/23/week.html)|Fri Apr 23 2021|
-|[Real Life in Star Trek, Plato’s Stepchildren](https://john.colagioia.net/blog/2021/04/22/plato.html)|Thu Apr 22 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
