@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Moses und Aron, ch 10-13](https://john.colagioia.net/blog/2021/05/08/moses4.html)|Sat May 08 2021|
 |[Tweets from 05/03 to 05/07](https://john.colagioia.net/blog/media/2021/05/07/week.html)|Fri May 07 2021|
 |[Real Life in Star Trek, The Empath](https://john.colagioia.net/blog/2021/05/06/empath.html)|Thu May 06 2021|
 |[Developer Journal, World Press Freedom Day](https://john.colagioia.net/blog/2021/05/03/press.html)|Mon May 03 2021|
