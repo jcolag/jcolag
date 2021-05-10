@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Belated FSF Discussion](https://john.colagioia.net/blog/2021/05/09/fsf.html)|Sun May 09 2021|
 |[Free Culture Book Club — Moses und Aron, ch 10-13](https://john.colagioia.net/blog/2021/05/08/moses4.html)|Sat May 08 2021|
 |[Tweets from 05/03 to 05/07](https://john.colagioia.net/blog/media/2021/05/07/week.html)|Fri May 07 2021|
 |[Real Life in Star Trek, The Empath](https://john.colagioia.net/blog/2021/05/06/empath.html)|Thu May 06 2021|
