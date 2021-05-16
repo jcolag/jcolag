@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — FSF Propaganda Videos](https://john.colagioia.net/blog/2021/05/15/fsf.html)|Sat May 15 2021|
 |[Tweets from 05/10 to 05/14](https://john.colagioia.net/blog/media/2021/05/14/week.html)|Fri May 14 2021|
 |[Real Life in Star Trek, Elaan of Troyius](https://john.colagioia.net/blog/2021/05/13/elaan.html)|Thu May 13 2021|
 |[Developer Journal, Golden Spike Day](https://john.colagioia.net/blog/2021/05/10/spike.html)|Mon May 10 2021|
