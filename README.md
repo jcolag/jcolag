@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Day Against Homophobia (et al)](https://john.colagioia.net/blog/2021/05/17/idahot.html)|Mon May 17 2021|
 |[Explaining Cryptocurrency](https://john.colagioia.net/blog/2021/05/16/crypto.html)|Sun May 16 2021|
 |[Free Culture Book Club — FSF Propaganda Videos](https://john.colagioia.net/blog/2021/05/15/fsf.html)|Sat May 15 2021|
 |[Tweets from 05/10 to 05/14](https://john.colagioia.net/blog/media/2021/05/14/week.html)|Fri May 14 2021|
@@ -14,6 +15,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Belated FSF Discussion](https://john.colagioia.net/blog/2021/05/09/fsf.html)|Sun May 09 2021|
 |[Free Culture Book Club — Moses und Aron, ch 10-13](https://john.colagioia.net/blog/2021/05/08/moses4.html)|Sat May 08 2021|
 |[Tweets from 05/03 to 05/07](https://john.colagioia.net/blog/media/2021/05/07/week.html)|Fri May 07 2021|
-|[Real Life in Star Trek, The Empath](https://john.colagioia.net/blog/2021/05/06/empath.html)|Thu May 06 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
