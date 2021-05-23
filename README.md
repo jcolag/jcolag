@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Ficly](https://john.colagioia.net/blog/2021/05/22/ficly.html)|Sat May 22 2021|
 |[Tweets from 05/17 to 05/21](https://john.colagioia.net/blog/media/2021/05/21/week.html)|Fri May 21 2021|
 |[Real Life in Star Trek, Whom Gods Destroy](https://john.colagioia.net/blog/2021/05/20/gods.html)|Thu May 20 2021|
 |[Developer Journal, Day Against Homophobia (et al)](https://john.colagioia.net/blog/2021/05/17/idahot.html)|Mon May 17 2021|
