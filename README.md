@@ -12,6 +12,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Whom Gods Destroy](https://john.colagioia.net/blog/2021/05/20/gods.html)|Thu May 20 2021|
 |[Developer Journal, Day Against Homophobia (et al)](https://john.colagioia.net/blog/2021/05/17/idahot.html)|Mon May 17 2021|
 |[Explaining Cryptocurrency](https://john.colagioia.net/blog/2021/05/16/crypto.html)|Sun May 16 2021|
-|[Free Culture Book Club — FSF Propaganda Videos](https://john.colagioia.net/blog/2021/05/15/fsf.html)|Sat May 15 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
