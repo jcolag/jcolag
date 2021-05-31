@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Winning the Twenty-First Century](https://john.colagioia.net/blog/2021/05/30/winning.html)|Sun May 30 2021|
 |[Free Culture Book Club — Wilber &amp; Co.](https://john.colagioia.net/blog/2021/05/29/wilber.html)|Sat May 29 2021|
 |[Tweets from 05/24 to 05/28](https://john.colagioia.net/blog/media/2021/05/28/week.html)|Fri May 28 2021|
 |[Real Life in Star Trek, Let That Be Your Last Battlefield](https://john.colagioia.net/blog/2021/05/27/battle.html)|Thu May 27 2021|
