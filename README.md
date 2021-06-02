@@ -13,6 +13,5 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Let That Be Your Last Battlefield](https://john.colagioia.net/blog/2021/05/27/battle.html)|Thu May 27 2021|
 |[Developer Journal, Africa Eve](https://john.colagioia.net/blog/2021/05/24/africa.html)|Mon May 24 2021|
 |[Free Culture Book Club — Ficly](https://john.colagioia.net/blog/2021/05/22/ficly.html)|Sat May 22 2021|
-|[Tweets from 05/17 to 05/21](https://john.colagioia.net/blog/media/2021/05/21/week.html)|Fri May 21 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
