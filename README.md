@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — The House](https://john.colagioia.net/blog/2021/06/05/house.html)|Sat Jun 05 2021|
 |[Tweets from 05/31 to 06/04](https://john.colagioia.net/blog/media/2021/06/04/week.html)|Fri Jun 04 2021|
 |[Real Life in Star Trek, The Mark of Gideon](https://john.colagioia.net/blog/2021/06/03/gideon.html)|Thu Jun 03 2021|
 |[Developer Journal, Memorial Day](https://john.colagioia.net/blog/2021/05/31/memorial.html)|Mon May 31 2021|
