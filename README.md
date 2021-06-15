@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, World Blood Donor Day](https://john.colagioia.net/blog/2021/06/14/blood.html)|Mon Jun 14 2021|
 |[Managing Priorities](https://john.colagioia.net/blog/2021/06/13/priorities.html)|Sun Jun 13 2021|
 |[Free Culture Book Club — Boris Munchausen](https://john.colagioia.net/blog/2021/06/12/boris.html)|Sat Jun 12 2021|
 |[Tweets from 06/07 to 06/11](https://john.colagioia.net/blog/media/2021/06/11/week.html)|Fri Jun 11 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Do the Work](https://john.colagioia.net/blog/2021/06/06/do-work.html)|Sun Jun 06 2021|
 |[Free Culture Book Club — The House](https://john.colagioia.net/blog/2021/06/05/house.html)|Sat Jun 05 2021|
 |[Tweets from 05/31 to 06/04](https://john.colagioia.net/blog/media/2021/06/04/week.html)|Fri Jun 04 2021|
-|[Real Life in Star Trek, The Mark of Gideon](https://john.colagioia.net/blog/2021/06/03/gideon.html)|Thu Jun 03 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
@@ -24,7 +24,7 @@ Here are some visualizations for my purposes, which you can feel free to skip.
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=jcolag&show_icons=true&locale=en&layout=compact&exclude_repo=ComicScanner,bisheng&langs_count=8 "Top languages")
 ![](https://github-readme-stats.vercel.app/api?username=jcolag&show_icons=true&locale=en "Statistics")
 ![](https://github-profile-trophy.vercel.app/?username=jcolag&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies")
-![](https://komarev.com/ghpvc/?username=jcolag "Safe to ignore")
+![](https://komarev.com/ghpvc/?username=jcolag "Profile views since 2021 June 07 or so; safe to ignore")
 
 And if you would like to help fund some of this weirdness, I won't turn away anyone who wants to...
 

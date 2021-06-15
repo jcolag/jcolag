@@ -16,7 +16,7 @@ Here are some visualizations for my purposes, which you can feel free to skip.
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=jcolag&show_icons=true&locale=en&layout=compact&exclude_repo=ComicScanner,bisheng&langs_count=8 "Top languages")
 ![](https://github-readme-stats.vercel.app/api?username=jcolag&show_icons=true&locale=en "Statistics")
 ![](https://github-profile-trophy.vercel.app/?username=jcolag&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies")
-![](https://komarev.com/ghpvc/?username=jcolag "Safe to ignore")
+![](https://komarev.com/ghpvc/?username=jcolag "Profile views since 2021 June 07 or so; safe to ignore")
 
 And if you would like to help fund some of this weirdness, I won't turn away anyone who wants to...
 
