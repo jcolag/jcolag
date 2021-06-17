@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, That Which Survives](https://john.colagioia.net/blog/2021/06/10/survive.html)|Thu Jun 10 2021|
 |[Developer Journal, Ludi Piscatorii](https://john.colagioia.net/blog/2021/06/07/piscatorii.html)|Mon Jun 07 2021|
 |[Do the Work](https://john.colagioia.net/blog/2021/06/06/do-work.html)|Sun Jun 06 2021|
-|[Free Culture Book Club — The House](https://john.colagioia.net/blog/2021/06/05/house.html)|Sat Jun 05 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
