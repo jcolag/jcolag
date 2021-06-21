@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[First Official Juneteenth](https://john.colagioia.net/blog/2021/06/20/juneteenth.html)|Sun Jun 20 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 1-4](https://john.colagioia.net/blog/2021/06/19/solitudes1.html)|Sat Jun 19 2021|
 |[Tweets from 06/14 to 06/18](https://john.colagioia.net/blog/media/2021/06/18/week.html)|Fri Jun 18 2021|
 |[Real Life in Star Trek, The Lights of Zetar](https://john.colagioia.net/blog/2021/06/17/zetar.html)|Thu Jun 17 2021|
