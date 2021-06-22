@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, World Humanist Day](https://john.colagioia.net/blog/2021/06/21/humanist.html)|Mon Jun 21 2021|
 |[First Official Juneteenth](https://john.colagioia.net/blog/2021/06/20/juneteenth.html)|Sun Jun 20 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 1-4](https://john.colagioia.net/blog/2021/06/19/solitudes1.html)|Sat Jun 19 2021|
 |[Tweets from 06/14 to 06/18](https://john.colagioia.net/blog/media/2021/06/18/week.html)|Fri Jun 18 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Managing Priorities](https://john.colagioia.net/blog/2021/06/13/priorities.html)|Sun Jun 13 2021|
 |[Free Culture Book Club — Boris Munchausen](https://john.colagioia.net/blog/2021/06/12/boris.html)|Sat Jun 12 2021|
 |[Tweets from 06/07 to 06/11](https://john.colagioia.net/blog/media/2021/06/11/week.html)|Fri Jun 11 2021|
-|[Real Life in Star Trek, That Which Survives](https://john.colagioia.net/blog/2021/06/10/survive.html)|Thu Jun 10 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
