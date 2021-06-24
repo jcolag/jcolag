@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Lights of Zetar](https://john.colagioia.net/blog/2021/06/17/zetar.html)|Thu Jun 17 2021|
 |[Developer Journal, World Blood Donor Day](https://john.colagioia.net/blog/2021/06/14/blood.html)|Mon Jun 14 2021|
 |[Managing Priorities](https://john.colagioia.net/blog/2021/06/13/priorities.html)|Sun Jun 13 2021|
-|[Free Culture Book Club — Boris Munchausen](https://john.colagioia.net/blog/2021/06/12/boris.html)|Sat Jun 12 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
