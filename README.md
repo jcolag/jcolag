@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Attracting Job Candidates](https://john.colagioia.net/blog/2021/06/27/hiring.html)|Sun Jun 27 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 5-9](https://john.colagioia.net/blog/2021/06/26/solitudes2.html)|Sat Jun 26 2021|
 |[Tweets from 06/21 to 06/25](https://john.colagioia.net/blog/media/2021/06/25/week.html)|Fri Jun 25 2021|
 |[Real Life in Star Trek, Requiem for Methuselah](https://john.colagioia.net/blog/2021/06/24/methuselah.html)|Thu Jun 24 2021|
