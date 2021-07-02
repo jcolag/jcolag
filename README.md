@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Way to Eden](https://john.colagioia.net/blog/2021/07/01/eden.html)|Thu Jul 01 2021|
 |[Developer Journal, Stonewall Uprising](https://john.colagioia.net/blog/2021/06/28/stonewall.html)|Mon Jun 28 2021|
 |[Attracting Job Candidates](https://john.colagioia.net/blog/2021/06/27/hiring.html)|Sun Jun 27 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 5-9](https://john.colagioia.net/blog/2021/06/26/solitudes2.html)|Sat Jun 26 2021|
 |[Tweets from 06/21 to 06/25](https://john.colagioia.net/blog/media/2021/06/25/week.html)|Fri Jun 25 2021|
 |[Real Life in Star Trek, Requiem for Methuselah](https://john.colagioia.net/blog/2021/06/24/methuselah.html)|Thu Jun 24 2021|
 |[Developer Journal, World Humanist Day](https://john.colagioia.net/blog/2021/06/21/humanist.html)|Mon Jun 21 2021|
-|[First Official Juneteenth](https://john.colagioia.net/blog/2021/06/20/juneteenth.html)|Sun Jun 20 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
