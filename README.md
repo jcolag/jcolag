@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Solitudes and Silence, ch 10-14](https://john.colagioia.net/blog/2021/07/03/solitudes3.html)|Sat Jul 03 2021|
 |[Tweets from 06/28 to 07/02](https://john.colagioia.net/blog/media/2021/07/02/week.html)|Fri Jul 02 2021|
 |[Real Life in Star Trek, The Way to Eden](https://john.colagioia.net/blog/2021/07/01/eden.html)|Thu Jul 01 2021|
 |[Developer Journal, Stonewall Uprising](https://john.colagioia.net/blog/2021/06/28/stonewall.html)|Mon Jun 28 2021|
