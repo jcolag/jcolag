@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Early July](https://john.colagioia.net/blog/2021/07/05/july.html)|Mon Jul 05 2021|
 |[Content Advisories](https://john.colagioia.net/blog/2021/07/04/advisory.html)|Sun Jul 04 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 10-14](https://john.colagioia.net/blog/2021/07/03/solitudes3.html)|Sat Jul 03 2021|
 |[Tweets from 06/28 to 07/02](https://john.colagioia.net/blog/media/2021/07/02/week.html)|Fri Jul 02 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Attracting Job Candidates](https://john.colagioia.net/blog/2021/06/27/hiring.html)|Sun Jun 27 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 5-9](https://john.colagioia.net/blog/2021/06/26/solitudes2.html)|Sat Jun 26 2021|
 |[Tweets from 06/21 to 06/25](https://john.colagioia.net/blog/media/2021/06/25/week.html)|Fri Jun 25 2021|
-|[Real Life in Star Trek, Requiem for Methuselah](https://john.colagioia.net/blog/2021/06/24/methuselah.html)|Thu Jun 24 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
