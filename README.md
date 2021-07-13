@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Bisbee Kidnapping Anniversary](https://john.colagioia.net/blog/2021/07/12/bisbee.html)|Mon Jul 12 2021|
 |[Media and Imposed Morality](https://john.colagioia.net/blog/2021/07/11/mmedia.html)|Sun Jul 11 2021|
 |[Free Culture Book Club — La Chute d’Une Plume](https://john.colagioia.net/blog/2021/07/10/plume.html)|Sat Jul 10 2021|
 |[Tweets from 07/05 to 07/09](https://john.colagioia.net/blog/media/2021/07/09/week.html)|Fri Jul 09 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Content Advisories](https://john.colagioia.net/blog/2021/07/04/advisory.html)|Sun Jul 04 2021|
 |[Free Culture Book Club — Solitudes and Silence, ch 10-14](https://john.colagioia.net/blog/2021/07/03/solitudes3.html)|Sat Jul 03 2021|
 |[Tweets from 06/28 to 07/02](https://john.colagioia.net/blog/media/2021/07/02/week.html)|Fri Jul 02 2021|
-|[Real Life in Star Trek, The Way to Eden](https://john.colagioia.net/blog/2021/07/01/eden.html)|Thu Jul 01 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
