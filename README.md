@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Cloud Minders](https://john.colagioia.net/blog/2021/07/08/cloud.html)|Thu Jul 08 2021|
 |[Developer Journal, Early July](https://john.colagioia.net/blog/2021/07/05/july.html)|Mon Jul 05 2021|
 |[Content Advisories](https://john.colagioia.net/blog/2021/07/04/advisory.html)|Sun Jul 04 2021|
-|[Free Culture Book Club — Solitudes and Silence, ch 10-14](https://john.colagioia.net/blog/2021/07/03/solitudes3.html)|Sat Jul 03 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
