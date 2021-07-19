@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[GitHub Copilot and Other Programming Doom](https://john.colagioia.net/blog/2021/07/18/copilot.html)|Sun Jul 18 2021|
 |[Free Culture Book Club — Headshot, part 1](https://john.colagioia.net/blog/2021/07/17/headshot.html)|Sat Jul 17 2021|
 |[Tweets from 07/12 to 07/16](https://john.colagioia.net/blog/media/2021/07/16/week.html)|Fri Jul 16 2021|
 |[Real Life in Star Trek, The Savage Curtain](https://john.colagioia.net/blog/2021/07/15/savage.html)|Thu Jul 15 2021|
