@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, GPS Anniversary](https://john.colagioia.net/blog/2021/07/19/gps.html)|Mon Jul 19 2021|
 |[GitHub Copilot and Other Programming Doom](https://john.colagioia.net/blog/2021/07/18/copilot.html)|Sun Jul 18 2021|
 |[Free Culture Book Club — Headshot, part 1](https://john.colagioia.net/blog/2021/07/17/headshot.html)|Sat Jul 17 2021|
 |[Tweets from 07/12 to 07/16](https://john.colagioia.net/blog/media/2021/07/16/week.html)|Fri Jul 16 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Media and Imposed Morality](https://john.colagioia.net/blog/2021/07/11/mmedia.html)|Sun Jul 11 2021|
 |[Free Culture Book Club — La Chute d’Une Plume](https://john.colagioia.net/blog/2021/07/10/plume.html)|Sat Jul 10 2021|
 |[Tweets from 07/05 to 07/09](https://john.colagioia.net/blog/media/2021/07/09/week.html)|Fri Jul 09 2021|
-|[Real Life in Star Trek, The Cloud Minders](https://john.colagioia.net/blog/2021/07/08/cloud.html)|Thu Jul 08 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
