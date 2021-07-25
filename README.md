@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Headshot, part 2](https://john.colagioia.net/blog/2021/07/24/headshot.html)|Sat Jul 24 2021|
 |[Tweets from 07/19 to 07/23](https://john.colagioia.net/blog/media/2021/07/23/week.html)|Fri Jul 23 2021|
 |[Real Life in Star Trek, All Our Yesterdays](https://john.colagioia.net/blog/2021/07/22/yesterday.html)|Thu Jul 22 2021|
 |[Writing Jekyll Plugins](https://john.colagioia.net/blog/2021/07/21/jekyll.html)|Wed Jul 21 2021|
