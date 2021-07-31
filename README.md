@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 07/26 to 07/30](https://john.colagioia.net/blog/media/2021/07/30/week.html)|Fri Jul 30 2021|
 |[Real Life in Star Trek, Turnabout Intruder](https://john.colagioia.net/blog/2021/07/29/turnabout.html)|Thu Jul 29 2021|
 |[Developer Journal, Korean Armistice Anniversary Eve](https://john.colagioia.net/blog/2021/07/26/armistice.html)|Mon Jul 26 2021|
 |[Stack Overflow’s Utility](https://john.colagioia.net/blog/media/2021/07/25/stack.html)|Sun Jul 25 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 07/19 to 07/23](https://john.colagioia.net/blog/media/2021/07/23/week.html)|Fri Jul 23 2021|
 |[Real Life in Star Trek, All Our Yesterdays](https://john.colagioia.net/blog/2021/07/22/yesterday.html)|Thu Jul 22 2021|
 |[Writing Jekyll Plugins](https://john.colagioia.net/blog/2021/07/21/jekyll.html)|Wed Jul 21 2021|
-|[Developer Journal, GPS Anniversary](https://john.colagioia.net/blog/2021/07/19/gps.html)|Mon Jul 19 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
