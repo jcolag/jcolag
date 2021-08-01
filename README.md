@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Eroticature](https://john.colagioia.net/blog/2021/07/31/eroticature.html)|Sat Jul 31 2021|
 |[Tweets from 07/26 to 07/30](https://john.colagioia.net/blog/media/2021/07/30/week.html)|Fri Jul 30 2021|
 |[Real Life in Star Trek, Turnabout Intruder](https://john.colagioia.net/blog/2021/07/29/turnabout.html)|Thu Jul 29 2021|
 |[Developer Journal, Korean Armistice Anniversary Eve](https://john.colagioia.net/blog/2021/07/26/armistice.html)|Mon Jul 26 2021|
