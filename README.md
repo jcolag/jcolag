@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Pachamama Raymi](https://john.colagioia.net/blog/2021/08/02/generic.html)|Mon Aug 02 2021|
 |[Public Records and Privacy](https://john.colagioia.net/blog/media/2021/08/01/records.html)|Sun Aug 01 2021|
 |[Free Culture Book Club — Eroticature](https://john.colagioia.net/blog/2021/07/31/eroticature.html)|Sat Jul 31 2021|
 |[Tweets from 07/26 to 07/30](https://john.colagioia.net/blog/media/2021/07/30/week.html)|Fri Jul 30 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Stack Overflow’s Utility](https://john.colagioia.net/blog/media/2021/07/25/stack.html)|Sun Jul 25 2021|
 |[Free Culture Book Club — Headshot, part 2](https://john.colagioia.net/blog/2021/07/24/headshot.html)|Sat Jul 24 2021|
 |[Tweets from 07/19 to 07/23](https://john.colagioia.net/blog/media/2021/07/23/week.html)|Fri Jul 23 2021|
-|[Real Life in Star Trek, All Our Yesterdays](https://john.colagioia.net/blog/2021/07/22/yesterday.html)|Thu Jul 22 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
