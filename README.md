@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Turnabout Intruder](https://john.colagioia.net/blog/2021/07/29/turnabout.html)|Thu Jul 29 2021|
 |[Developer Journal, Korean Armistice Anniversary Eve](https://john.colagioia.net/blog/2021/07/26/armistice.html)|Mon Jul 26 2021|
 |[Stack Overflow’s Utility](https://john.colagioia.net/blog/media/2021/07/25/stack.html)|Sun Jul 25 2021|
-|[Free Culture Book Club — Headshot, part 2](https://john.colagioia.net/blog/2021/07/24/headshot.html)|Sat Jul 24 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
