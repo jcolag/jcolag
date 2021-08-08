@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Typhoon, Part 1](https://john.colagioia.net/blog/2021/08/07/typhoon1.html)|Sat Aug 07 2021|
 |[Tweets from 08/02 to 08/06](https://john.colagioia.net/blog/media/2021/08/06/week.html)|Fri Aug 06 2021|
 |[Real Life in Star Trek, Mudd’s Angels](https://john.colagioia.net/blog/2021/08/05/angels.html)|Thu Aug 05 2021|
 |[Developer Journal, Pachamama Raymi](https://john.colagioia.net/blog/2021/08/02/generic.html)|Mon Aug 02 2021|
