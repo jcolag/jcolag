@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The Need for Modern Web Application Frameworks](https://john.colagioia.net/blog/2021/08/08/framework.html)|Sun Aug 08 2021|
 |[Free Culture Book Club — Typhoon, Part 1](https://john.colagioia.net/blog/2021/08/07/typhoon1.html)|Sat Aug 07 2021|
 |[Tweets from 08/02 to 08/06](https://john.colagioia.net/blog/media/2021/08/06/week.html)|Fri Aug 06 2021|
 |[Real Life in Star Trek, Mudd’s Angels](https://john.colagioia.net/blog/2021/08/05/angels.html)|Thu Aug 05 2021|
