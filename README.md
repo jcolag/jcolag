@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Indigenous Peoples Day](https://john.colagioia.net/blog/2021/08/09/indigenous.html)|Mon Aug 09 2021|
 |[The Need for Modern Web Application Frameworks](https://john.colagioia.net/blog/2021/08/08/framework.html)|Sun Aug 08 2021|
 |[Free Culture Book Club — Typhoon, Part 1](https://john.colagioia.net/blog/2021/08/07/typhoon1.html)|Sat Aug 07 2021|
 |[Tweets from 08/02 to 08/06](https://john.colagioia.net/blog/media/2021/08/06/week.html)|Fri Aug 06 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Public Records and Privacy](https://john.colagioia.net/blog/media/2021/08/01/records.html)|Sun Aug 01 2021|
 |[Free Culture Book Club — Eroticature](https://john.colagioia.net/blog/2021/07/31/eroticature.html)|Sat Jul 31 2021|
 |[Tweets from 07/26 to 07/30](https://john.colagioia.net/blog/media/2021/07/30/week.html)|Fri Jul 30 2021|
-|[Real Life in Star Trek, Turnabout Intruder](https://john.colagioia.net/blog/2021/07/29/turnabout.html)|Thu Jul 29 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
