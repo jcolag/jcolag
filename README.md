@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 08/09 to 08/13](https://john.colagioia.net/blog/media/2021/08/13/week.html)|Fri Aug 13 2021|
 |[Real Life in Star Trek, Season 3 Summary](https://john.colagioia.net/blog/2021/08/12/season3.html)|Thu Aug 12 2021|
 |[Developer Journal, Indigenous Peoples Day](https://john.colagioia.net/blog/2021/08/09/indigenous.html)|Mon Aug 09 2021|
 |[The Need for Modern Web Application Frameworks](https://john.colagioia.net/blog/2021/08/08/framework.html)|Sun Aug 08 2021|
 |[Free Culture Book Club — Typhoon, Part 1](https://john.colagioia.net/blog/2021/08/07/typhoon1.html)|Sat Aug 07 2021|
 |[Tweets from 08/02 to 08/06](https://john.colagioia.net/blog/media/2021/08/06/week.html)|Fri Aug 06 2021|
 |[Real Life in Star Trek, Mudd’s Angels](https://john.colagioia.net/blog/2021/08/05/angels.html)|Thu Aug 05 2021|
-|[Developer Journal, Pachamama Raymi](https://john.colagioia.net/blog/2021/08/02/generic.html)|Mon Aug 02 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
