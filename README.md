@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Hugo Gernsback’s Birthday](https://john.colagioia.net/blog/2021/08/16/gernsback.html)|Mon Aug 16 2021|
 |[Age Cohorts, Ruining Things, and Apocalypses](https://john.colagioia.net/blog/2021/08/15/generations.html)|Sun Aug 15 2021|
 |[Free Culture Book Club — Typhoon, Part 2](https://john.colagioia.net/blog/2021/08/14/typhoon2.html)|Sat Aug 14 2021|
 |[Tweets from 08/09 to 08/13](https://john.colagioia.net/blog/media/2021/08/13/week.html)|Fri Aug 13 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[The Need for Modern Web Application Frameworks](https://john.colagioia.net/blog/2021/08/08/framework.html)|Sun Aug 08 2021|
 |[Free Culture Book Club — Typhoon, Part 1](https://john.colagioia.net/blog/2021/08/07/typhoon1.html)|Sat Aug 07 2021|
 |[Tweets from 08/02 to 08/06](https://john.colagioia.net/blog/media/2021/08/06/week.html)|Fri Aug 06 2021|
-|[Real Life in Star Trek, Mudd’s Angels](https://john.colagioia.net/blog/2021/08/05/angels.html)|Thu Aug 05 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
