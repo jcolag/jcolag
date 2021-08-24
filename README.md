@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Black Ribbon Day](https://john.colagioia.net/blog/2021/08/23/bribbon.html)|Mon Aug 23 2021|
 |[Free Culture Book Club — Typhoon, Part 3](https://john.colagioia.net/blog/2021/08/21/typhoon3.html)|Sat Aug 21 2021|
 |[Tweets from 08/16 to 08/20](https://john.colagioia.net/blog/media/2021/08/20/week.html)|Fri Aug 20 2021|
 |[Real Life in Star Trek, Beyond the Farthest Star](https://john.colagioia.net/blog/2021/08/19/farthest.html)|Thu Aug 19 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Age Cohorts, Ruining Things, and Apocalypses](https://john.colagioia.net/blog/2021/08/15/generations.html)|Sun Aug 15 2021|
 |[Free Culture Book Club — Typhoon, Part 2](https://john.colagioia.net/blog/2021/08/14/typhoon2.html)|Sat Aug 14 2021|
 |[Tweets from 08/09 to 08/13](https://john.colagioia.net/blog/media/2021/08/13/week.html)|Fri Aug 13 2021|
-|[Real Life in Star Trek, Season 3 Summary](https://john.colagioia.net/blog/2021/08/12/season3.html)|Thu Aug 12 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
