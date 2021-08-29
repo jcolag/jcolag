@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Typhoon, Part 4](https://john.colagioia.net/blog/2021/08/28/typhoon4.html)|Sat Aug 28 2021|
 |[Tweets from 08/23 to 08/27](https://john.colagioia.net/blog/media/2021/08/27/week.html)|Fri Aug 27 2021|
 |[Real Life in Star Trek, Yesteryear](https://john.colagioia.net/blog/2021/08/26/yesteryear.html)|Thu Aug 26 2021|
 |[Developer Journal, Black Ribbon Day](https://john.colagioia.net/blog/2021/08/23/bribbon.html)|Mon Aug 23 2021|
