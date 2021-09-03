@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, One of Our Planets Is Missing](https://john.colagioia.net/blog/2021/09/02/missing.html)|Thu Sep 02 2021|
 |[Developer Journal, Day of the Disappeared](https://john.colagioia.net/blog/2021/08/30/disappeared.html)|Mon Aug 30 2021|
 |[Free Culture Book Club — Typhoon, Part 4](https://john.colagioia.net/blog/2021/08/28/typhoon4.html)|Sat Aug 28 2021|
 |[Tweets from 08/23 to 08/27](https://john.colagioia.net/blog/media/2021/08/27/week.html)|Fri Aug 27 2021|
