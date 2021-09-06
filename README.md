@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Women Deserve Better Than Roe, Anyway](https://john.colagioia.net/blog/2021/09/05/roe.html)|Sun Sep 05 2021|
 |[Cataclysm — Dark Days Ahead](https://john.colagioia.net/blog/2021/09/04/cdda.html)|Sat Sep 04 2021|
 |[Tweets from 08/30 to 09/03](https://john.colagioia.net/blog/media/2021/09/03/week.html)|Fri Sep 03 2021|
 |[Real Life in Star Trek, One of Our Planets Is Missing](https://john.colagioia.net/blog/2021/09/02/missing.html)|Thu Sep 02 2021|
