@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Day of the Programmer](https://john.colagioia.net/blog/2021/09/13/programmer.html)|Mon Sep 13 2021|
 |[Free Culture Book Club — Affair, Part 1](https://john.colagioia.net/blog/2021/09/11/affair1.html)|Sat Sep 11 2021|
 |[Tweets from 09/06 to 09/10](https://john.colagioia.net/blog/media/2021/09/10/week.html)|Fri Sep 10 2021|
 |[Real Life in Star Trek, The Lorelei Signal](https://john.colagioia.net/blog/2021/09/09/lorelei.html)|Thu Sep 09 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Women Deserve Better Than Roe, Anyway](https://john.colagioia.net/blog/2021/09/05/roe.html)|Sun Sep 05 2021|
 |[Cataclysm — Dark Days Ahead](https://john.colagioia.net/blog/2021/09/04/cdda.html)|Sat Sep 04 2021|
 |[Tweets from 08/30 to 09/03](https://john.colagioia.net/blog/media/2021/09/03/week.html)|Fri Sep 03 2021|
-|[Real Life in Star Trek, One of Our Planets Is Missing](https://john.colagioia.net/blog/2021/09/02/missing.html)|Thu Sep 02 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
