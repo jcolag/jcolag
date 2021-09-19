@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Affair, Part 2](https://john.colagioia.net/blog/2021/09/18/affair2.html)|Sat Sep 18 2021|
 |[Tweets from 09/13 to 09/17](https://john.colagioia.net/blog/media/2021/09/17/week.html)|Fri Sep 17 2021|
 |[Real Life in Star Trek, More Tribbles, More Troubles](https://john.colagioia.net/blog/2021/09/16/troubles.html)|Thu Sep 16 2021|
 |[Developer Journal, Day of the Programmer](https://john.colagioia.net/blog/2021/09/13/programmer.html)|Mon Sep 13 2021|
