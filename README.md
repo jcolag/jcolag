@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Survivor](https://john.colagioia.net/blog/2021/09/23/survivor.html)|Thu Sep 23 2021|
 |[Startup, but Not Really Startup](https://john.colagioia.net/blog/2021/09/22/startup.html)|Wed Sep 22 2021|
 |[Developer Journal, World Peace Eve](https://john.colagioia.net/blog/2021/09/20/peace.html)|Mon Sep 20 2021|
 |[Free Culture Book Club — Affair, Part 2](https://john.colagioia.net/blog/2021/09/18/affair2.html)|Sat Sep 18 2021|
