@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Gay Men’s HIV/AIDS Awareness](https://john.colagioia.net/blog/2021/09/27/hiv.html)|Mon Sep 27 2021|
 |[Free Culture Book Club — Affair, Part 3](https://john.colagioia.net/blog/2021/09/25/affair3.html)|Sat Sep 25 2021|
 |[Tweets from 09/20 to 09/24](https://john.colagioia.net/blog/media/2021/09/24/week.html)|Fri Sep 24 2021|
 |[Real Life in Star Trek, The Survivor](https://john.colagioia.net/blog/2021/09/23/survivor.html)|Thu Sep 23 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, World Peace Eve](https://john.colagioia.net/blog/2021/09/20/peace.html)|Mon Sep 20 2021|
 |[Free Culture Book Club — Affair, Part 2](https://john.colagioia.net/blog/2021/09/18/affair2.html)|Sat Sep 18 2021|
 |[Tweets from 09/13 to 09/17](https://john.colagioia.net/blog/media/2021/09/17/week.html)|Fri Sep 17 2021|
-|[Real Life in Star Trek, More Tribbles, More Troubles](https://john.colagioia.net/blog/2021/09/16/troubles.html)|Thu Sep 16 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
