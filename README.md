@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Startup, but Not Really Startup](https://john.colagioia.net/blog/2021/09/22/startup.html)|Wed Sep 22 2021|
 |[Developer Journal, World Peace Eve](https://john.colagioia.net/blog/2021/09/20/peace.html)|Mon Sep 20 2021|
 |[Free Culture Book Club — Affair, Part 2](https://john.colagioia.net/blog/2021/09/18/affair2.html)|Sat Sep 18 2021|
-|[Tweets from 09/13 to 09/17](https://john.colagioia.net/blog/media/2021/09/17/week.html)|Fri Sep 17 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
