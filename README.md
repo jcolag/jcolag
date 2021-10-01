@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Infinite Vulcan](https://john.colagioia.net/blog/2021/09/30/infinite.html)|Thu Sep 30 2021|
 |[Where Have All the Emoji Gone?](https://john.colagioia.net/blog/2021/09/29/emoji.html)|Wed Sep 29 2021|
 |[Developer Journal, Gay Men’s HIV/AIDS Awareness](https://john.colagioia.net/blog/2021/09/27/hiv.html)|Mon Sep 27 2021|
 |[Free Culture Book Club — Affair, Part 3](https://john.colagioia.net/blog/2021/09/25/affair3.html)|Sat Sep 25 2021|
