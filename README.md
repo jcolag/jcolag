@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Affair, Part 3](https://john.colagioia.net/blog/2021/09/25/affair3.html)|Sat Sep 25 2021|
 |[Tweets from 09/20 to 09/24](https://john.colagioia.net/blog/media/2021/09/24/week.html)|Fri Sep 24 2021|
 |[Real Life in Star Trek, The Survivor](https://john.colagioia.net/blog/2021/09/23/survivor.html)|Thu Sep 23 2021|
-|[Startup, but Not Really Startup](https://john.colagioia.net/blog/2021/09/22/startup.html)|Wed Sep 22 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
