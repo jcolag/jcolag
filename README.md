@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Where Have All the Emoji Gone?](https://john.colagioia.net/blog/2021/09/29/emoji.html)|Wed Sep 29 2021|
 |[Developer Journal, Gay Men’s HIV/AIDS Awareness](https://john.colagioia.net/blog/2021/09/27/hiv.html)|Mon Sep 27 2021|
 |[Free Culture Book Club — Affair, Part 3](https://john.colagioia.net/blog/2021/09/25/affair3.html)|Sat Sep 25 2021|
-|[Tweets from 09/20 to 09/24](https://john.colagioia.net/blog/media/2021/09/24/week.html)|Fri Sep 24 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
