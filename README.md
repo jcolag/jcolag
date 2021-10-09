@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 10/04 to 10/08](https://john.colagioia.net/blog/media/2021/10/08/week.html)|Fri Oct 08 2021|
 |[Real Life in Star Trek, The Magicks of Megas-Tu](https://john.colagioia.net/blog/2021/10/07/megas-tu.html)|Thu Oct 07 2021|
 |[So You Need an Image of Random Images…](https://john.colagioia.net/blog/2021/10/06/collage.html)|Wed Oct 06 2021|
 |[Developer Journal, World Space Week](https://john.colagioia.net/blog/2021/10/04/space.html)|Mon Oct 04 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 09/27 to 10/01](https://john.colagioia.net/blog/media/2021/10/01/week.html)|Fri Oct 01 2021|
 |[Real Life in Star Trek, The Infinite Vulcan](https://john.colagioia.net/blog/2021/09/30/infinite.html)|Thu Sep 30 2021|
 |[Where Have All the Emoji Gone?](https://john.colagioia.net/blog/2021/09/29/emoji.html)|Wed Sep 29 2021|
-|[Developer Journal, Gay Men’s HIV/AIDS Awareness](https://john.colagioia.net/blog/2021/09/27/hiv.html)|Mon Sep 27 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
