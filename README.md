@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Affair, Part 4](https://john.colagioia.net/blog/2021/10/02/affair4.html)|Sat Oct 02 2021|
 |[Tweets from 09/27 to 10/01](https://john.colagioia.net/blog/media/2021/10/01/week.html)|Fri Oct 01 2021|
 |[Real Life in Star Trek, The Infinite Vulcan](https://john.colagioia.net/blog/2021/09/30/infinite.html)|Thu Sep 30 2021|
-|[Where Have All the Emoji Gone?](https://john.colagioia.net/blog/2021/09/29/emoji.html)|Wed Sep 29 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
