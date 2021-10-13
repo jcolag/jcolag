@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[So You Need an Image of Random Images…](https://john.colagioia.net/blog/2021/10/06/collage.html)|Wed Oct 06 2021|
 |[Developer Journal, World Space Week](https://john.colagioia.net/blog/2021/10/04/space.html)|Mon Oct 04 2021|
 |[Free Culture Book Club — Affair, Part 4](https://john.colagioia.net/blog/2021/10/02/affair4.html)|Sat Oct 02 2021|
-|[Tweets from 09/27 to 10/01](https://john.colagioia.net/blog/media/2021/10/01/week.html)|Fri Oct 01 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
