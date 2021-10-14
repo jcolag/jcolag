@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Using git to Count Changed Words](https://john.colagioia.net/blog/2021/10/13/words-changed.html)|Wed Oct 13 2021|
 |[Developer Journal, National Coming Out Day](https://john.colagioia.net/blog/2021/10/11/ncod.html)|Mon Oct 11 2021|
 |[Free Culture Book Club — Lightbringer, Part 1](https://john.colagioia.net/blog/2021/10/09/lightbringer.html)|Sat Oct 09 2021|
 |[Tweets from 10/04 to 10/08](https://john.colagioia.net/blog/media/2021/10/08/week.html)|Fri Oct 08 2021|
 |[Real Life in Star Trek, The Magicks of Megas-Tu](https://john.colagioia.net/blog/2021/10/07/megas-tu.html)|Thu Oct 07 2021|
 |[So You Need an Image of Random Images…](https://john.colagioia.net/blog/2021/10/06/collage.html)|Wed Oct 06 2021|
 |[Developer Journal, World Space Week](https://john.colagioia.net/blog/2021/10/04/space.html)|Mon Oct 04 2021|
-|[Free Culture Book Club — Affair, Part 4](https://john.colagioia.net/blog/2021/10/02/affair4.html)|Sat Oct 02 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
