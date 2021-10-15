@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Once Upon a Planet](https://john.colagioia.net/blog/2021/10/14/once-upon.html)|Thu Oct 14 2021|
 |[Using git to Count Changed Words](https://john.colagioia.net/blog/2021/10/13/words-changed.html)|Wed Oct 13 2021|
 |[Developer Journal, National Coming Out Day](https://john.colagioia.net/blog/2021/10/11/ncod.html)|Mon Oct 11 2021|
 |[Free Culture Book Club — Lightbringer, Part 1](https://john.colagioia.net/blog/2021/10/09/lightbringer.html)|Sat Oct 09 2021|
