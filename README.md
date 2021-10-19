@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Alaska Day](https://john.colagioia.net/blog/2021/10/18/alaska.html)|Mon Oct 18 2021|
 |[Let’s Fix…Facebook](https://john.colagioia.net/blog/2021/10/17/facebook.html)|Sun Oct 17 2021|
 |[Free Culture Book Club — Lightbringer, Part 2](https://john.colagioia.net/blog/2021/10/16/lightbringer2.html)|Sat Oct 16 2021|
 |[Tweets from 10/11 to 10/15](https://john.colagioia.net/blog/media/2021/10/15/week.html)|Fri Oct 15 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, National Coming Out Day](https://john.colagioia.net/blog/2021/10/11/ncod.html)|Mon Oct 11 2021|
 |[Free Culture Book Club — Lightbringer, Part 1](https://john.colagioia.net/blog/2021/10/09/lightbringer.html)|Sat Oct 09 2021|
 |[Tweets from 10/04 to 10/08](https://john.colagioia.net/blog/media/2021/10/08/week.html)|Fri Oct 08 2021|
-|[Real Life in Star Trek, The Magicks of Megas-Tu](https://john.colagioia.net/blog/2021/10/07/megas-tu.html)|Thu Oct 07 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
