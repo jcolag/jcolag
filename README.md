@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Occupy This Novel!, Part 1](https://john.colagioia.net/blog/2021/10/23/occupy1.html)|Sat Oct 23 2021|
 |[Tweets from 10/18 to 10/22](https://john.colagioia.net/blog/media/2021/10/22/week.html)|Fri Oct 22 2021|
 |[Real Life in Star Trek, Mudd’s Passion](https://john.colagioia.net/blog/2021/10/21/passion.html)|Thu Oct 21 2021|
 |[Developer Journal, Alaska Day](https://john.colagioia.net/blog/2021/10/18/alaska.html)|Mon Oct 18 2021|
