@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Mudd’s Passion](https://john.colagioia.net/blog/2021/10/21/passion.html)|Thu Oct 21 2021|
 |[Developer Journal, Alaska Day](https://john.colagioia.net/blog/2021/10/18/alaska.html)|Mon Oct 18 2021|
 |[Let’s Fix…Facebook](https://john.colagioia.net/blog/2021/10/17/facebook.html)|Sun Oct 17 2021|
-|[Free Culture Book Club — Lightbringer, Part 2](https://john.colagioia.net/blog/2021/10/16/lightbringer2.html)|Sat Oct 16 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
