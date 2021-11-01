@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Short Fiction — The Gevkahahal](https://john.colagioia.net/blog/2021/10/31/gevkahahal.html)|Sun Oct 31 2021|
 |[Free Culture Book Club — Occupy This Novel!, Part 2](https://john.colagioia.net/blog/2021/10/30/occupy2.html)|Sat Oct 30 2021|
 |[Tweets from 10/25 to 10/29](https://john.colagioia.net/blog/media/2021/10/29/week.html)|Fri Oct 29 2021|
 |[Real Life in Star Trek, The Terratin Incident](https://john.colagioia.net/blog/2021/10/28/terratin.html)|Thu Oct 28 2021|
