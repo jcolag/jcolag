@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Artificial Stupidity with GitHub Copilot](https://john.colagioia.net/blog/2021/11/03/copilot2.html)|Wed Nov 03 2021|
 |[Developer Journal, Day of the Dead](https://john.colagioia.net/blog/2021/11/01/dead.html)|Mon Nov 01 2021|
 |[Short Fiction — The Gevkahahal](https://john.colagioia.net/blog/2021/10/31/gevkahahal.html)|Sun Oct 31 2021|
 |[Free Culture Book Club — Occupy This Novel!, Part 2](https://john.colagioia.net/blog/2021/10/30/occupy2.html)|Sat Oct 30 2021|
 |[Tweets from 10/25 to 10/29](https://john.colagioia.net/blog/media/2021/10/29/week.html)|Fri Oct 29 2021|
 |[Real Life in Star Trek, The Terratin Incident](https://john.colagioia.net/blog/2021/10/28/terratin.html)|Thu Oct 28 2021|
 |[Developer Journal, Intersex Awareness Eve](https://john.colagioia.net/blog/2021/10/25/intersex.html)|Mon Oct 25 2021|
-|[Free Culture Book Club — Occupy This Novel!, Part 1](https://john.colagioia.net/blog/2021/10/23/occupy1.html)|Sat Oct 23 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
