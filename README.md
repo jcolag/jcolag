@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Time Trap](https://john.colagioia.net/blog/2021/11/04/time-trap.html)|Thu Nov 04 2021|
 |[Artificial Stupidity with GitHub Copilot](https://john.colagioia.net/blog/2021/11/03/copilot2.html)|Wed Nov 03 2021|
 |[Developer Journal, Day of the Dead](https://john.colagioia.net/blog/2021/11/01/dead.html)|Mon Nov 01 2021|
 |[Short Fiction — The Gevkahahal](https://john.colagioia.net/blog/2021/10/31/gevkahahal.html)|Sun Oct 31 2021|
