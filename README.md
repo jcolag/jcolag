@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Sita Sings the Blues](https://john.colagioia.net/blog/2021/11/06/sita.html)|Sat Nov 06 2021|
 |[Tweets from 11/01 to 11/05](https://john.colagioia.net/blog/media/2021/11/05/week.html)|Fri Nov 05 2021|
 |[Real Life in Star Trek, The Time Trap](https://john.colagioia.net/blog/2021/11/04/time-trap.html)|Thu Nov 04 2021|
 |[Artificial Stupidity with GitHub Copilot](https://john.colagioia.net/blog/2021/11/03/copilot2.html)|Wed Nov 03 2021|
