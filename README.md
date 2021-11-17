@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Ambergris Element](https://john.colagioia.net/blog/2021/11/11/ambergris.html)|Thu Nov 11 2021|
 |[Developer Journal, Intersex Solidarity Day](https://john.colagioia.net/blog/2021/11/08/rememberance.html)|Mon Nov 08 2021|
 |[Free Culture Book Club — Sita Sings the Blues](https://john.colagioia.net/blog/2021/11/06/sita.html)|Sat Nov 06 2021|
-|[Tweets from 11/01 to 11/05](https://john.colagioia.net/blog/media/2021/11/05/week.html)|Fri Nov 05 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
