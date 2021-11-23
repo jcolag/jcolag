@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Albanian Alphabet Anniversary](https://john.colagioia.net/blog/2021/11/22/manastir.html)|Mon Nov 22 2021|
 |[Superheroes Behaving Badly](https://john.colagioia.net/blog/2021/11/21/super.html)|Sun Nov 21 2021|
 |[Free Culture Book Club — if then else, part 2](https://john.colagioia.net/blog/2021/11/20/else2.html)|Sat Nov 20 2021|
 |[Tweets from 11/15 to 11/19](https://john.colagioia.net/blog/media/2021/11/19/week.html)|Fri Nov 19 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Geography Awareness Week](https://john.colagioia.net/blog/2021/11/15/geography.html)|Mon Nov 15 2021|
 |[Free Culture Book Club — if then else, part 1](https://john.colagioia.net/blog/2021/11/13/else.html)|Sat Nov 13 2021|
 |[Tweets from 11/08 to 11/12](https://john.colagioia.net/blog/media/2021/11/12/week.html)|Fri Nov 12 2021|
-|[Real Life in Star Trek, The Ambergris Element](https://john.colagioia.net/blog/2021/11/11/ambergris.html)|Thu Nov 11 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
