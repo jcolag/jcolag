@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 11/15 to 11/19](https://john.colagioia.net/blog/media/2021/11/19/week.html)|Fri Nov 19 2021|
 |[Real Life in Star Trek, The Slaver Weapon, part 1](https://john.colagioia.net/blog/2021/11/18/slaver.html)|Thu Nov 18 2021|
 |[Developer Journal, Geography Awareness Week](https://john.colagioia.net/blog/2021/11/15/geography.html)|Mon Nov 15 2021|
-|[Free Culture Book Club — if then else, part 1](https://john.colagioia.net/blog/2021/11/13/else.html)|Sat Nov 13 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
