@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Slaver Weapon, part 2](https://john.colagioia.net/blog/2021/11/25/slaver-2.html)|Thu Nov 25 2021|
 |[Developer Journal, Albanian Alphabet Anniversary](https://john.colagioia.net/blog/2021/11/22/manastir.html)|Mon Nov 22 2021|
 |[Superheroes Behaving Badly](https://john.colagioia.net/blog/2021/11/21/super.html)|Sun Nov 21 2021|
 |[Free Culture Book Club — if then else, part 2](https://john.colagioia.net/blog/2021/11/20/else2.html)|Sat Nov 20 2021|
