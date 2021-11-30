@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Byrd Antarctic Expedition](https://john.colagioia.net/blog/2021/11/29/south-pole.html)|Mon Nov 29 2021|
 |[Amateur Stenography](https://john.colagioia.net/blog/2021/11/28/steno.html)|Sun Nov 28 2021|
 |[Free Culture Book Club — if then else, part 3](https://john.colagioia.net/blog/2021/11/27/else3.html)|Sat Nov 27 2021|
 |[Tweets from 11/22 to 11/26](https://john.colagioia.net/blog/media/2021/11/26/week.html)|Fri Nov 26 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Superheroes Behaving Badly](https://john.colagioia.net/blog/2021/11/21/super.html)|Sun Nov 21 2021|
 |[Free Culture Book Club — if then else, part 2](https://john.colagioia.net/blog/2021/11/20/else2.html)|Sat Nov 20 2021|
 |[Tweets from 11/15 to 11/19](https://john.colagioia.net/blog/media/2021/11/19/week.html)|Fri Nov 19 2021|
-|[Real Life in Star Trek, The Slaver Weapon, part 1](https://john.colagioia.net/blog/2021/11/18/slaver.html)|Thu Nov 18 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
