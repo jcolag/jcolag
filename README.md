@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — if then else, part 4](https://john.colagioia.net/blog/2021/12/04/else4.html)|Sat Dec 04 2021|
 |[Tweets from 11/08 to 11/12](https://john.colagioia.net/blog/media/2021/12/03/week.html)|Fri Dec 03 2021|
 |[Real Life in Star Trek, The Slaver Weapon, part 3](https://john.colagioia.net/blog/2021/12/02/slaver-3.html)|Thu Dec 02 2021|
 |[Developer Journal, Byrd Antarctic Expedition](https://john.colagioia.net/blog/2021/11/29/south-pole.html)|Mon Nov 29 2021|
