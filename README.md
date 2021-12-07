@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Saint Nicholas Day](https://john.colagioia.net/blog/2021/12/06/nicholas.html)|Mon Dec 06 2021|
 |[Short Fiction — All Quiet on the Vernal Front](https://john.colagioia.net/blog/2021/12/05/war.html)|Sun Dec 05 2021|
 |[Free Culture Book Club — if then else, part 4](https://john.colagioia.net/blog/2021/12/04/else4.html)|Sat Dec 04 2021|
 |[Tweets from 11/08 to 11/12](https://john.colagioia.net/blog/media/2021/12/03/week.html)|Fri Dec 03 2021|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Amateur Stenography](https://john.colagioia.net/blog/2021/11/28/steno.html)|Sun Nov 28 2021|
 |[Free Culture Book Club — if then else, part 3](https://john.colagioia.net/blog/2021/11/27/else3.html)|Sat Nov 27 2021|
 |[Tweets from 11/22 to 11/26](https://john.colagioia.net/blog/media/2021/11/26/week.html)|Fri Nov 26 2021|
-|[Real Life in Star Trek, The Slaver Weapon, part 2](https://john.colagioia.net/blog/2021/11/25/slaver-2.html)|Thu Nov 25 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
