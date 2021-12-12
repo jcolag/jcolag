@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Space Company](https://john.colagioia.net/blog/2021/12/11/space.html)|Sat Dec 11 2021|
 |[Tweets from 12/06 to 12/10](https://john.colagioia.net/blog/media/2021/12/10/week.html)|Fri Dec 10 2021|
 |[Real Life in Star Trek, The Eye of the Beholder](https://john.colagioia.net/blog/2021/12/09/beholder.html)|Thu Dec 09 2021|
 |[Developer Journal, Saint Nicholas Day](https://john.colagioia.net/blog/2021/12/06/nicholas.html)|Mon Dec 06 2021|
