@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Saint Nicholas Day](https://john.colagioia.net/blog/2021/12/06/nicholas.html)|Mon Dec 06 2021|
 |[Short Fiction — All Quiet on the Vernal Front](https://john.colagioia.net/blog/2021/12/05/war.html)|Sun Dec 05 2021|
 |[Free Culture Book Club — if then else, part 4](https://john.colagioia.net/blog/2021/12/04/else4.html)|Sat Dec 04 2021|
-|[Tweets from 11/08 to 11/12](https://john.colagioia.net/blog/media/2021/12/03/week.html)|Fri Dec 03 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
