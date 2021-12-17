@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Eye of the Beholder, part 2](https://john.colagioia.net/blog/2021/12/16/beholder-2.html)|Thu Dec 16 2021|
 |[Developer Journal, Acadian Remembrance Day](https://john.colagioia.net/blog/2021/12/13/acadian.html)|Mon Dec 13 2021|
 |[Free Culture Book Club — Space Company](https://john.colagioia.net/blog/2021/12/11/space.html)|Sat Dec 11 2021|
 |[Tweets from 12/06 to 12/10](https://john.colagioia.net/blog/media/2021/12/10/week.html)|Fri Dec 10 2021|
 |[Real Life in Star Trek, The Eye of the Beholder](https://john.colagioia.net/blog/2021/12/09/beholder.html)|Thu Dec 09 2021|
 |[Developer Journal, Saint Nicholas Day](https://john.colagioia.net/blog/2021/12/06/nicholas.html)|Mon Dec 06 2021|
-|[Short Fiction — All Quiet on the Vernal Front](https://john.colagioia.net/blog/2021/12/05/war.html)|Sun Dec 05 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
