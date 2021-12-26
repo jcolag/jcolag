@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Children of Wormwood, part 2](https://john.colagioia.net/blog/2021/12/25/wormwood-2.html)|Sat Dec 25 2021|
 |[Tweets from 12/20 to 12/24](https://john.colagioia.net/blog/media/2021/12/24/week.html)|Fri Dec 24 2021|
 |[Real Life in Star Trek, The Jihad](https://john.colagioia.net/blog/2021/12/23/jihad.html)|Thu Dec 23 2021|
 |[Developer Journal, Yaldā Eve](https://john.colagioia.net/blog/2021/12/20/yalda.html)|Mon Dec 20 2021|
