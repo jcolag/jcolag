@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Junkanoo](https://john.colagioia.net/blog/2021/12/27/junkanoo.html)|Mon Dec 27 2021|
 |[🔭 Looking Back on 2021](https://john.colagioia.net/blog/2021/12/26/review-2021.html)|Sun Dec 26 2021|
 |[Free Culture Book Club — Children of Wormwood, part 2](https://john.colagioia.net/blog/2021/12/25/wormwood-2.html)|Sat Dec 25 2021|
 |[Tweets from 12/20 to 12/24](https://john.colagioia.net/blog/media/2021/12/24/week.html)|Fri Dec 24 2021|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Yaldā Eve](https://john.colagioia.net/blog/2021/12/20/yalda.html)|Mon Dec 20 2021|
 |[Free Culture Book Club — Children of Wormwood, part 1](https://john.colagioia.net/blog/2021/12/18/wormwood-1.html)|Sat Dec 18 2021|
 |[Tweets from 12/13 to 12/17](https://john.colagioia.net/blog/media/2021/12/17/week.html)|Fri Dec 17 2021|
-|[Real Life in Star Trek, The Eye of the Beholder, part 2](https://john.colagioia.net/blog/2021/12/16/beholder-2.html)|Thu Dec 16 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
