@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[🍾 Happy Calendar-Changing Day (Belated), 2022 🎆](https://john.colagioia.net/blog/2022/01/02/hny2022.html)|Sun Jan 02 2022|
 |[Free Culture Book Club — Children of Wormwood, part 3](https://john.colagioia.net/blog/2022/01/01/wormwood-3.html)|Sat Jan 01 2022|
 |[Tweets from 12/27 to 12/31](https://john.colagioia.net/blog/media/2021/12/31/week.html)|Fri Dec 31 2021|
 |[Real Life in Star Trek, The Pirates of Orion](https://john.colagioia.net/blog/2021/12/30/orion.html)|Thu Dec 30 2021|
