@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Pirates of Orion](https://john.colagioia.net/blog/2021/12/30/orion.html)|Thu Dec 30 2021|
 |[Developer Journal, Junkanoo](https://john.colagioia.net/blog/2021/12/27/junkanoo.html)|Mon Dec 27 2021|
 |[🔭 Looking Back on 2021](https://john.colagioia.net/blog/2021/12/26/review-2021.html)|Sun Dec 26 2021|
-|[Free Culture Book Club — Children of Wormwood, part 2](https://john.colagioia.net/blog/2021/12/25/wormwood-2.html)|Sat Dec 25 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
