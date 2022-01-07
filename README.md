@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Bem part 1](https://john.colagioia.net/blog/2022/01/06/bem.html)|Thu Jan 06 2022|
 |[Developer Journal, National Mentoring Month](https://john.colagioia.net/blog/2022/01/03/mentor.html)|Mon Jan 03 2022|
 |[🍾 Happy Calendar-Changing Day (Belated), 2022 🎆](https://john.colagioia.net/blog/2022/01/02/hny2022.html)|Sun Jan 02 2022|
 |[Free Culture Book Club — Children of Wormwood, part 3](https://john.colagioia.net/blog/2022/01/01/wormwood-3.html)|Sat Jan 01 2022|
 |[Tweets from 12/27 to 12/31](https://john.colagioia.net/blog/media/2021/12/31/week.html)|Fri Dec 31 2021|
 |[Real Life in Star Trek, The Pirates of Orion](https://john.colagioia.net/blog/2021/12/30/orion.html)|Thu Dec 30 2021|
 |[Developer Journal, Junkanoo](https://john.colagioia.net/blog/2021/12/27/junkanoo.html)|Mon Dec 27 2021|
-|[🔭 Looking Back on 2021](https://john.colagioia.net/blog/2021/12/26/review-2021.html)|Sun Dec 26 2021|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
