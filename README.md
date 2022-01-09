@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Children of Wormwood, part 4](https://john.colagioia.net/blog/2022/01/08/wormwood-4.html)|Sat Jan 08 2022|
 |[Tweets from 01/03 to 01/07](https://john.colagioia.net/blog/media/2022/01/07/week.html)|Fri Jan 07 2022|
 |[Real Life in Star Trek, Bem part 1](https://john.colagioia.net/blog/2022/01/06/bem.html)|Thu Jan 06 2022|
 |[Developer Journal, National Mentoring Month](https://john.colagioia.net/blog/2022/01/03/mentor.html)|Mon Jan 03 2022|
