@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Dead Ascend](https://john.colagioia.net/blog/2022/01/15/deadascend.html)|Sat Jan 15 2022|
 |[Tweets from 01/10 to 01/14](https://john.colagioia.net/blog/media/2022/01/14/week.html)|Fri Jan 14 2022|
 |[Real Life in Star Trek, Bem part 2](https://john.colagioia.net/blog/2022/01/13/bem2.html)|Thu Jan 13 2022|
 |[Ubuntu Scrolling Woes — Small Technology Notes](https://john.colagioia.net/blog/2022/01/12/scroll.html)|Wed Jan 12 2022|
