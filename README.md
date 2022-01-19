@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Ubuntu Scrolling Woes — Small Technology Notes](https://john.colagioia.net/blog/2022/01/12/scroll.html)|Wed Jan 12 2022|
 |[Developer Journal, Eugenio María de Hostos](https://john.colagioia.net/blog/2022/01/10/hostos.html)|Mon Jan 10 2022|
 |[Free Culture Book Club — Children of Wormwood, part 4](https://john.colagioia.net/blog/2022/01/08/wormwood-4.html)|Sat Jan 08 2022|
-|[Tweets from 01/03 to 01/07](https://john.colagioia.net/blog/media/2022/01/07/week.html)|Fri Jan 07 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
