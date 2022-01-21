@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Practical Joker](https://john.colagioia.net/blog/2022/01/20/joker.html)|Thu Jan 20 2022|
 |[Developer Journal, Martin Luther King, Jr. Day](https://john.colagioia.net/blog/2022/01/17/king.html)|Mon Jan 17 2022|
 |[Free Culture Book Club — Dead Ascend](https://john.colagioia.net/blog/2022/01/15/deadascend.html)|Sat Jan 15 2022|
 |[Tweets from 01/10 to 01/14](https://john.colagioia.net/blog/media/2022/01/14/week.html)|Fri Jan 14 2022|
