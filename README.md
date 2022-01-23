@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — For the Fragile Muses…](https://john.colagioia.net/blog/2022/01/22/muses.html)|Sat Jan 22 2022|
 |[Tweets from 01/17 to 01/21](https://john.colagioia.net/blog/media/2022/01/21/week.html)|Fri Jan 21 2022|
 |[Real Life in Star Trek, The Practical Joker](https://john.colagioia.net/blog/2022/01/20/joker.html)|Thu Jan 20 2022|
 |[Developer Journal, Martin Luther King, Jr. Day](https://john.colagioia.net/blog/2022/01/17/king.html)|Mon Jan 17 2022|
