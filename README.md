@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Testing Jekyll Plugins — Small Technology Notes](https://john.colagioia.net/blog/2022/01/26/test-jekyll.html)|Wed Jan 26 2022|
 |[Developer Journal, International Day of Education](https://john.colagioia.net/blog/2022/01/24/education.html)|Mon Jan 24 2022|
 |[Free Culture Book Club — For the Fragile Muses…](https://john.colagioia.net/blog/2022/01/22/muses.html)|Sat Jan 22 2022|
 |[Tweets from 01/17 to 01/21](https://john.colagioia.net/blog/media/2022/01/21/week.html)|Fri Jan 21 2022|
 |[Real Life in Star Trek, The Practical Joker](https://john.colagioia.net/blog/2022/01/20/joker.html)|Thu Jan 20 2022|
 |[Developer Journal, Martin Luther King, Jr. Day](https://john.colagioia.net/blog/2022/01/17/king.html)|Mon Jan 17 2022|
-|[Free Culture Book Club — Dead Ascend](https://john.colagioia.net/blog/2022/01/15/deadascend.html)|Sat Jan 15 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
