@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Tex Montana Will Survive!](https://john.colagioia.net/blog/2022/01/29/tex.html)|Sat Jan 29 2022|
 |[Tweets from 01/24 to 01/28](https://john.colagioia.net/blog/media/2022/01/28/week.html)|Fri Jan 28 2022|
 |[Real Life in Star Trek, Albatross](https://john.colagioia.net/blog/2022/01/27/albatross.html)|Thu Jan 27 2022|
 |[Testing Jekyll Plugins — Small Technology Notes](https://john.colagioia.net/blog/2022/01/26/test-jekyll.html)|Wed Jan 26 2022|
