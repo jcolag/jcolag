@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, How Sharper Than a Serpent’s Tooth](https://john.colagioia.net/blog/2022/02/03/serpent.html)|Thu Feb 03 2022|
 |[Developer Journal, Me-Dam-Me-Phi](https://john.colagioia.net/blog/2022/01/31/medammephi.html)|Mon Jan 31 2022|
 |[Free Culture Book Club — Tex Montana Will Survive!](https://john.colagioia.net/blog/2022/01/29/tex.html)|Sat Jan 29 2022|
 |[Tweets from 01/24 to 01/28](https://john.colagioia.net/blog/media/2022/01/28/week.html)|Fri Jan 28 2022|
