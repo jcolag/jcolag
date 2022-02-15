@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Valentine’s Day 💘](https://john.colagioia.net/blog/2022/02/14/valentine.html)|Mon Feb 14 2022|
 |[Free Culture Book Club — Learn to Code RPG](https://john.colagioia.net/blog/2022/02/12/code-rpg.html)|Sat Feb 12 2022|
 |[Tweets from 02/07 to 02/11](https://john.colagioia.net/blog/media/2022/02/11/week.html)|Fri Feb 11 2022|
-|[Real Life in Star Trek, The Counter-Clock Incident, part 1](https://john.colagioia.net/blog/2022/02/10/counter.html)|Thu Feb 10 2022|
+|[Real Life in Star Trek, The Counter-Clock Incident, pt 1](https://john.colagioia.net/blog/2022/02/10/counter.html)|Thu Feb 10 2022|
 |[Developer Journal, Cripple Creek Miners’ Strike](https://john.colagioia.net/blog/2022/02/07/cripple-creek.html)|Mon Feb 07 2022|
 |[Free Culture Book Club — Homem-Grilo](https://john.colagioia.net/blog/2022/02/05/grilo.html)|Sat Feb 05 2022|
 |[Tweets from 01/31 to 02/04](https://john.colagioia.net/blog/media/2022/02/04/week.html)|Fri Feb 04 2022|
-|[Real Life in Star Trek, How Sharper Than a Serpent’s Tooth](https://john.colagioia.net/blog/2022/02/03/serpent.html)|Thu Feb 03 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
