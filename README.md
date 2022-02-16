@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Counter-Clock Incident, pt 1](https://john.colagioia.net/blog/2022/02/10/counter.html)|Thu Feb 10 2022|
 |[Developer Journal, Cripple Creek Miners’ Strike](https://john.colagioia.net/blog/2022/02/07/cripple-creek.html)|Mon Feb 07 2022|
 |[Free Culture Book Club — Homem-Grilo](https://john.colagioia.net/blog/2022/02/05/grilo.html)|Sat Feb 05 2022|
-|[Tweets from 01/31 to 02/04](https://john.colagioia.net/blog/media/2022/02/04/week.html)|Fri Feb 04 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
