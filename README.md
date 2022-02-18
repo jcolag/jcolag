@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Counter-Clock Incident, pt 2](https://john.colagioia.net/blog/2022/02/17/counter2.html)|Thu Feb 17 2022|
 |[Developer Journal, Valentine’s Day 💘](https://john.colagioia.net/blog/2022/02/14/valentine.html)|Mon Feb 14 2022|
 |[Free Culture Book Club — Learn to Code RPG](https://john.colagioia.net/blog/2022/02/12/code-rpg.html)|Sat Feb 12 2022|
 |[Tweets from 02/07 to 02/11](https://john.colagioia.net/blog/media/2022/02/11/week.html)|Fri Feb 11 2022|
