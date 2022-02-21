@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The World’s Slowest, Dumbest Botnet ⚠️](https://john.colagioia.net/blog/2022/02/20/shakedown.html)|Sun Feb 20 2022|
 |[Free Culture Book Club — Your Face Is a Saxophone](https://john.colagioia.net/blog/2022/02/19/saxophone.html)|Sat Feb 19 2022|
 |[Tweets from 02/14 to 02/18](https://john.colagioia.net/blog/media/2022/02/18/week.html)|Fri Feb 18 2022|
 |[Real Life in Star Trek, The Counter-Clock Incident, pt 2](https://john.colagioia.net/blog/2022/02/17/counter2.html)|Thu Feb 17 2022|
