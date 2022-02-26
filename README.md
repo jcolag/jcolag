@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 02/21 to 02/25](https://john.colagioia.net/blog/media/2022/02/25/week.html)|Fri Feb 25 2022|
 |[Real Life in Star Trek, The Counter-Clock Incident, pt 3](https://john.colagioia.net/blog/2022/02/24/counter3.html)|Thu Feb 24 2022|
 |[Developer Journal, Mother Language Day](https://john.colagioia.net/blog/2022/02/21/language.html)|Mon Feb 21 2022|
 |[The World’s Slowest, Dumbest Botnet ⚠️](https://john.colagioia.net/blog/2022/02/20/shakedown.html)|Sun Feb 20 2022|
 |[Free Culture Book Club — Your Face Is a Saxophone](https://john.colagioia.net/blog/2022/02/19/saxophone.html)|Sat Feb 19 2022|
 |[Tweets from 02/14 to 02/18](https://john.colagioia.net/blog/media/2022/02/18/week.html)|Fri Feb 18 2022|
 |[Real Life in Star Trek, The Counter-Clock Incident, pt 2](https://john.colagioia.net/blog/2022/02/17/counter2.html)|Thu Feb 17 2022|
-|[Developer Journal, Valentine’s Day 💘](https://john.colagioia.net/blog/2022/02/14/valentine.html)|Mon Feb 14 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
