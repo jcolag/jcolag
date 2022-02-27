@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Level 13](https://john.colagioia.net/blog/2022/02/26/level13.html)|Sat Feb 26 2022|
 |[Tweets from 02/21 to 02/25](https://john.colagioia.net/blog/media/2022/02/25/week.html)|Fri Feb 25 2022|
 |[Real Life in Star Trek, The Counter-Clock Incident, pt 3](https://john.colagioia.net/blog/2022/02/24/counter3.html)|Thu Feb 24 2022|
 |[Developer Journal, Mother Language Day](https://john.colagioia.net/blog/2022/02/21/language.html)|Mon Feb 21 2022|
