@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Dudley’s (New, Improved) Dungeon](https://john.colagioia.net/blog/2022/03/05/dudley.html)|Sat Mar 05 2022|
 |[Tweets from 02/28 to 03/04](https://john.colagioia.net/blog/media/2022/03/04/week.html)|Fri Mar 04 2022|
 |[Real Life in Star Trek, Animated Series Summary](https://john.colagioia.net/blog/2022/03/03/animated.html)|Thu Mar 03 2022|
 |[Developer Journal, February 28 Incident](https://john.colagioia.net/blog/2022/02/28/incident.html)|Mon Feb 28 2022|
