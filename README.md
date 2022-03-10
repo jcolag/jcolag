@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 02/28 to 03/04](https://john.colagioia.net/blog/media/2022/03/04/week.html)|Fri Mar 04 2022|
 |[Real Life in Star Trek, Animated Series Summary](https://john.colagioia.net/blog/2022/03/03/animated.html)|Thu Mar 03 2022|
 |[Developer Journal, February 28 Incident](https://john.colagioia.net/blog/2022/02/28/incident.html)|Mon Feb 28 2022|
-|[Free Culture Book Club — Level 13](https://john.colagioia.net/blog/2022/02/26/level13.html)|Sat Feb 26 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
