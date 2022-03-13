@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Dünnes Eis, part 1](https://john.colagioia.net/blog/2022/03/12/dunneseis.html)|Sat Mar 12 2022|
 |[Tweets from 03/07 to 03/11](https://john.colagioia.net/blog/media/2022/03/11/week.html)|Fri Mar 11 2022|
 |[Real Life in Star Trek, The Motion Picture, pt 1](https://john.colagioia.net/blog/2022/03/10/tmp.html)|Thu Mar 10 2022|
 |[Developer Journal, International Women’s Eve](https://john.colagioia.net/blog/2022/03/07/women.html)|Mon Mar 07 2022|
