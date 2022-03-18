@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Motion Picture, pt 2](https://john.colagioia.net/blog/2022/03/17/tmp-2.html)|Thu Mar 17 2022|
 |[Developer Journal, White Day](https://john.colagioia.net/blog/2022/03/14/white.html)|Mon Mar 14 2022|
 |[Announcing G.L.O.B.E.](https://john.colagioia.net/blog/2022/03/13/globe.html)|Sun Mar 13 2022|
 |[Free Culture Book Club — Dünnes Eis, part 1](https://john.colagioia.net/blog/2022/03/12/dunneseis.html)|Sat Mar 12 2022|
 |[Tweets from 03/07 to 03/11](https://john.colagioia.net/blog/media/2022/03/11/week.html)|Fri Mar 11 2022|
 |[Real Life in Star Trek, The Motion Picture, pt 1](https://john.colagioia.net/blog/2022/03/10/tmp.html)|Thu Mar 10 2022|
 |[Developer Journal, International Women’s Eve](https://john.colagioia.net/blog/2022/03/07/women.html)|Mon Mar 07 2022|
-|[Announcing…Iungimoji](https://john.colagioia.net/blog/2022/03/06/iungimoji.html)|Sun Mar 06 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
