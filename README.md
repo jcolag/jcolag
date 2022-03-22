@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Elimination of Racial Discrimination](https://john.colagioia.net/blog/2022/03/21/discrim.html)|Mon Mar 21 2022|
 |[Free Culture Book Club — Dünnes Eis, part 2](https://john.colagioia.net/blog/2022/03/19/dunneseis2.html)|Sat Mar 19 2022|
 |[Tweets from 03/14 to 03/18](https://john.colagioia.net/blog/media/2022/03/18/week.html)|Fri Mar 18 2022|
 |[Real Life in Star Trek, The Motion Picture, pt 2](https://john.colagioia.net/blog/2022/03/17/tmp-2.html)|Thu Mar 17 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Announcing G.L.O.B.E.](https://john.colagioia.net/blog/2022/03/13/globe.html)|Sun Mar 13 2022|
 |[Free Culture Book Club — Dünnes Eis, part 1](https://john.colagioia.net/blog/2022/03/12/dunneseis.html)|Sat Mar 12 2022|
 |[Tweets from 03/07 to 03/11](https://john.colagioia.net/blog/media/2022/03/11/week.html)|Fri Mar 11 2022|
-|[Real Life in Star Trek, The Motion Picture, pt 1](https://john.colagioia.net/blog/2022/03/10/tmp.html)|Thu Mar 10 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
