@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, White Day](https://john.colagioia.net/blog/2022/03/14/white.html)|Mon Mar 14 2022|
 |[Announcing G.L.O.B.E.](https://john.colagioia.net/blog/2022/03/13/globe.html)|Sun Mar 13 2022|
 |[Free Culture Book Club — Dünnes Eis, part 1](https://john.colagioia.net/blog/2022/03/12/dunneseis.html)|Sat Mar 12 2022|
-|[Tweets from 03/07 to 03/11](https://john.colagioia.net/blog/media/2022/03/11/week.html)|Fri Mar 11 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
