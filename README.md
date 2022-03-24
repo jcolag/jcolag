@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Motion Picture, pt 2](https://john.colagioia.net/blog/2022/03/17/tmp-2.html)|Thu Mar 17 2022|
 |[Developer Journal, White Day](https://john.colagioia.net/blog/2022/03/14/white.html)|Mon Mar 14 2022|
 |[Announcing G.L.O.B.E.](https://john.colagioia.net/blog/2022/03/13/globe.html)|Sun Mar 13 2022|
-|[Free Culture Book Club — Dünnes Eis, part 1](https://john.colagioia.net/blog/2022/03/12/dunneseis.html)|Sat Mar 12 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
@@ -28,4 +27,4 @@ Mostly, I just missed the streak counter from years past.  I may eventually pull
 
 And while I don't expect it, if you would like to help fund some of this weirdness, I won't turn away anyone who wants to...
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150px"/>](https://www.buymeacoffee.com/jcolag)
+[<img src="images/default-yellow.png" alt="Buy Me a Coffee" width="150px"/>](https://www.buymeacoffee.com/jcolag)
