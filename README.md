@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Wrath of Khan](https://john.colagioia.net/blog/2022/03/24/twok.html)|Thu Mar 24 2022|
 |[Developer Journal, Elimination of Racial Discrimination](https://john.colagioia.net/blog/2022/03/21/discrim.html)|Mon Mar 21 2022|
 |[Free Culture Book Club — Dünnes Eis, part 2](https://john.colagioia.net/blog/2022/03/19/dunneseis2.html)|Sat Mar 19 2022|
 |[Tweets from 03/14 to 03/18](https://john.colagioia.net/blog/media/2022/03/18/week.html)|Fri Mar 18 2022|
 |[Real Life in Star Trek, The Motion Picture, pt 2](https://john.colagioia.net/blog/2022/03/17/tmp-2.html)|Thu Mar 17 2022|
 |[Developer Journal, White Day](https://john.colagioia.net/blog/2022/03/14/white.html)|Mon Mar 14 2022|
-|[Announcing G.L.O.B.E.](https://john.colagioia.net/blog/2022/03/13/globe.html)|Sun Mar 13 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
