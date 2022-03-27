@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Josh Woodward](https://john.colagioia.net/blog/2022/03/26/woodward.html)|Sat Mar 26 2022|
 |[Tweets from 03/21 to 03/25](https://john.colagioia.net/blog/media/2022/03/25/week.html)|Fri Mar 25 2022|
 |[Real Life in Star Trek, The Wrath of Khan](https://john.colagioia.net/blog/2022/03/24/twok.html)|Thu Mar 24 2022|
 |[Developer Journal, Elimination of Racial Discrimination](https://john.colagioia.net/blog/2022/03/21/discrim.html)|Mon Mar 21 2022|
