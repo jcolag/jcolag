@@ -1,0 +1,1 @@
+As a quick note, the **Buy Me a Coffee** logo is under copyright from its company, with no license.  It's here, because someone misconfigured Cloudflare so that it doesn't otherwise appear on the profile.
