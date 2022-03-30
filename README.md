@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Wrath of Khan](https://john.colagioia.net/blog/2022/03/24/twok.html)|Thu Mar 24 2022|
 |[Developer Journal, Elimination of Racial Discrimination](https://john.colagioia.net/blog/2022/03/21/discrim.html)|Mon Mar 21 2022|
 |[Free Culture Book Club — Dünnes Eis, part 2](https://john.colagioia.net/blog/2022/03/19/dunneseis2.html)|Sat Mar 19 2022|
-|[Tweets from 03/14 to 03/18](https://john.colagioia.net/blog/media/2022/03/18/week.html)|Fri Mar 18 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
