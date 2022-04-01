@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Search for Spock](https://john.colagioia.net/blog/2022/03/31/tsfs.html)|Thu Mar 31 2022|
 |[Developer Journal, World Theatre Day, belated](https://john.colagioia.net/blog/2022/03/28/theatre.html)|Mon Mar 28 2022|
 |[Abandoned Concept — The Heralds of Justice 🎺](https://john.colagioia.net/blog/2022/03/27/herald.html)|Sun Mar 27 2022|
 |[Free Culture Book Club — Josh Woodward](https://john.colagioia.net/blog/2022/03/26/woodward.html)|Sat Mar 26 2022|
