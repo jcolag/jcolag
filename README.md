@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Fiction by David Turner](https://john.colagioia.net/blog/2022/04/02/novalis.html)|Sat Apr 02 2022|
 |[Tweets from 03/28 to 04/01](https://john.colagioia.net/blog/2022/04/01/week.html)|Fri Apr 01 2022|
 |[Real Life in Star Trek, The Search for Spock](https://john.colagioia.net/blog/2022/03/31/tsfs.html)|Thu Mar 31 2022|
 |[Developer Journal, World Theatre Day, belated](https://john.colagioia.net/blog/2022/03/28/theatre.html)|Mon Mar 28 2022|
