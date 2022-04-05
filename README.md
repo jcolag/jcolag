@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Tel Aviv’s Anniversary](https://john.colagioia.net/blog/2022/04/04/telaviv.html)|Mon Apr 04 2022|
 |[Free Culture Book Club — Fiction by David Turner](https://john.colagioia.net/blog/2022/04/02/novalis.html)|Sat Apr 02 2022|
 |[Tweets from 03/28 to 04/01](https://john.colagioia.net/blog/2022/04/01/week.html)|Fri Apr 01 2022|
 |[Real Life in Star Trek, The Search for Spock](https://john.colagioia.net/blog/2022/03/31/tsfs.html)|Thu Mar 31 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Abandoned Concept — The Heralds of Justice 🎺](https://john.colagioia.net/blog/2022/03/27/herald.html)|Sun Mar 27 2022|
 |[Free Culture Book Club — Josh Woodward](https://john.colagioia.net/blog/2022/03/26/woodward.html)|Sat Mar 26 2022|
 |[Tweets from 03/21 to 03/25](https://john.colagioia.net/blog/media/2022/03/25/week.html)|Fri Mar 25 2022|
-|[Real Life in Star Trek, The Wrath of Khan](https://john.colagioia.net/blog/2022/03/24/twok.html)|Thu Mar 24 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
