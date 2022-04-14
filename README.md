@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 04/04 to 04/08](https://john.colagioia.net/blog/2022/04/08/week.html)|Fri Apr 08 2022|
 |[Real Life in Star Trek, The Voyage Home](https://john.colagioia.net/blog/2022/04/07/tvh.html)|Thu Apr 07 2022|
 |[Developer Journal, Tel Aviv’s Anniversary](https://john.colagioia.net/blog/2022/04/04/telaviv.html)|Mon Apr 04 2022|
-|[Free Culture Book Club — Fiction by David Turner](https://john.colagioia.net/blog/2022/04/02/novalis.html)|Sat Apr 02 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
