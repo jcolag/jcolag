@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 04/11 to 04/15](https://john.colagioia.net/blog/2022/04/15/week.html)|Fri Apr 15 2022|
 |[Real Life in Star Trek, The Final Frontier](https://john.colagioia.net/blog/2022/04/14/tff.html)|Thu Apr 14 2022|
 |[Developer Journal, First Paleontology Lecture](https://john.colagioia.net/blog/2022/04/11/paleontology.html)|Mon Apr 11 2022|
 |[Free Culture Book Club — One Hour One Life](https://john.colagioia.net/blog/2022/04/09/ohol.html)|Sat Apr 09 2022|
 |[Tweets from 04/04 to 04/08](https://john.colagioia.net/blog/2022/04/08/week.html)|Fri Apr 08 2022|
 |[Real Life in Star Trek, The Voyage Home](https://john.colagioia.net/blog/2022/04/07/tvh.html)|Thu Apr 07 2022|
-|[Developer Journal, Tel Aviv’s Anniversary](https://john.colagioia.net/blog/2022/04/04/telaviv.html)|Mon Apr 04 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
