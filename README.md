@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Collectivity](https://john.colagioia.net/blog/2022/04/16/collectivity.html)|Sat Apr 16 2022|
 |[Tweets from 04/11 to 04/15](https://john.colagioia.net/blog/2022/04/15/week.html)|Fri Apr 15 2022|
 |[Real Life in Star Trek, The Final Frontier](https://john.colagioia.net/blog/2022/04/14/tff.html)|Thu Apr 14 2022|
 |[Developer Journal, First Paleontology Lecture](https://john.colagioia.net/blog/2022/04/11/paleontology.html)|Mon Apr 11 2022|
