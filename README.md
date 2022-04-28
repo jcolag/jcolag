@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The Care and Feeding of Plain Text](https://john.colagioia.net/blog/2022/04/27/plain-text.html)|Wed Apr 27 2022|
 |[Developer Journal, DNA Day 🧬](https://john.colagioia.net/blog/2022/04/25/dna.html)|Mon Apr 25 2022|
 |[Don’t Feed the Invisible Authoritarians](https://john.colagioia.net/blog/2022/04/24/invisible.html)|Sun Apr 24 2022|
 |[Free Culture Book Club — Moose Lake Cartoons](https://john.colagioia.net/blog/2022/04/23/moose.html)|Sat Apr 23 2022|
 |[Tweets from 04/18 to 04/22](https://john.colagioia.net/blog/2022/04/22/week.html)|Fri Apr 22 2022|
 |[Real Life in Star Trek, The Undiscovered Country](https://john.colagioia.net/blog/2022/04/21/tuc.html)|Thu Apr 21 2022|
 |[Developer Journal, World Heritage Day](https://john.colagioia.net/blog/2022/04/18/monuments.html)|Mon Apr 18 2022|
-|[Free Culture Book Club — Collectivity](https://john.colagioia.net/blog/2022/04/16/collectivity.html)|Sat Apr 16 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
