@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Generations](https://john.colagioia.net/blog/2022/04/28/generations.html)|Thu Apr 28 2022|
 |[The Care and Feeding of Plain Text](https://john.colagioia.net/blog/2022/04/27/plain-text.html)|Wed Apr 27 2022|
 |[Developer Journal, DNA Day 🧬](https://john.colagioia.net/blog/2022/04/25/dna.html)|Mon Apr 25 2022|
 |[Don’t Feed the Invisible Authoritarians](https://john.colagioia.net/blog/2022/04/24/invisible.html)|Sun Apr 24 2022|
