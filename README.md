@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Twitter Troubles, or the 280-Character Blues](https://john.colagioia.net/blog/2022/05/01/twitter.html)|Sun May 01 2022|
 |[Free Culture Book Club — Lunatics](https://john.colagioia.net/blog/2022/04/30/lunatics.html)|Sat Apr 30 2022|
 |[Tweets from 04/25 to 04/29](https://john.colagioia.net/blog/2022/04/29/week.html)|Fri Apr 29 2022|
 |[Real Life in Star Trek, Generations](https://john.colagioia.net/blog/2022/04/28/generations.html)|Thu Apr 28 2022|
