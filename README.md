@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, International Workers’ Day, belated](https://john.colagioia.net/blog/2022/05/02/may.html)|Mon May 02 2022|
 |[Twitter Troubles, or the 280-Character Blues](https://john.colagioia.net/blog/2022/05/01/twitter.html)|Sun May 01 2022|
 |[Free Culture Book Club — Lunatics](https://john.colagioia.net/blog/2022/04/30/lunatics.html)|Sat Apr 30 2022|
 |[Tweets from 04/25 to 04/29](https://john.colagioia.net/blog/2022/04/29/week.html)|Fri Apr 29 2022|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Don’t Feed the Invisible Authoritarians](https://john.colagioia.net/blog/2022/04/24/invisible.html)|Sun Apr 24 2022|
 |[Free Culture Book Club — Moose Lake Cartoons](https://john.colagioia.net/blog/2022/04/23/moose.html)|Sat Apr 23 2022|
 |[Tweets from 04/18 to 04/22](https://john.colagioia.net/blog/2022/04/22/week.html)|Fri Apr 22 2022|
-|[Real Life in Star Trek, The Undiscovered Country](https://john.colagioia.net/blog/2022/04/21/tuc.html)|Thu Apr 21 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
