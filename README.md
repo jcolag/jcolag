@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Virtual Danger, part 1](https://john.colagioia.net/blog/2022/05/07/danger1.html)|Sat May 07 2022|
 |[Tweets from 05/02 to 05/06](https://john.colagioia.net/blog/2022/05/06/week.html)|Fri May 06 2022|
 |[Real Life in Star Trek, Movies Summary](https://john.colagioia.net/blog/2022/05/05/films.html)|Thu May 05 2022|
 |[Developer Journal, International Workers’ Day, belated](https://john.colagioia.net/blog/2022/05/02/may.html)|Mon May 02 2022|
