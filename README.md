@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Supporting the Right to Choose](https://john.colagioia.net/blog/2022/05/08/alito.html)|Sun May 08 2022|
 |[Free Culture Book Club — Virtual Danger, part 1](https://john.colagioia.net/blog/2022/05/07/danger1.html)|Sat May 07 2022|
 |[Tweets from 05/02 to 05/06](https://john.colagioia.net/blog/2022/05/06/week.html)|Fri May 06 2022|
 |[Real Life in Star Trek, Movies Summary](https://john.colagioia.net/blog/2022/05/05/films.html)|Thu May 05 2022|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Lunatics](https://john.colagioia.net/blog/2022/04/30/lunatics.html)|Sat Apr 30 2022|
 |[Tweets from 04/25 to 04/29](https://john.colagioia.net/blog/2022/04/29/week.html)|Fri Apr 29 2022|
 |[Real Life in Star Trek, Generations](https://john.colagioia.net/blog/2022/04/28/generations.html)|Thu Apr 28 2022|
-|[The Care and Feeding of Plain Text](https://john.colagioia.net/blog/2022/04/27/plain-text.html)|Wed Apr 27 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
