@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, International Workers’ Day, belated](https://john.colagioia.net/blog/2022/05/02/may.html)|Mon May 02 2022|
 |[Twitter Troubles, or the 280-Character Blues](https://john.colagioia.net/blog/2022/05/01/twitter.html)|Sun May 01 2022|
 |[Free Culture Book Club — Lunatics](https://john.colagioia.net/blog/2022/04/30/lunatics.html)|Sat Apr 30 2022|
-|[Tweets from 04/25 to 04/29](https://john.colagioia.net/blog/2022/04/29/week.html)|Fri Apr 29 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
