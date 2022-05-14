@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 05/09 to 05/13](https://john.colagioia.net/blog/2022/05/13/week.html)|Fri May 13 2022|
 |[Real Life in Star Trek, Final Summary](https://john.colagioia.net/blog/2022/05/12/summary.html)|Thu May 12 2022|
 |[Dragging and Dropping on the Web](https://john.colagioia.net/blog/2022/05/11/drag-drop.html)|Wed May 11 2022|
 |[Developer Journal, Europe Day](https://john.colagioia.net/blog/2022/05/09/europe.html)|Mon May 09 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Virtual Danger, part 1](https://john.colagioia.net/blog/2022/05/07/danger1.html)|Sat May 07 2022|
 |[Tweets from 05/02 to 05/06](https://john.colagioia.net/blog/2022/05/06/week.html)|Fri May 06 2022|
 |[Real Life in Star Trek, Movies Summary](https://john.colagioia.net/blog/2022/05/05/films.html)|Thu May 05 2022|
-|[Developer Journal, International Workers’ Day, belated](https://john.colagioia.net/blog/2022/05/02/may.html)|Mon May 02 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
