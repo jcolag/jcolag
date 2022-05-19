@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Dragging and Dropping on the Web](https://john.colagioia.net/blog/2022/05/11/drag-drop.html)|Wed May 11 2022|
 |[Developer Journal, Europe Day](https://john.colagioia.net/blog/2022/05/09/europe.html)|Mon May 09 2022|
 |[Supporting the Right to Choose](https://john.colagioia.net/blog/2022/05/08/alito.html)|Sun May 08 2022|
-|[Free Culture Book Club — Virtual Danger, part 1](https://john.colagioia.net/blog/2022/05/07/danger1.html)|Sat May 07 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
