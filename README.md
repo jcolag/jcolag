@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Virtual Danger, part 2](https://john.colagioia.net/blog/2022/05/14/danger2.html)|Sat May 14 2022|
 |[Tweets from 05/09 to 05/13](https://john.colagioia.net/blog/2022/05/13/week.html)|Fri May 13 2022|
 |[Real Life in Star Trek, Final Summary](https://john.colagioia.net/blog/2022/05/12/summary.html)|Thu May 12 2022|
-|[Dragging and Dropping on the Web](https://john.colagioia.net/blog/2022/05/11/drag-drop.html)|Wed May 11 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
