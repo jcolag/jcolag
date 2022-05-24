@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, New York Public Library](https://john.colagioia.net/blog/2022/05/23/nypl.html)|Mon May 23 2022|
 |[Free Culture Book Club — Virtual Danger, part 3](https://john.colagioia.net/blog/2022/05/21/danger3.html)|Sat May 21 2022|
 |[Tweets from 05/16 to 05/20](https://john.colagioia.net/blog/2022/05/20/week.html)|Fri May 20 2022|
 |[Real Life in Star Trek, Encounter at Farpoint, part 1](https://john.colagioia.net/blog/2022/05/19/farpoint1.html)|Thu May 19 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Close Reading of Roe v Wade](https://john.colagioia.net/blog/2022/05/15/roe.html)|Sun May 15 2022|
 |[Free Culture Book Club — Virtual Danger, part 2](https://john.colagioia.net/blog/2022/05/14/danger2.html)|Sat May 14 2022|
 |[Tweets from 05/09 to 05/13](https://john.colagioia.net/blog/2022/05/13/week.html)|Fri May 13 2022|
-|[Real Life in Star Trek, Final Summary](https://john.colagioia.net/blog/2022/05/12/summary.html)|Thu May 12 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
