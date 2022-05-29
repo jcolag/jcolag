@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Virtual Danger, part 4](https://john.colagioia.net/blog/2022/05/28/danger4.html)|Sat May 28 2022|
 |[Tweets from 05/23 to 05/27](https://john.colagioia.net/blog/2022/05/27/week.html)|Fri May 27 2022|
 |[Real Life in Star Trek, Encounter at Farpoint, part 2](https://john.colagioia.net/blog/2022/05/26/farpoint2.html)|Thu May 26 2022|
 |[Developer Journal, New York Public Library](https://john.colagioia.net/blog/2022/05/23/nypl.html)|Mon May 23 2022|
