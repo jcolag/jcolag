@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 05/23 to 05/27](https://john.colagioia.net/blog/2022/05/27/week.html)|Fri May 27 2022|
 |[Real Life in Star Trek, Encounter at Farpoint, part 2](https://john.colagioia.net/blog/2022/05/26/farpoint2.html)|Thu May 26 2022|
 |[Developer Journal, New York Public Library](https://john.colagioia.net/blog/2022/05/23/nypl.html)|Mon May 23 2022|
-|[Free Culture Book Club — Virtual Danger, part 3](https://john.colagioia.net/blog/2022/05/21/danger3.html)|Sat May 21 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
