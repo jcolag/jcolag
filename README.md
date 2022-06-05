@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Counterfeit Monkey](https://john.colagioia.net/blog/2022/06/04/monkey.html)|Sat Jun 04 2022|
 |[Tweets from 05/30 to 06/03](https://john.colagioia.net/blog/2022/06/03/week.html)|Fri Jun 03 2022|
 |[Real Life in Star Trek, The Naked Now](https://john.colagioia.net/blog/2022/06/02/naked.html)|Thu Jun 02 2022|
 |[Developer Journal, Grace Andrews](https://john.colagioia.net/blog/2022/05/30/andrews.html)|Mon May 30 2022|
