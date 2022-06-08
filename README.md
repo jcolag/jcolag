@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Naked Now](https://john.colagioia.net/blog/2022/06/02/naked.html)|Thu Jun 02 2022|
 |[Developer Journal, Grace Andrews](https://john.colagioia.net/blog/2022/05/30/andrews.html)|Mon May 30 2022|
 |[Free Culture Book Club — Virtual Danger, part 4](https://john.colagioia.net/blog/2022/05/28/danger4.html)|Sat May 28 2022|
-|[Tweets from 05/23 to 05/27](https://john.colagioia.net/blog/2022/05/27/week.html)|Fri May 27 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
