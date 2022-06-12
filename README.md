@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Captain Quark, part 1](https://john.colagioia.net/blog/2022/06/11/quark1.html)|Sat Jun 11 2022|
 |[Tweets from 06/06 to 06/10](https://john.colagioia.net/blog/2022/06/10/week.html)|Fri Jun 10 2022|
 |[Real Life in Star Trek, Code Of Honor](https://john.colagioia.net/blog/2022/06/09/code-honor.html)|Thu Jun 09 2022|
 |[Developer Journal, D-Day](https://john.colagioia.net/blog/2022/06/06/dday.html)|Mon Jun 06 2022|
