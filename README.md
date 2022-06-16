@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 06/06 to 06/10](https://john.colagioia.net/blog/2022/06/10/week.html)|Fri Jun 10 2022|
 |[Real Life in Star Trek, Code Of Honor](https://john.colagioia.net/blog/2022/06/09/code-honor.html)|Thu Jun 09 2022|
 |[Developer Journal, D-Day](https://john.colagioia.net/blog/2022/06/06/dday.html)|Mon Jun 06 2022|
-|[Free Culture Book Club — Counterfeit Monkey](https://john.colagioia.net/blog/2022/06/04/monkey.html)|Sat Jun 04 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
