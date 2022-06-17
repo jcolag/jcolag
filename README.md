@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Last Outpost](https://john.colagioia.net/blog/2022/06/16/outpost.html)|Thu Jun 16 2022|
 |[Developer Journal, James Clerk Maxwell](https://john.colagioia.net/blog/2022/06/13/maxwell.html)|Mon Jun 13 2022|
 |[Free Culture Book Club — Captain Quark, part 1](https://john.colagioia.net/blog/2022/06/11/quark1.html)|Sat Jun 11 2022|
 |[Tweets from 06/06 to 06/10](https://john.colagioia.net/blog/2022/06/10/week.html)|Fri Jun 10 2022|
