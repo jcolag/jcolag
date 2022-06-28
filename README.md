@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, National PTSD Awareness Day](https://john.colagioia.net/blog/2022/06/27/ptsd.html)|Mon Jun 27 2022|
 |[The Powder Keg](https://john.colagioia.net/blog/2022/06/26/law.html)|Sun Jun 26 2022|
 |[Free Culture Book Club — Captain Quark, part 3](https://john.colagioia.net/blog/2022/06/25/quark3.html)|Sat Jun 25 2022|
 |[Tweets from 06/20 to 06/24](https://john.colagioia.net/blog/2022/06/24/week.html)|Fri Jun 24 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, World Refugee Day](https://john.colagioia.net/blog/2022/06/20/refugee.html)|Mon Jun 20 2022|
 |[Free Culture Book Club — Captain Quark, part 2](https://john.colagioia.net/blog/2022/06/18/quark2.html)|Sat Jun 18 2022|
 |[Tweets from 06/13 to 06/17](https://john.colagioia.net/blog/2022/06/17/week.html)|Fri Jun 17 2022|
-|[Real Life in Star Trek, The Last Outpost](https://john.colagioia.net/blog/2022/06/16/outpost.html)|Thu Jun 16 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
