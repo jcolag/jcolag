@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 06/20 to 06/24](https://john.colagioia.net/blog/2022/06/24/week.html)|Fri Jun 24 2022|
 |[Real Life in Star Trek, Where No One Has Gone Before](https://john.colagioia.net/blog/2022/06/23/gone.html)|Thu Jun 23 2022|
 |[Developer Journal, World Refugee Day](https://john.colagioia.net/blog/2022/06/20/refugee.html)|Mon Jun 20 2022|
-|[Free Culture Book Club — Captain Quark, part 2](https://john.colagioia.net/blog/2022/06/18/quark2.html)|Sat Jun 18 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
