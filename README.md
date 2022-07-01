@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Lonely Among Us](https://john.colagioia.net/blog/2022/06/30/lonely.html)|Thu Jun 30 2022|
 |[Developer Journal, National PTSD Awareness Day](https://john.colagioia.net/blog/2022/06/27/ptsd.html)|Mon Jun 27 2022|
 |[The Powder Keg](https://john.colagioia.net/blog/2022/06/26/law.html)|Sun Jun 26 2022|
 |[Free Culture Book Club — Captain Quark, part 3](https://john.colagioia.net/blog/2022/06/25/quark3.html)|Sat Jun 25 2022|
