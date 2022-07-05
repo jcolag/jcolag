@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Independence Day](https://john.colagioia.net/blog/2022/07/04/independence.html)|Mon Jul 04 2022|
 |[A Heritage-Based Reading Schedule](https://john.colagioia.net/blog/2022/07/03/reading.html)|Sun Jul 03 2022|
 |[Free Culture Book Club — Captain Quark, part 4](https://john.colagioia.net/blog/2022/07/02/quark4.html)|Sat Jul 02 2022|
 |[Tweets from 06/27 to 07/01](https://john.colagioia.net/blog/2022/07/01/week.html)|Fri Jul 01 2022|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[The Powder Keg](https://john.colagioia.net/blog/2022/06/26/law.html)|Sun Jun 26 2022|
 |[Free Culture Book Club — Captain Quark, part 3](https://john.colagioia.net/blog/2022/06/25/quark3.html)|Sat Jun 25 2022|
 |[Tweets from 06/20 to 06/24](https://john.colagioia.net/blog/2022/06/24/week.html)|Fri Jun 24 2022|
-|[Real Life in Star Trek, Where No One Has Gone Before](https://john.colagioia.net/blog/2022/06/23/gone.html)|Thu Jun 23 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
