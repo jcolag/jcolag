@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 07/04 to 07/08](https://john.colagioia.net/blog/2022/07/08/week.html)|Fri Jul 08 2022|
 |[Real Life in Star Trek, Justice](https://john.colagioia.net/blog/2022/07/07/justice.html)|Thu Jul 07 2022|
 |[Developer Journal, Independence Day](https://john.colagioia.net/blog/2022/07/04/independence.html)|Mon Jul 04 2022|
 |[A Heritage-Based Reading Schedule](https://john.colagioia.net/blog/2022/07/03/reading.html)|Sun Jul 03 2022|
 |[Free Culture Book Club — Captain Quark, part 4](https://john.colagioia.net/blog/2022/07/02/quark4.html)|Sat Jul 02 2022|
 |[Tweets from 06/27 to 07/01](https://john.colagioia.net/blog/2022/07/01/week.html)|Fri Jul 01 2022|
 |[Real Life in Star Trek, Lonely Among Us](https://john.colagioia.net/blog/2022/06/30/lonely.html)|Thu Jun 30 2022|
-|[Developer Journal, National PTSD Awareness Day](https://john.colagioia.net/blog/2022/06/27/ptsd.html)|Mon Jun 27 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
