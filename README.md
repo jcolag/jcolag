@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The AllStore — Hypothetical E-Commerce](https://john.colagioia.net/blog/2022/07/10/prime.html)|Sun Jul 10 2022|
 |[Free Culture Book Club — Game Grab Bag](https://john.colagioia.net/blog/2022/07/09/games.html)|Sat Jul 09 2022|
 |[Tweets from 07/04 to 07/08](https://john.colagioia.net/blog/2022/07/08/week.html)|Fri Jul 08 2022|
 |[Real Life in Star Trek, Justice](https://john.colagioia.net/blog/2022/07/07/justice.html)|Thu Jul 07 2022|
