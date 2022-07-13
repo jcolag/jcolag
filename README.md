@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Independence Day](https://john.colagioia.net/blog/2022/07/04/independence.html)|Mon Jul 04 2022|
 |[A Heritage-Based Reading Schedule](https://john.colagioia.net/blog/2022/07/03/reading.html)|Sun Jul 03 2022|
 |[Free Culture Book Club — Captain Quark, part 4](https://john.colagioia.net/blog/2022/07/02/quark4.html)|Sat Jul 02 2022|
-|[Tweets from 06/27 to 07/01](https://john.colagioia.net/blog/2022/07/01/week.html)|Fri Jul 01 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
