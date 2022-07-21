@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Battle](https://john.colagioia.net/blog/2022/07/14/battle.html)|Thu Jul 14 2022|
 |[Developer Journal, World Population Day](https://john.colagioia.net/blog/2022/07/11/population.html)|Mon Jul 11 2022|
 |[The AllStore — Hypothetical E-Commerce](https://john.colagioia.net/blog/2022/07/10/prime.html)|Sun Jul 10 2022|
-|[Free Culture Book Club — Game Grab Bag](https://john.colagioia.net/blog/2022/07/09/games.html)|Sat Jul 09 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
