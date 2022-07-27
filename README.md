@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Hide and Q](https://john.colagioia.net/blog/2022/07/21/hide-q.html)|Thu Jul 21 2022|
 |[Developer Journal, Mandela Day](https://john.colagioia.net/blog/2022/07/18/mandela.html)|Mon Jul 18 2022|
 |[Free Culture Book Club — Banjo Players/Die, part 1](https://john.colagioia.net/blog/2022/07/16/banjo-1.html)|Sat Jul 16 2022|
-|[Tweets from 07/11 to 07/15](https://john.colagioia.net/blog/2022/07/15/week.html)|Fri Jul 15 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
