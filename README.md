@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Haven](https://john.colagioia.net/blog/2022/07/28/haven.html)|Thu Jul 28 2022|
 |[Developer Journal, Founding of Caracas](https://john.colagioia.net/blog/2022/07/25/caracas.html)|Mon Jul 25 2022|
 |[Dying Is Easy; Redemption Is Hard](https://john.colagioia.net/blog/2022/07/24/redemption.html)|Sun Jul 24 2022|
 |[Free Culture Book Club — Banjo Players/Die, part 2](https://john.colagioia.net/blog/2022/07/23/banjo-2.html)|Sat Jul 23 2022|
