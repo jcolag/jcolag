@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Banjo Players/Die, part 3](https://john.colagioia.net/blog/2022/07/30/banjo-3.html)|Sat Jul 30 2022|
 |[Tweets from 07/25 to 07/29](https://john.colagioia.net/blog/2022/07/29/week.html)|Fri Jul 29 2022|
 |[Real Life in Star Trek, Haven](https://john.colagioia.net/blog/2022/07/28/haven.html)|Thu Jul 28 2022|
 |[Developer Journal, Founding of Caracas](https://john.colagioia.net/blog/2022/07/25/caracas.html)|Mon Jul 25 2022|
