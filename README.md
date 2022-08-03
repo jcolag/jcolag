@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Founding of Caracas](https://john.colagioia.net/blog/2022/07/25/caracas.html)|Mon Jul 25 2022|
 |[Dying Is Easy; Redemption Is Hard](https://john.colagioia.net/blog/2022/07/24/redemption.html)|Sun Jul 24 2022|
 |[Free Culture Book Club — Banjo Players/Die, part 2](https://john.colagioia.net/blog/2022/07/23/banjo-2.html)|Sat Jul 23 2022|
-|[Tweets from 07/18 to 07/22](https://john.colagioia.net/blog/2022/07/22/week.html)|Fri Jul 22 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
