@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Big Goodbye](https://john.colagioia.net/blog/2022/08/04/big-goodbye.html)|Thu Aug 04 2022|
 |[Developer Journal, Lughnasadh](https://john.colagioia.net/blog/2022/08/01/lughnasa.html)|Mon Aug 01 2022|
 |[Free Culture Book Club — Banjo Players/Die, part 3](https://john.colagioia.net/blog/2022/07/30/banjo-3.html)|Sat Jul 30 2022|
 |[Tweets from 07/25 to 07/29](https://john.colagioia.net/blog/2022/07/29/week.html)|Fri Jul 29 2022|
 |[Real Life in Star Trek, Haven](https://john.colagioia.net/blog/2022/07/28/haven.html)|Thu Jul 28 2022|
 |[Developer Journal, Founding of Caracas](https://john.colagioia.net/blog/2022/07/25/caracas.html)|Mon Jul 25 2022|
-|[Dying Is Easy; Redemption Is Hard](https://john.colagioia.net/blog/2022/07/24/redemption.html)|Sun Jul 24 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
