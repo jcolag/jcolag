@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Banjo Players/Die, part 4](https://john.colagioia.net/blog/2022/08/06/banjo-4.html)|Sat Aug 06 2022|
 |[Tweets from 08/01 to 08/05](https://john.colagioia.net/blog/2022/08/05/week.html)|Fri Aug 05 2022|
 |[Real Life in Star Trek, The Big Goodbye](https://john.colagioia.net/blog/2022/08/04/big-goodbye.html)|Thu Aug 04 2022|
 |[Developer Journal, Lughnasadh](https://john.colagioia.net/blog/2022/08/01/lughnasa.html)|Mon Aug 01 2022|
