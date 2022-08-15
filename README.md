@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Returning to the Fold](https://john.colagioia.net/blog/2022/08/14/return.html)|Sun Aug 14 2022|
 |[Free Culture Book Club — Tom Lehrer](https://john.colagioia.net/blog/2022/08/13/lehrer.html)|Sat Aug 13 2022|
 |[Tweets from 08/08 to 08/12](https://john.colagioia.net/blog/2022/08/12/week.html)|Fri Aug 12 2022|
 |[Real Life in Star Trek, Datalore](https://john.colagioia.net/blog/2022/08/11/datalore.html)|Thu Aug 11 2022|
