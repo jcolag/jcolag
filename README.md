@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Tivoli Gardens](https://john.colagioia.net/blog/2022/08/15/tivoli.html)|Mon Aug 15 2022|
 |[Returning to the Fold](https://john.colagioia.net/blog/2022/08/14/return.html)|Sun Aug 14 2022|
 |[Free Culture Book Club — Tom Lehrer](https://john.colagioia.net/blog/2022/08/13/lehrer.html)|Sat Aug 13 2022|
 |[Tweets from 08/08 to 08/12](https://john.colagioia.net/blog/2022/08/12/week.html)|Fri Aug 12 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Indigenous Peoples Day](https://john.colagioia.net/blog/2022/08/08/indigenous.html)|Mon Aug 08 2022|
 |[Free Culture Book Club — Banjo Players/Die, part 4](https://john.colagioia.net/blog/2022/08/06/banjo-4.html)|Sat Aug 06 2022|
 |[Tweets from 08/01 to 08/05](https://john.colagioia.net/blog/2022/08/05/week.html)|Fri Aug 05 2022|
-|[Real Life in Star Trek, The Big Goodbye](https://john.colagioia.net/blog/2022/08/04/big-goodbye.html)|Thu Aug 04 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
