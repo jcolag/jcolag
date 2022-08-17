@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Datalore](https://john.colagioia.net/blog/2022/08/11/datalore.html)|Thu Aug 11 2022|
 |[Developer Journal, Indigenous Peoples Day](https://john.colagioia.net/blog/2022/08/08/indigenous.html)|Mon Aug 08 2022|
 |[Free Culture Book Club — Banjo Players/Die, part 4](https://john.colagioia.net/blog/2022/08/06/banjo-4.html)|Sat Aug 06 2022|
-|[Tweets from 08/01 to 08/05](https://john.colagioia.net/blog/2022/08/05/week.html)|Fri Aug 05 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
