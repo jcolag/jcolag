@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Angel One](https://john.colagioia.net/blog/2022/08/18/angel.html)|Thu Aug 18 2022|
 |[Simple Build Scripts](https://john.colagioia.net/blog/2022/08/17/build-script.html)|Wed Aug 17 2022|
 |[Developer Journal, Tivoli Gardens](https://john.colagioia.net/blog/2022/08/15/tivoli.html)|Mon Aug 15 2022|
 |[Returning to the Fold](https://john.colagioia.net/blog/2022/08/14/return.html)|Sun Aug 14 2022|
