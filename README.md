@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Public Records, Privacy, People-Search Antics, One Year Later](https://john.colagioia.net/blog/2022/08/21/records-2.html)|Sun Aug 21 2022|
 |[Free Culture Book Club — Starborn](https://john.colagioia.net/blog/2022/08/20/starborn.html)|Sat Aug 20 2022|
 |[Tweets from 08/15 to 08/19](https://john.colagioia.net/blog/2022/08/19/week.html)|Fri Aug 19 2022|
 |[Real Life in Star Trek, Angel One](https://john.colagioia.net/blog/2022/08/18/angel.html)|Thu Aug 18 2022|
