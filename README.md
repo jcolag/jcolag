@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Simple Build Scripts](https://john.colagioia.net/blog/2022/08/17/build-script.html)|Wed Aug 17 2022|
 |[Developer Journal, Tivoli Gardens](https://john.colagioia.net/blog/2022/08/15/tivoli.html)|Mon Aug 15 2022|
 |[Returning to the Fold](https://john.colagioia.net/blog/2022/08/14/return.html)|Sun Aug 14 2022|
-|[Free Culture Book Club — Tom Lehrer](https://john.colagioia.net/blog/2022/08/13/lehrer.html)|Sat Aug 13 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
