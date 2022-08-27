@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 08/22 to 08/26](https://john.colagioia.net/blog/2022/08/26/week.html)|Fri Aug 26 2022|
 |[Real Life in Star Trek, 11001001](https://john.colagioia.net/blog/2022/08/25/11001001.html)|Thu Aug 25 2022|
 |[Developer Journal, Haitian Revolution](https://john.colagioia.net/blog/2022/08/22/haiti.html)|Mon Aug 22 2022|
 |[Public Records, Privacy, People-Search Antics, One Year Later](https://john.colagioia.net/blog/2022/08/21/records-2.html)|Sun Aug 21 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 08/15 to 08/19](https://john.colagioia.net/blog/2022/08/19/week.html)|Fri Aug 19 2022|
 |[Real Life in Star Trek, Angel One](https://john.colagioia.net/blog/2022/08/18/angel.html)|Thu Aug 18 2022|
 |[Simple Build Scripts](https://john.colagioia.net/blog/2022/08/17/build-script.html)|Wed Aug 17 2022|
-|[Developer Journal, Tivoli Gardens](https://john.colagioia.net/blog/2022/08/15/tivoli.html)|Mon Aug 15 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
