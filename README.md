@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Ke’Aun Charles](https://john.colagioia.net/blog/2022/08/27/charles.html)|Sat Aug 27 2022|
 |[Tweets from 08/22 to 08/26](https://john.colagioia.net/blog/2022/08/26/week.html)|Fri Aug 26 2022|
 |[Real Life in Star Trek, 11001001](https://john.colagioia.net/blog/2022/08/25/11001001.html)|Thu Aug 25 2022|
 |[Developer Journal, Haitian Revolution](https://john.colagioia.net/blog/2022/08/22/haiti.html)|Mon Aug 22 2022|
