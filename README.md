@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Starborn](https://john.colagioia.net/blog/2022/08/20/starborn.html)|Sat Aug 20 2022|
 |[Tweets from 08/15 to 08/19](https://john.colagioia.net/blog/2022/08/19/week.html)|Fri Aug 19 2022|
 |[Real Life in Star Trek, Angel One](https://john.colagioia.net/blog/2022/08/18/angel.html)|Thu Aug 18 2022|
-|[Simple Build Scripts](https://john.colagioia.net/blog/2022/08/17/build-script.html)|Wed Aug 17 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
