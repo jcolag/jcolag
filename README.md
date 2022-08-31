@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, Haitian Revolution](https://john.colagioia.net/blog/2022/08/22/haiti.html)|Mon Aug 22 2022|
 |[Public Records, Privacy, People-Search Antics, One Year Later](https://john.colagioia.net/blog/2022/08/21/records-2.html)|Sun Aug 21 2022|
 |[Free Culture Book Club — Starborn](https://john.colagioia.net/blog/2022/08/20/starborn.html)|Sat Aug 20 2022|
-|[Tweets from 08/15 to 08/19](https://john.colagioia.net/blog/2022/08/19/week.html)|Fri Aug 19 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
