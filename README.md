@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Too Short A Season](https://john.colagioia.net/blog/2022/09/01/short-season.html)|Thu Sep 01 2022|
 |[Developer Journal, Day against Nuclear Tests](https://john.colagioia.net/blog/2022/08/29/nuclear.html)|Mon Aug 29 2022|
 |[Free Culture Book Club — Ke’Aun Charles](https://john.colagioia.net/blog/2022/08/27/charles.html)|Sat Aug 27 2022|
 |[Tweets from 08/22 to 08/26](https://john.colagioia.net/blog/2022/08/26/week.html)|Fri Aug 26 2022|
 |[Real Life in Star Trek, 11001001](https://john.colagioia.net/blog/2022/08/25/11001001.html)|Thu Aug 25 2022|
 |[Developer Journal, Haitian Revolution](https://john.colagioia.net/blog/2022/08/22/haiti.html)|Mon Aug 22 2022|
-|[Public Records, Privacy, People-Search Antics, One Year Later](https://john.colagioia.net/blog/2022/08/21/records-2.html)|Sun Aug 21 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
