@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, When The Bough Breaks](https://john.colagioia.net/blog/2022/09/08/bough-breaks.html)|Thu Sep 08 2022|
 |[Developer Journal, International Day of Charity](https://john.colagioia.net/blog/2022/09/05/charity.html)|Mon Sep 05 2022|
 |[The Social Media Site of Record](https://john.colagioia.net/blog/2022/09/04/social-record.html)|Sun Sep 04 2022|
 |[Free Culture Book Club — Quand manigancent les haricots](https://john.colagioia.net/blog/2022/09/03/haricots.html)|Sat Sep 03 2022|
