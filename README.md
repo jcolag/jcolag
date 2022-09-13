@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, María de Zayas](https://john.colagioia.net/blog/2022/09/12/dezayas.html)|Mon Sep 12 2022|
 |[Free Culture Book Club — Quand manigancent les haricots pt 2](https://john.colagioia.net/blog/2022/09/10/haricots-2.html)|Sat Sep 10 2022|
 |[Tweets from 09/05 to 09/09](https://john.colagioia.net/blog/2022/09/09/week.html)|Fri Sep 09 2022|
 |[Real Life in Star Trek, When The Bough Breaks](https://john.colagioia.net/blog/2022/09/08/bough-breaks.html)|Thu Sep 08 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[The Social Media Site of Record](https://john.colagioia.net/blog/2022/09/04/social-record.html)|Sun Sep 04 2022|
 |[Free Culture Book Club — Quand manigancent les haricots](https://john.colagioia.net/blog/2022/09/03/haricots.html)|Sat Sep 03 2022|
 |[Tweets from 08/29 to 09/02](https://john.colagioia.net/blog/2022/09/02/week.html)|Fri Sep 02 2022|
-|[Real Life in Star Trek, Too Short A Season](https://john.colagioia.net/blog/2022/09/01/short-season.html)|Thu Sep 01 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
