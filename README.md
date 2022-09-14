@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, International Day of Charity](https://john.colagioia.net/blog/2022/09/05/charity.html)|Mon Sep 05 2022|
 |[The Social Media Site of Record](https://john.colagioia.net/blog/2022/09/04/social-record.html)|Sun Sep 04 2022|
 |[Free Culture Book Club — Quand manigancent les haricots](https://john.colagioia.net/blog/2022/09/03/haricots.html)|Sat Sep 03 2022|
-|[Tweets from 08/29 to 09/02](https://john.colagioia.net/blog/2022/09/02/week.html)|Fri Sep 02 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
