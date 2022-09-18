@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Quand manigancent les haricots pt 3](https://john.colagioia.net/blog/2022/09/17/haricots-3.html)|Sat Sep 17 2022|
 |[Tweets from 09/12 to 09/16](https://john.colagioia.net/blog/2022/09/16/week.html)|Fri Sep 16 2022|
 |[Real Life in Star Trek, Home Soil](https://john.colagioia.net/blog/2022/09/15/home-soil.html)|Thu Sep 15 2022|
 |[Developer Journal, María de Zayas](https://john.colagioia.net/blog/2022/09/12/dezayas.html)|Mon Sep 12 2022|
