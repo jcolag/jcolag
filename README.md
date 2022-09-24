@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 09/19 to 09/23](https://john.colagioia.net/blog/2022/09/23/week.html)|Fri Sep 23 2022|
 |[Real Life in Star Trek, Coming Of Age](https://john.colagioia.net/blog/2022/09/22/coming-age.html)|Thu Sep 22 2022|
 |[Developer Journal, Washington’s Farewell Address](https://john.colagioia.net/blog/2022/09/19/washington.html)|Mon Sep 19 2022|
 |[Free Culture Book Club — Quand manigancent les haricots pt 3](https://john.colagioia.net/blog/2022/09/17/haricots-3.html)|Sat Sep 17 2022|
 |[Tweets from 09/12 to 09/16](https://john.colagioia.net/blog/2022/09/16/week.html)|Fri Sep 16 2022|
 |[Real Life in Star Trek, Home Soil](https://john.colagioia.net/blog/2022/09/15/home-soil.html)|Thu Sep 15 2022|
-|[Developer Journal, María de Zayas](https://john.colagioia.net/blog/2022/09/12/dezayas.html)|Mon Sep 12 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
