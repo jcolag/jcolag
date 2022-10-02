@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Bulletproof Blues, part 2](https://john.colagioia.net/blog/2022/10/01/bulletproof-2.html)|Sat Oct 01 2022|
 |[Tweets from 09/26 to 09/30](https://john.colagioia.net/blog/2022/09/30/week.html)|Fri Sep 30 2022|
 |[Real Life in Star Trek, Heart of Glory](https://john.colagioia.net/blog/2022/09/29/heart-glory.html)|Thu Sep 29 2022|
 |[Developer Journal, European Day of Languages](https://john.colagioia.net/blog/2022/09/26/language.html)|Mon Sep 26 2022|
