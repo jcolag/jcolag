@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Heart of Glory](https://john.colagioia.net/blog/2022/09/29/heart-glory.html)|Thu Sep 29 2022|
 |[Developer Journal, European Day of Languages](https://john.colagioia.net/blog/2022/09/26/language.html)|Mon Sep 26 2022|
 |[Free Culture Book Club — Bulletproof Blues, part 1](https://john.colagioia.net/blog/2022/09/24/bulletproof-1.html)|Sat Sep 24 2022|
-|[Tweets from 09/19 to 09/23](https://john.colagioia.net/blog/2022/09/23/week.html)|Fri Sep 23 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
