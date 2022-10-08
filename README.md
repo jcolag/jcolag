@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 10/03 to 10/07](https://john.colagioia.net/blog/2022/10/07/week.html)|Fri Oct 07 2022|
 |[Real Life in Star Trek, The Arsenal Of Freedom](https://john.colagioia.net/blog/2022/10/06/arsenal-freedom.html)|Thu Oct 06 2022|
 |[Developer Journal, World Habitat Day](https://john.colagioia.net/blog/2022/10/03/habitat.html)|Mon Oct 03 2022|
 |[Free Culture Book Club — Bulletproof Blues, part 2](https://john.colagioia.net/blog/2022/10/01/bulletproof-2.html)|Sat Oct 01 2022|
 |[Tweets from 09/26 to 09/30](https://john.colagioia.net/blog/2022/09/30/week.html)|Fri Sep 30 2022|
 |[Real Life in Star Trek, Heart of Glory](https://john.colagioia.net/blog/2022/09/29/heart-glory.html)|Thu Sep 29 2022|
-|[Developer Journal, European Day of Languages](https://john.colagioia.net/blog/2022/09/26/language.html)|Mon Sep 26 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
