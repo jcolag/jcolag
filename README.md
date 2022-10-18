@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Eradication of Poverty](https://john.colagioia.net/blog/2022/10/17/poverty.html)|Mon Oct 17 2022|
 |[Free Culture Book Club — American Dream, part 2](https://john.colagioia.net/blog/2022/10/15/american-dream-2.html)|Sat Oct 15 2022|
 |[Tweets from 10/10 to 10/14](https://john.colagioia.net/blog/2022/10/14/week.html)|Fri Oct 14 2022|
 |[Real Life in Star Trek, Symbiosis](https://john.colagioia.net/blog/2022/10/13/symbiosis.html)|Thu Oct 13 2022|
 |[Developer Journal, Indigenous Peoples’ Day](https://john.colagioia.net/blog/2022/10/10/indigenous.html)|Mon Oct 10 2022|
 |[Free Culture Book Club — American Dream, part 1](https://john.colagioia.net/blog/2022/10/08/american-dream-1.html)|Sat Oct 08 2022|
 |[Tweets from 10/03 to 10/07](https://john.colagioia.net/blog/2022/10/07/week.html)|Fri Oct 07 2022|
-|[Real Life in Star Trek, The Arsenal Of Freedom](https://john.colagioia.net/blog/2022/10/06/arsenal-freedom.html)|Thu Oct 06 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
