@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 10/10 to 10/14](https://john.colagioia.net/blog/2022/10/14/week.html)|Fri Oct 14 2022|
 |[Real Life in Star Trek, Symbiosis](https://john.colagioia.net/blog/2022/10/13/symbiosis.html)|Thu Oct 13 2022|
 |[Developer Journal, Indigenous Peoples’ Day](https://john.colagioia.net/blog/2022/10/10/indigenous.html)|Mon Oct 10 2022|
-|[Free Culture Book Club — American Dream, part 1](https://john.colagioia.net/blog/2022/10/08/american-dream-1.html)|Sat Oct 08 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
