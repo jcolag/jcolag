@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — American Dream, part 3](https://john.colagioia.net/blog/2022/10/22/american-dream-3.html)|Sat Oct 22 2022|
 |[Tweets from 10/17 to 10/21](https://john.colagioia.net/blog/2022/10/21/week.html)|Fri Oct 21 2022|
 |[Real Life in Star Trek, Skin of Evil](https://john.colagioia.net/blog/2022/10/20/skin-evil.html)|Thu Oct 20 2022|
 |[Developer Journal, Eradication of Poverty](https://john.colagioia.net/blog/2022/10/17/poverty.html)|Mon Oct 17 2022|
