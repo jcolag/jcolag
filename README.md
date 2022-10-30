@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — American Dream, part 4](https://john.colagioia.net/blog/2022/10/29/american-dream-4.html)|Sat Oct 29 2022|
 |[Tweets from 10/24 to 10/28](https://john.colagioia.net/blog/2022/10/28/week.html)|Fri Oct 28 2022|
 |[Real Life in Star Trek, We’ll Always Have Paris](https://john.colagioia.net/blog/2022/10/27/paris.html)|Thu Oct 27 2022|
 |[Developer Journal, United Nations Day](https://john.colagioia.net/blog/2022/10/24/nations.html)|Mon Oct 24 2022|
