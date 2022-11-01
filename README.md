@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Halloween 🎃](https://john.colagioia.net/blog/2022/10/31/halloween.html)|Mon Oct 31 2022|
 |[Fearing Fear Itself](https://john.colagioia.net/blog/2022/10/30/fear.html)|Sun Oct 30 2022|
 |[Free Culture Book Club — American Dream, part 4](https://john.colagioia.net/blog/2022/10/29/american-dream-4.html)|Sat Oct 29 2022|
 |[Tweets from 10/24 to 10/28](https://john.colagioia.net/blog/2022/10/28/week.html)|Fri Oct 28 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Journal, United Nations Day](https://john.colagioia.net/blog/2022/10/24/nations.html)|Mon Oct 24 2022|
 |[Free Culture Book Club — American Dream, part 3](https://john.colagioia.net/blog/2022/10/22/american-dream-3.html)|Sat Oct 22 2022|
 |[Tweets from 10/17 to 10/21](https://john.colagioia.net/blog/2022/10/21/week.html)|Fri Oct 21 2022|
-|[Real Life in Star Trek, Skin of Evil](https://john.colagioia.net/blog/2022/10/20/skin-evil.html)|Thu Oct 20 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
