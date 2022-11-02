@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, We’ll Always Have Paris](https://john.colagioia.net/blog/2022/10/27/paris.html)|Thu Oct 27 2022|
 |[Developer Journal, United Nations Day](https://john.colagioia.net/blog/2022/10/24/nations.html)|Mon Oct 24 2022|
 |[Free Culture Book Club — American Dream, part 3](https://john.colagioia.net/blog/2022/10/22/american-dream-3.html)|Sat Oct 22 2022|
-|[Tweets from 10/17 to 10/21](https://john.colagioia.net/blog/2022/10/21/week.html)|Fri Oct 21 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
