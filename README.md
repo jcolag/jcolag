@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Conspiracy](https://john.colagioia.net/blog/2022/11/03/conspiracy.html)|Thu Nov 03 2022|
 |[Styles and Fonts in SVGs](https://john.colagioia.net/blog/2022/11/02/svg-font.html)|Wed Nov 02 2022|
 |[Developer Journal, Halloween 🎃](https://john.colagioia.net/blog/2022/10/31/halloween.html)|Mon Oct 31 2022|
 |[Fearing Fear Itself](https://john.colagioia.net/blog/2022/10/30/fear.html)|Sun Oct 30 2022|
