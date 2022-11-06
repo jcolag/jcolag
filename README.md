@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — American Dream, part 5](https://john.colagioia.net/blog/2022/11/05/american-dream-5.html)|Sat Nov 05 2022|
 |[Tweets from 10/31 to 11/04](https://john.colagioia.net/blog/2022/11/04/week.html)|Fri Nov 04 2022|
 |[Real Life in Star Trek, Conspiracy](https://john.colagioia.net/blog/2022/11/03/conspiracy.html)|Thu Nov 03 2022|
 |[Styles and Fonts in SVGs](https://john.colagioia.net/blog/2022/11/02/svg-font.html)|Wed Nov 02 2022|
