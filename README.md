@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Ensisheim Meteorite](https://john.colagioia.net/blog/2022/11/07/ensisheim.html)|Mon Nov 07 2022|
 |[The Chains of Fear](https://john.colagioia.net/blog/2022/11/06/fear-2.html)|Sun Nov 06 2022|
 |[Free Culture Book Club — American Dream, part 5](https://john.colagioia.net/blog/2022/11/05/american-dream-5.html)|Sat Nov 05 2022|
 |[Tweets from 10/31 to 11/04](https://john.colagioia.net/blog/2022/11/04/week.html)|Fri Nov 04 2022|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Fearing Fear Itself](https://john.colagioia.net/blog/2022/10/30/fear.html)|Sun Oct 30 2022|
 |[Free Culture Book Club — American Dream, part 4](https://john.colagioia.net/blog/2022/10/29/american-dream-4.html)|Sat Oct 29 2022|
 |[Tweets from 10/24 to 10/28](https://john.colagioia.net/blog/2022/10/28/week.html)|Fri Oct 28 2022|
-|[Real Life in Star Trek, We’ll Always Have Paris](https://john.colagioia.net/blog/2022/10/27/paris.html)|Thu Oct 27 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
