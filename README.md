@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — The Command Line Murders](https://john.colagioia.net/blog/2022/11/12/murders.html)|Sat Nov 12 2022|
 |[Tweets from 11/07 to 11/11](https://john.colagioia.net/blog/2022/11/11/week.html)|Fri Nov 11 2022|
 |[Real Life in Star Trek, The Neutral Zone](https://john.colagioia.net/blog/2022/11/10/neutral-zone.html)|Thu Nov 10 2022|
 |[(Desktop) Night Mode at…Well, Night](https://john.colagioia.net/blog/2022/11/09/night.html)|Wed Nov 09 2022|
