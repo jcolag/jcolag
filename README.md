@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Fiction — Whatever Happened to Social Media?](https://john.colagioia.net/blog/2022/11/13/social.html)|Sun Nov 13 2022|
 |[Free Culture Book Club — The Command Line Murders](https://john.colagioia.net/blog/2022/11/12/murders.html)|Sat Nov 12 2022|
 |[Tweets from 11/07 to 11/11](https://john.colagioia.net/blog/2022/11/11/week.html)|Fri Nov 11 2022|
 |[Real Life in Star Trek, The Neutral Zone](https://john.colagioia.net/blog/2022/11/10/neutral-zone.html)|Thu Nov 10 2022|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — American Dream, part 5](https://john.colagioia.net/blog/2022/11/05/american-dream-5.html)|Sat Nov 05 2022|
 |[Tweets from 10/31 to 11/04](https://john.colagioia.net/blog/2022/11/04/week.html)|Fri Nov 04 2022|
 |[Real Life in Star Trek, Conspiracy](https://john.colagioia.net/blog/2022/11/03/conspiracy.html)|Thu Nov 03 2022|
-|[Styles and Fonts in SVGs](https://john.colagioia.net/blog/2022/11/02/svg-font.html)|Wed Nov 02 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
