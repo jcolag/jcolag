@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Tweets from 11/14 to 11/18](https://john.colagioia.net/blog/2022/11/18/week.html)|Fri Nov 18 2022|
 |[Real Life in Star Trek, Season 1, TNG](https://john.colagioia.net/blog/2022/11/17/ng-season-1.html)|Thu Nov 17 2022|
 |[Using Linux](https://john.colagioia.net/blog/2022/11/16/linux.html)|Wed Nov 16 2022|
 |[Developer Journal, Moby-Dick](https://john.colagioia.net/blog/2022/11/14/moby-dick.html)|Mon Nov 14 2022|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 11/07 to 11/11](https://john.colagioia.net/blog/2022/11/11/week.html)|Fri Nov 11 2022|
 |[Real Life in Star Trek, The Neutral Zone](https://john.colagioia.net/blog/2022/11/10/neutral-zone.html)|Thu Nov 10 2022|
 |[(Desktop) Night Mode at…Well, Night](https://john.colagioia.net/blog/2022/11/09/night.html)|Wed Nov 09 2022|
-|[Developer Journal, Ensisheim Meteorite](https://john.colagioia.net/blog/2022/11/07/ensisheim.html)|Mon Nov 07 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
