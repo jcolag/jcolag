@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Redmine, part 1](https://john.colagioia.net/blog/2022/11/19/redmine-1.html)|Sat Nov 19 2022|
 |[Tweets from 11/14 to 11/18](https://john.colagioia.net/blog/2022/11/18/week.html)|Fri Nov 18 2022|
 |[Real Life in Star Trek, Season 1, TNG](https://john.colagioia.net/blog/2022/11/17/ng-season-1.html)|Thu Nov 17 2022|
 |[Using Linux](https://john.colagioia.net/blog/2022/11/16/linux.html)|Wed Nov 16 2022|
