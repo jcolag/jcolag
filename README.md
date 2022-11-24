@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Using Linux](https://john.colagioia.net/blog/2022/11/16/linux.html)|Wed Nov 16 2022|
 |[Developer Journal, Moby-Dick](https://john.colagioia.net/blog/2022/11/14/moby-dick.html)|Mon Nov 14 2022|
 |[Fiction — Whatever Happened to Social Media?](https://john.colagioia.net/blog/2022/11/13/social.html)|Sun Nov 13 2022|
-|[Free Culture Book Club — The Command Line Murders](https://john.colagioia.net/blog/2022/11/12/murders.html)|Sat Nov 12 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
