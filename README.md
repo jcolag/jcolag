@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Child](https://john.colagioia.net/blog/2022/11/24/child.html)|Thu Nov 24 2022|
 |[Developer Journal, Mayflower Compact](https://john.colagioia.net/blog/2022/11/21/mayflower.html)|Mon Nov 21 2022|
 |[A Gentle (and Biased) Guide to Mastodon](https://john.colagioia.net/blog/2022/11/20/mastodon.html)|Sun Nov 20 2022|
 |[Free Culture Book Club — Redmine, part 1](https://john.colagioia.net/blog/2022/11/19/redmine-1.html)|Sat Nov 19 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Season 1, TNG](https://john.colagioia.net/blog/2022/11/17/ng-season-1.html)|Thu Nov 17 2022|
 |[Using Linux](https://john.colagioia.net/blog/2022/11/16/linux.html)|Wed Nov 16 2022|
 |[Developer Journal, Moby-Dick](https://john.colagioia.net/blog/2022/11/14/moby-dick.html)|Mon Nov 14 2022|
-|[Fiction — Whatever Happened to Social Media?](https://john.colagioia.net/blog/2022/11/13/social.html)|Sun Nov 13 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
