@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Redmine, part 2](https://john.colagioia.net/blog/2022/11/26/redmine-2.html)|Sat Nov 26 2022|
 |[Tweets from 11/21 to 11/25](https://john.colagioia.net/blog/2022/11/25/week.html)|Fri Nov 25 2022|
 |[Real Life in Star Trek, The Child](https://john.colagioia.net/blog/2022/11/24/child.html)|Thu Nov 24 2022|
 |[Developer Journal, Mayflower Compact](https://john.colagioia.net/blog/2022/11/21/mayflower.html)|Mon Nov 21 2022|
