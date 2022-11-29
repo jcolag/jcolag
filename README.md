@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Lā Kūʻokoʻa](https://john.colagioia.net/blog/2022/11/28/kalahui.html)|Mon Nov 28 2022|
 |[Things That Worked (and Didn’t Work) in 2022](https://john.colagioia.net/blog/2022/11/27/worked.html)|Sun Nov 27 2022|
 |[Free Culture Book Club — Redmine, part 2](https://john.colagioia.net/blog/2022/11/26/redmine-2.html)|Sat Nov 26 2022|
 |[Tweets from 11/21 to 11/25](https://john.colagioia.net/blog/2022/11/25/week.html)|Fri Nov 25 2022|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[A Gentle (and Biased) Guide to Mastodon](https://john.colagioia.net/blog/2022/11/20/mastodon.html)|Sun Nov 20 2022|
 |[Free Culture Book Club — Redmine, part 1](https://john.colagioia.net/blog/2022/11/19/redmine-1.html)|Sat Nov 19 2022|
 |[Tweets from 11/14 to 11/18](https://john.colagioia.net/blog/2022/11/18/week.html)|Fri Nov 18 2022|
-|[Real Life in Star Trek, Season 1, TNG](https://john.colagioia.net/blog/2022/11/17/ng-season-1.html)|Thu Nov 17 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
