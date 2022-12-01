@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Child](https://john.colagioia.net/blog/2022/11/24/child.html)|Thu Nov 24 2022|
 |[Developer Journal, Mayflower Compact](https://john.colagioia.net/blog/2022/11/21/mayflower.html)|Mon Nov 21 2022|
 |[A Gentle (and Biased) Guide to Mastodon](https://john.colagioia.net/blog/2022/11/20/mastodon.html)|Sun Nov 20 2022|
-|[Free Culture Book Club — Redmine, part 1](https://john.colagioia.net/blog/2022/11/19/redmine-1.html)|Sat Nov 19 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
