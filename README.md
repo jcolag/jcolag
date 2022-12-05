@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Pejoratives and Specificity](https://john.colagioia.net/blog/2022/12/04/specificity.html)|Sun Dec 04 2022|
 |[Free Culture Book Club — Superflu](https://john.colagioia.net/blog/2022/12/03/superflu.html)|Sat Dec 03 2022|
 |[Tweets from 11/28 to 12/02](https://john.colagioia.net/blog/2022/12/02/week.html)|Fri Dec 02 2022|
 |[Real Life in Star Trek, Where Silence Has Lease](https://john.colagioia.net/blog/2022/12/01/silence-lease.html)|Thu Dec 01 2022|
