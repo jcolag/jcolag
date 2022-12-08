@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Where Silence Has Lease](https://john.colagioia.net/blog/2022/12/01/silence-lease.html)|Thu Dec 01 2022|
 |[Developer Journal, Lā Kūʻokoʻa](https://john.colagioia.net/blog/2022/11/28/kalahui.html)|Mon Nov 28 2022|
 |[Things That Worked (and Didn’t Work) in 2022](https://john.colagioia.net/blog/2022/11/27/worked.html)|Sun Nov 27 2022|
-|[Free Culture Book Club — Redmine, part 2](https://john.colagioia.net/blog/2022/11/26/redmine-2.html)|Sat Nov 26 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
