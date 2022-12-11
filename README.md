@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Colossal Cave Adventure](https://john.colagioia.net/blog/2022/12/10/colossal-cave.html)|Sat Dec 10 2022|
 |[Tweets from 12/05 to 12/09](https://john.colagioia.net/blog/2022/12/09/week.html)|Fri Dec 09 2022|
 |[Real Life in Star Trek, Elementary, Dear Data](https://john.colagioia.net/blog/2022/12/08/dear-data.html)|Thu Dec 08 2022|
 |[Developer Journal, Repeal Day](https://john.colagioia.net/blog/2022/12/05/repeal.html)|Mon Dec 05 2022|
