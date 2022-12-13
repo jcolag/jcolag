@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Journal, Kanji Day](https://john.colagioia.net/blog/2022/12/12/kanji.html)|Mon Dec 12 2022|
 |[Free Culture Book Club — Colossal Cave Adventure](https://john.colagioia.net/blog/2022/12/10/colossal-cave.html)|Sat Dec 10 2022|
 |[Tweets from 12/05 to 12/09](https://john.colagioia.net/blog/2022/12/09/week.html)|Fri Dec 09 2022|
 |[Real Life in Star Trek, Elementary, Dear Data](https://john.colagioia.net/blog/2022/12/08/dear-data.html)|Thu Dec 08 2022|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Pejoratives and Specificity](https://john.colagioia.net/blog/2022/12/04/specificity.html)|Sun Dec 04 2022|
 |[Free Culture Book Club — Superflu](https://john.colagioia.net/blog/2022/12/03/superflu.html)|Sat Dec 03 2022|
 |[Tweets from 11/28 to 12/02](https://john.colagioia.net/blog/2022/12/02/week.html)|Fri Dec 02 2022|
-|[Real Life in Star Trek, Where Silence Has Lease](https://john.colagioia.net/blog/2022/12/01/silence-lease.html)|Thu Dec 01 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
