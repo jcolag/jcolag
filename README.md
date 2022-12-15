@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Elementary, Dear Data](https://john.colagioia.net/blog/2022/12/08/dear-data.html)|Thu Dec 08 2022|
 |[Developer Journal, Repeal Day](https://john.colagioia.net/blog/2022/12/05/repeal.html)|Mon Dec 05 2022|
 |[Pejoratives and Specificity](https://john.colagioia.net/blog/2022/12/04/specificity.html)|Sun Dec 04 2022|
-|[Free Culture Book Club — Superflu](https://john.colagioia.net/blog/2022/12/03/superflu.html)|Sat Dec 03 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
