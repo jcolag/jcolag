@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — R. James Gavreau](https://john.colagioia.net/blog/2022/12/17/rjg.html)|Sat Dec 17 2022|
 |[Tweets from 12/12 to 12/16](https://john.colagioia.net/blog/2022/12/16/week.html)|Fri Dec 16 2022|
 |[Real Life in Star Trek, The Outrageous Okona](https://john.colagioia.net/blog/2022/12/15/outrageous-okona.html)|Thu Dec 15 2022|
 |[Developer Journal, Kanji Day](https://john.colagioia.net/blog/2022/12/12/kanji.html)|Mon Dec 12 2022|
