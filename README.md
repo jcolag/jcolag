@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Tweets from 12/12 to 12/16](https://john.colagioia.net/blog/2022/12/16/week.html)|Fri Dec 16 2022|
 |[Real Life in Star Trek, The Outrageous Okona](https://john.colagioia.net/blog/2022/12/15/outrageous-okona.html)|Thu Dec 15 2022|
 |[Developer Journal, Kanji Day](https://john.colagioia.net/blog/2022/12/12/kanji.html)|Mon Dec 12 2022|
-|[Free Culture Book Club — Colossal Cave Adventure](https://john.colagioia.net/blog/2022/12/10/colossal-cave.html)|Sat Dec 10 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
