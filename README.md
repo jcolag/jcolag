@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Quantum Flux](https://john.colagioia.net/blog/2022/12/24/quantum-flux.html)|Sat Dec 24 2022|
 |[Tweets from 12/19 to 12/23](https://john.colagioia.net/blog/2022/12/23/week.html)|Fri Dec 23 2022|
 |[Real Life in Star Trek, Loud As A Whisper](https://john.colagioia.net/blog/2022/12/22/loud-as-whisper.html)|Thu Dec 22 2022|
 |[Developer Journal, International Human Solidarity Eve](https://john.colagioia.net/blog/2022/12/19/solidarity.html)|Mon Dec 19 2022|
