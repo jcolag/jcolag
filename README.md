@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Life Blood, chapters 1 – 3](https://john.colagioia.net/blog/2022/12/31/life-blood-1.html)|Sat Dec 31 2022|
 |[Tweets from 12/26 to 12/30](https://john.colagioia.net/blog/2022/12/30/week.html)|Fri Dec 30 2022|
 |[Real Life in Star Trek, The Schizoid Man](https://john.colagioia.net/blog/2022/12/29/schizoid-man.html)|Thu Dec 29 2022|
 |[Developer Journal, Boxing Day](https://john.colagioia.net/blog/2022/12/26/boxing.html)|Mon Dec 26 2022|
