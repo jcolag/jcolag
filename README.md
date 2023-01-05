@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Schizoid Man](https://john.colagioia.net/blog/2022/12/29/schizoid-man.html)|Thu Dec 29 2022|
 |[Developer Journal, Boxing Day](https://john.colagioia.net/blog/2022/12/26/boxing.html)|Mon Dec 26 2022|
 |[🔭 Looking Back on 2022](https://john.colagioia.net/blog/2022/12/25/review-2022.html)|Sun Dec 25 2022|
-|[Free Culture Book Club — Quantum Flux](https://john.colagioia.net/blog/2022/12/24/quantum-flux.html)|Sat Dec 24 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
