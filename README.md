@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Unnatural Selection](https://john.colagioia.net/blog/2023/01/05/unnatural-selection.html)|Thu Jan 05 2023|
 |[Developer Diary, National Science Fiction Day](https://john.colagioia.net/blog/2023/01/02/scifi.html)|Mon Jan 02 2023|
 |[🍾 Happy Calendar-Changing Day, 2023 🎆](https://john.colagioia.net/blog/2023/01/01/hny2023.html)|Sun Jan 01 2023|
 |[Free Culture Book Club — Life Blood, chapters 1 – 3](https://john.colagioia.net/blog/2022/12/31/life-blood-1.html)|Sat Dec 31 2022|
 |[Tweets from 12/26 to 12/30](https://john.colagioia.net/blog/2022/12/30/week.html)|Fri Dec 30 2022|
 |[Real Life in Star Trek, The Schizoid Man](https://john.colagioia.net/blog/2022/12/29/schizoid-man.html)|Thu Dec 29 2022|
 |[Developer Journal, Boxing Day](https://john.colagioia.net/blog/2022/12/26/boxing.html)|Mon Dec 26 2022|
-|[🔭 Looking Back on 2022](https://john.colagioia.net/blog/2022/12/25/review-2022.html)|Sun Dec 25 2022|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
