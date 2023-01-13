@@ -13,8 +13,8 @@ Feel free to suggest ideas on any project or just poke at me to say "hi." Not li
 Here are some visualizations mostly for my purposes, which you can feel free to skip, especially the view counter that's probably mostly me making sure that I committed something.
 
 ![https://github-readme-streak-stats.herokuapp.com/demo/](https://github-readme-streak-stats.herokuapp.com/?user=jcolag "Streaks")
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=jcolag&show_icons=true&locale=en&layout=compact&exclude_repo=ComicScanner,bisheng&langs_count=8 "Top languages")
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=jcolag&show_icons=true&locale=en "Statistics")
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jcolag&show_icons=true&locale=en&layout=compact&exclude_repo=ComicScanner,bisheng&langs_count=8 "Top languages")
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jcolag&show_icons=true&locale=en "Statistics")
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=jcolag&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies")
 ![https://github.com/antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=jcolag "Profile views since 2021 June 07 or so; safe to ignore")
 
