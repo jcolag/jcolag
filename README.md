@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🐘 from 01/09 to 01/13](https://john.colagioia.net/blog/2023/01/13/week.html)|Fri Jan 13 2023|
 |[Real Life in Star Trek, A Matter of Honor](https://john.colagioia.net/blog/2023/01/12/matter-honor.html)|Thu Jan 12 2023|
 |[Developer Diary, Hōonkō](https://john.colagioia.net/blog/2023/01/09/hoonko.html)|Mon Jan 09 2023|
-|[Free Culture Book Club — Life Blood, chapters 4 – 5](https://john.colagioia.net/blog/2023/01/07/life-blood-2.html)|Sat Jan 07 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
