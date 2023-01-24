@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, World Freedom Day](https://john.colagioia.net/blog/2023/01/23/freedom.html)|Mon Jan 23 2023|
 |[Free Culture Book Club — Life Blood, chapters 10 – 13](https://john.colagioia.net/blog/2023/01/21/life-blood-4.html)|Sat Jan 21 2023|
 |[Toots 🐘 from 01/16 to 01/20](https://john.colagioia.net/blog/2023/01/20/week.html)|Fri Jan 20 2023|
 |[Real Life in Star Trek, The Measure of a Man](https://john.colagioia.net/blog/2023/01/19/measure-man.html)|Thu Jan 19 2023|
 |[Developer Diary, Martin Luther King Jr. Day](https://john.colagioia.net/blog/2023/01/16/mlk.html)|Mon Jan 16 2023|
 |[Free Culture Book Club — Life Blood, chapters 6 – 9](https://john.colagioia.net/blog/2023/01/14/life-blood-3.html)|Sat Jan 14 2023|
 |[Toots 🐘 from 01/09 to 01/13](https://john.colagioia.net/blog/2023/01/13/week.html)|Fri Jan 13 2023|
-|[Real Life in Star Trek, A Matter of Honor](https://john.colagioia.net/blog/2023/01/12/matter-honor.html)|Thu Jan 12 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
