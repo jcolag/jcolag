@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Life Blood, chapters 14 – 16](https://john.colagioia.net/blog/2023/01/28/life-blood-5.html)|Sat Jan 28 2023|
 |[Toots 🐘 from 01/23 to 01/27](https://john.colagioia.net/blog/2023/01/27/week.html)|Fri Jan 27 2023|
 |[Real Life in Star Trek, The Dauphin](https://john.colagioia.net/blog/2023/01/26/dauphin.html)|Thu Jan 26 2023|
 |[Developer Diary, World Freedom Day](https://john.colagioia.net/blog/2023/01/23/freedom.html)|Mon Jan 23 2023|
