@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🐘 from 01/23 to 01/27](https://john.colagioia.net/blog/2023/01/27/week.html)|Fri Jan 27 2023|
 |[Real Life in Star Trek, The Dauphin](https://john.colagioia.net/blog/2023/01/26/dauphin.html)|Thu Jan 26 2023|
 |[Developer Diary, World Freedom Day](https://john.colagioia.net/blog/2023/01/23/freedom.html)|Mon Jan 23 2023|
-|[Free Culture Book Club — Life Blood, chapters 10 – 13](https://john.colagioia.net/blog/2023/01/21/life-blood-4.html)|Sat Jan 21 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
