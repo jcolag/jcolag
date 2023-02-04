@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🐘 from 01/30 to 02/03](https://john.colagioia.net/blog/2023/02/03/week.html)|Fri Feb 03 2023|
 |[Real Life in Star Trek, Contagion](https://john.colagioia.net/blog/2023/02/02/contagion.html)|Thu Feb 02 2023|
 |[Developer Diary, Fred Korematsu Day](https://john.colagioia.net/blog/2023/01/30/korematsu.html)|Mon Jan 30 2023|
 |[Free Culture Book Club — Life Blood, chapters 14 – 16](https://john.colagioia.net/blog/2023/01/28/life-blood-5.html)|Sat Jan 28 2023|
 |[Toots 🐘 from 01/23 to 01/27](https://john.colagioia.net/blog/2023/01/27/week.html)|Fri Jan 27 2023|
 |[Real Life in Star Trek, The Dauphin](https://john.colagioia.net/blog/2023/01/26/dauphin.html)|Thu Jan 26 2023|
-|[Developer Diary, World Freedom Day](https://john.colagioia.net/blog/2023/01/23/freedom.html)|Mon Jan 23 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
