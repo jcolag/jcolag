@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Royale](https://john.colagioia.net/blog/2023/02/09/royale.html)|Thu Feb 09 2023|
 |[Developer Diary, Day against FGM](https://john.colagioia.net/blog/2023/02/06/no-fgm.html)|Mon Feb 06 2023|
 |[Free Culture Book Club — Life Blood, chapters 17 – 19](https://john.colagioia.net/blog/2023/02/04/life-blood-6.html)|Sat Feb 04 2023|
 |[Toots 🐘 from 01/30 to 02/03](https://john.colagioia.net/blog/2023/02/03/week.html)|Fri Feb 03 2023|
