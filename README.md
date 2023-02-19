@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Life Blood, chapters 23 – 25](https://john.colagioia.net/blog/2023/02/18/life-blood-8.html)|Sat Feb 18 2023|
 |[Toots 🐘 from 02/13 to 02/17](https://john.colagioia.net/blog/2023/02/17/week.html)|Fri Feb 17 2023|
 |[Real Life in Star Trek, Time Squared](https://john.colagioia.net/blog/2023/02/16/time-squared.html)|Thu Feb 16 2023|
 |[Developer Diary, World Radio Day](https://john.colagioia.net/blog/2023/02/13/radio.html)|Mon Feb 13 2023|
