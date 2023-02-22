@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Time Squared](https://john.colagioia.net/blog/2023/02/16/time-squared.html)|Thu Feb 16 2023|
 |[Developer Diary, World Radio Day](https://john.colagioia.net/blog/2023/02/13/radio.html)|Mon Feb 13 2023|
 |[Free Culture Book Club — Life Blood, chapters 20 – 22](https://john.colagioia.net/blog/2023/02/11/life-blood-7.html)|Sat Feb 11 2023|
-|[Toots 🐘 from 02/06 to 02/10](https://john.colagioia.net/blog/2023/02/10/week.html)|Fri Feb 10 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
