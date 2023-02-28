@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Marathi Language Day](https://john.colagioia.net/blog/2023/02/27/marathi.html)|Mon Feb 27 2023|
 |[Five Phases of AI Grief](https://john.colagioia.net/blog/2023/02/26/ai-grief.html)|Sun Feb 26 2023|
 |[Free Culture Book Club — Life Blood, chapters 26 – 29](https://john.colagioia.net/blog/2023/02/25/life-blood-9.html)|Sat Feb 25 2023|
 |[Toots 🐘 from 02/20 to 02/24](https://john.colagioia.net/blog/2023/02/24/week.html)|Fri Feb 24 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, World Day of Social Justice](https://john.colagioia.net/blog/2023/02/20/social-justice.html)|Mon Feb 20 2023|
 |[Free Culture Book Club — Life Blood, chapters 23 – 25](https://john.colagioia.net/blog/2023/02/18/life-blood-8.html)|Sat Feb 18 2023|
 |[Toots 🐘 from 02/13 to 02/17](https://john.colagioia.net/blog/2023/02/17/week.html)|Fri Feb 17 2023|
-|[Real Life in Star Trek, Time Squared](https://john.colagioia.net/blog/2023/02/16/time-squared.html)|Thu Feb 16 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
