@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Icarus Factor](https://john.colagioia.net/blog/2023/02/23/icarus-factor.html)|Thu Feb 23 2023|
 |[Developer Diary, World Day of Social Justice](https://john.colagioia.net/blog/2023/02/20/social-justice.html)|Mon Feb 20 2023|
 |[Free Culture Book Club — Life Blood, chapters 23 – 25](https://john.colagioia.net/blog/2023/02/18/life-blood-8.html)|Sat Feb 18 2023|
-|[Toots 🐘 from 02/13 to 02/17](https://john.colagioia.net/blog/2023/02/17/week.html)|Fri Feb 17 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
