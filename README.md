@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Pen Pals](https://john.colagioia.net/blog/2023/03/02/pen-pals.html)|Thu Mar 02 2023|
 |[Developer Diary, Marathi Language Day](https://john.colagioia.net/blog/2023/02/27/marathi.html)|Mon Feb 27 2023|
 |[Five Phases of AI Grief](https://john.colagioia.net/blog/2023/02/26/ai-grief.html)|Sun Feb 26 2023|
 |[Free Culture Book Club — Life Blood, chapters 26 – 29](https://john.colagioia.net/blog/2023/02/25/life-blood-9.html)|Sat Feb 25 2023|
