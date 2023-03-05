@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Golem, part 1](https://john.colagioia.net/blog/2023/03/04/golem-1.html)|Sat Mar 04 2023|
 |[Toots 🐘 from 02/27 to 03/03](https://john.colagioia.net/blog/2023/03/03/week.html)|Fri Mar 03 2023|
 |[Real Life in Star Trek, Pen Pals](https://john.colagioia.net/blog/2023/03/02/pen-pals.html)|Thu Mar 02 2023|
 |[Developer Diary, Marathi Language Day](https://john.colagioia.net/blog/2023/02/27/marathi.html)|Mon Feb 27 2023|
