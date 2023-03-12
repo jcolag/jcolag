@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Golem, part 2](https://john.colagioia.net/blog/2023/03/11/golem-2.html)|Sat Mar 11 2023|
 |[Toots 🐘 from 03/06 to 03/10](https://john.colagioia.net/blog/2023/03/10/week.html)|Fri Mar 10 2023|
 |[Real Life in Star Trek, Q Who?](https://john.colagioia.net/blog/2023/03/09/q-who.html)|Thu Mar 09 2023|
 |[Developer Diary, European Day of the Righteous](https://john.colagioia.net/blog/2023/03/06/righteous.html)|Mon Mar 06 2023|
