@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Aztec New Year (Belated)](https://john.colagioia.net/blog/2023/03/13/aztec.html)|Mon Mar 13 2023|
 |[Free Culture Book Club — Golem, part 2](https://john.colagioia.net/blog/2023/03/11/golem-2.html)|Sat Mar 11 2023|
 |[Toots 🐘 from 03/06 to 03/10](https://john.colagioia.net/blog/2023/03/10/week.html)|Fri Mar 10 2023|
 |[Real Life in Star Trek, Q Who?](https://john.colagioia.net/blog/2023/03/09/q-who.html)|Thu Mar 09 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Commenting Code](https://john.colagioia.net/blog/2023/03/05/comments.html)|Sun Mar 05 2023|
 |[Free Culture Book Club — Golem, part 1](https://john.colagioia.net/blog/2023/03/04/golem-1.html)|Sat Mar 04 2023|
 |[Toots 🐘 from 02/27 to 03/03](https://john.colagioia.net/blog/2023/03/03/week.html)|Fri Mar 03 2023|
-|[Real Life in Star Trek, Pen Pals](https://john.colagioia.net/blog/2023/03/02/pen-pals.html)|Thu Mar 02 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
