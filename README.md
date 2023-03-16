@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Q Who?](https://john.colagioia.net/blog/2023/03/09/q-who.html)|Thu Mar 09 2023|
 |[Developer Diary, European Day of the Righteous](https://john.colagioia.net/blog/2023/03/06/righteous.html)|Mon Mar 06 2023|
 |[Commenting Code](https://john.colagioia.net/blog/2023/03/05/comments.html)|Sun Mar 05 2023|
-|[Free Culture Book Club — Golem, part 1](https://john.colagioia.net/blog/2023/03/04/golem-1.html)|Sat Mar 04 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
