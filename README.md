@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, International Day of Happiness](https://john.colagioia.net/blog/2023/03/20/happiness.html)|Mon Mar 20 2023|
 |[Fiction — Bank on It](https://john.colagioia.net/blog/2023/03/19/banks.html)|Sun Mar 19 2023|
 |[Free Culture Book Club — Delilah H. Smith](https://john.colagioia.net/blog/2023/03/18/dhs.html)|Sat Mar 18 2023|
 |[Toots 🐘 from 03/13 to 03/17](https://john.colagioia.net/blog/2023/03/17/week.html)|Fri Mar 17 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Aztec New Year (Belated)](https://john.colagioia.net/blog/2023/03/13/aztec.html)|Mon Mar 13 2023|
 |[Free Culture Book Club — Golem, part 2](https://john.colagioia.net/blog/2023/03/11/golem-2.html)|Sat Mar 11 2023|
 |[Toots 🐘 from 03/06 to 03/10](https://john.colagioia.net/blog/2023/03/10/week.html)|Fri Mar 10 2023|
-|[Real Life in Star Trek, Q Who?](https://john.colagioia.net/blog/2023/03/09/q-who.html)|Thu Mar 09 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
