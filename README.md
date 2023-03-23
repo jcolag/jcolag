@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🐘 from 03/13 to 03/17](https://john.colagioia.net/blog/2023/03/17/week.html)|Fri Mar 17 2023|
 |[Real Life in Star Trek, Samaritan Snare](https://john.colagioia.net/blog/2023/03/16/samaritan-snare.html)|Thu Mar 16 2023|
 |[Developer Diary, Aztec New Year (Belated)](https://john.colagioia.net/blog/2023/03/13/aztec.html)|Mon Mar 13 2023|
-|[Free Culture Book Club — Golem, part 2](https://john.colagioia.net/blog/2023/03/11/golem-2.html)|Sat Mar 11 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
