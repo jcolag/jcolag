@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Up The Long Ladder](https://john.colagioia.net/blog/2023/03/23/up-long-ladder.html)|Thu Mar 23 2023|
 |[Developer Diary, International Day of Happiness](https://john.colagioia.net/blog/2023/03/20/happiness.html)|Mon Mar 20 2023|
 |[Fiction — Bank on It](https://john.colagioia.net/blog/2023/03/19/banks.html)|Sun Mar 19 2023|
 |[Free Culture Book Club — Delilah H. Smith](https://john.colagioia.net/blog/2023/03/18/dhs.html)|Sat Mar 18 2023|
