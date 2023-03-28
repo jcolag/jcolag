@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, World Theatre Day](https://john.colagioia.net/blog/2023/03/27/theatre.html)|Mon Mar 27 2023|
 |[Modern Social Media Etiquette](https://john.colagioia.net/blog/2023/03/26/etiquette.html)|Sun Mar 26 2023|
 |[Free Culture Book Club — Snowbound Blood part 1](https://john.colagioia.net/blog/2023/03/25/snowbound-blood-1.html)|Sat Mar 25 2023|
 |[Toots 🐘 from 03/20 to 03/24](https://john.colagioia.net/blog/2023/03/24/week.html)|Fri Mar 24 2023|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Fiction — Bank on It](https://john.colagioia.net/blog/2023/03/19/banks.html)|Sun Mar 19 2023|
 |[Free Culture Book Club — Delilah H. Smith](https://john.colagioia.net/blog/2023/03/18/dhs.html)|Sat Mar 18 2023|
 |[Toots 🐘 from 03/13 to 03/17](https://john.colagioia.net/blog/2023/03/17/week.html)|Fri Mar 17 2023|
-|[Real Life in Star Trek, Samaritan Snare](https://john.colagioia.net/blog/2023/03/16/samaritan-snare.html)|Thu Mar 16 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
