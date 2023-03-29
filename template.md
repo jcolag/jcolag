@@ -18,8 +18,10 @@ Here are some visualizations mostly for my purposes, which you can feel free to 
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=jcolag&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies")
 ![https://github.com/antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=jcolag "Profile views since 2021 June 07 or so; safe to ignore")
 
-Mostly, I just missed the streak counter from years past.  I may eventually pull them from here and put them on the "dashboard page" that I generate and load every morning.
+Mostly, I just missed the streak counter from years past.  I may eventually pull them from here and put them all on the [dashboard page](https://github.com/jcolag/dash) that I generate and load every morning.
 
-And while I don't expect it, if you would like to help fund some of this weirdness, I won't turn away anyone who wants to...
+And while I don't expect it, if you would like to help fund some of the time that goes to this weirdness, I won't turn away anyone who wants to...
 
 [<img src="images/default-yellow.png" alt="Buy Me a Coffee" width="150px"/>](https://www.buymeacoffee.com/jcolag)
+<script src="https://liberapay.com/jcolag/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/jcolag/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
