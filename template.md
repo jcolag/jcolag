@@ -23,5 +23,4 @@ Mostly, I just missed the streak counter from years past.  I may eventually pull
 And while I don't expect it, if you would like to help fund some of the time that goes to this weirdness, I won't turn away anyone who wants to...
 
 [<img src="images/default-yellow.png" alt="Buy Me a Coffee" width="150px"/>](https://www.buymeacoffee.com/jcolag)
-<script src="https://liberapay.com/jcolag/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/jcolag/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<a href="https://liberapay.com/jcolag/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>

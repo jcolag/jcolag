@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Mastodon’s API (The Pitfalls)](https://john.colagioia.net/blog/2023/03/29/mastodon-api.html)|Wed Mar 29 2023|
 |[Developer Diary, World Theatre Day](https://john.colagioia.net/blog/2023/03/27/theatre.html)|Mon Mar 27 2023|
 |[Modern Social Media Etiquette](https://john.colagioia.net/blog/2023/03/26/etiquette.html)|Sun Mar 26 2023|
 |[Free Culture Book Club — Snowbound Blood part 1](https://john.colagioia.net/blog/2023/03/25/snowbound-blood-1.html)|Sat Mar 25 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Up The Long Ladder](https://john.colagioia.net/blog/2023/03/23/up-long-ladder.html)|Thu Mar 23 2023|
 |[Developer Diary, International Day of Happiness](https://john.colagioia.net/blog/2023/03/20/happiness.html)|Mon Mar 20 2023|
 |[Fiction — Bank on It](https://john.colagioia.net/blog/2023/03/19/banks.html)|Sun Mar 19 2023|
-|[Free Culture Book Club — Delilah H. Smith](https://john.colagioia.net/blog/2023/03/18/dhs.html)|Sat Mar 18 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
@@ -30,5 +30,4 @@ Mostly, I just missed the streak counter from years past.  I may eventually pull
 And while I don't expect it, if you would like to help fund some of the time that goes to this weirdness, I won't turn away anyone who wants to...
 
 [<img src="images/default-yellow.png" alt="Buy Me a Coffee" width="150px"/>](https://www.buymeacoffee.com/jcolag)
-<script src="https://liberapay.com/jcolag/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/jcolag/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<a href="https://liberapay.com/jcolag/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
