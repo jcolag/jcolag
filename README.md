@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Yuknoom Yich’aak K’ahk’](https://john.colagioia.net/blog/2023/04/03/yuknoom.html)|Mon Apr 03 2023|
 |[Free Culture Book Club — Snowbound Blood part 2](https://john.colagioia.net/blog/2023/04/01/snowbound-blood-2.html)|Sat Apr 01 2023|
 |[Toots 🐘 from 03/27 to 03/31](https://john.colagioia.net/blog/2023/03/31/week.html)|Fri Mar 31 2023|
 |[Real Life in Star Trek, Manhunt](https://john.colagioia.net/blog/2023/03/30/manhunt.html)|Thu Mar 30 2023|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Modern Social Media Etiquette](https://john.colagioia.net/blog/2023/03/26/etiquette.html)|Sun Mar 26 2023|
 |[Free Culture Book Club — Snowbound Blood part 1](https://john.colagioia.net/blog/2023/03/25/snowbound-blood-1.html)|Sat Mar 25 2023|
 |[Toots 🐘 from 03/20 to 03/24](https://john.colagioia.net/blog/2023/03/24/week.html)|Fri Mar 24 2023|
-|[Real Life in Star Trek, Up The Long Ladder](https://john.colagioia.net/blog/2023/03/23/up-long-ladder.html)|Thu Mar 23 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
