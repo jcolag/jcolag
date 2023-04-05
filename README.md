@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, World Theatre Day](https://john.colagioia.net/blog/2023/03/27/theatre.html)|Mon Mar 27 2023|
 |[Modern Social Media Etiquette](https://john.colagioia.net/blog/2023/03/26/etiquette.html)|Sun Mar 26 2023|
 |[Free Culture Book Club — Snowbound Blood part 1](https://john.colagioia.net/blog/2023/03/25/snowbound-blood-1.html)|Sat Mar 25 2023|
-|[Toots 🐘 from 03/20 to 03/24](https://john.colagioia.net/blog/2023/03/24/week.html)|Fri Mar 24 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
