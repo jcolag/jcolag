@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Normalizing Image Type and Size](https://john.colagioia.net/blog/2023/04/05/file-type-size.html)|Wed Apr 05 2023|
 |[Developer Diary, Yuknoom Yich’aak K’ahk’](https://john.colagioia.net/blog/2023/04/03/yuknoom.html)|Mon Apr 03 2023|
 |[Free Culture Book Club — Snowbound Blood part 2](https://john.colagioia.net/blog/2023/04/01/snowbound-blood-2.html)|Sat Apr 01 2023|
 |[Toots 🐘 from 03/27 to 03/31](https://john.colagioia.net/blog/2023/03/31/week.html)|Fri Mar 31 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Mastodon’s API (The Pitfalls)](https://john.colagioia.net/blog/2023/03/29/mastodon-api.html)|Wed Mar 29 2023|
 |[Developer Diary, World Theatre Day](https://john.colagioia.net/blog/2023/03/27/theatre.html)|Mon Mar 27 2023|
 |[Modern Social Media Etiquette](https://john.colagioia.net/blog/2023/03/26/etiquette.html)|Sun Mar 26 2023|
-|[Free Culture Book Club — Snowbound Blood part 1](https://john.colagioia.net/blog/2023/03/25/snowbound-blood-1.html)|Sat Mar 25 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
