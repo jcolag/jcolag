@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🐘 from 04/03 to 04/07](https://john.colagioia.net/blog/2023/04/07/week.html)|Fri Apr 07 2023|
 |[Real Life in Star Trek, The Emissary](https://john.colagioia.net/blog/2023/04/06/emissary.html)|Thu Apr 06 2023|
 |[Normalizing Image Type and Size](https://john.colagioia.net/blog/2023/04/05/file-type-size.html)|Wed Apr 05 2023|
 |[Developer Diary, Yuknoom Yich’aak K’ahk’](https://john.colagioia.net/blog/2023/04/03/yuknoom.html)|Mon Apr 03 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🐘 from 03/27 to 03/31](https://john.colagioia.net/blog/2023/03/31/week.html)|Fri Mar 31 2023|
 |[Real Life in Star Trek, Manhunt](https://john.colagioia.net/blog/2023/03/30/manhunt.html)|Thu Mar 30 2023|
 |[Mastodon’s API (The Pitfalls)](https://john.colagioia.net/blog/2023/03/29/mastodon-api.html)|Wed Mar 29 2023|
-|[Developer Diary, World Theatre Day](https://john.colagioia.net/blog/2023/03/27/theatre.html)|Mon Mar 27 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
