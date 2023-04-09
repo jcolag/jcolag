@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Snowbound Blood part 3](https://john.colagioia.net/blog/2023/04/08/snowbound-blood-3.html)|Sat Apr 08 2023|
 |[Toots 🐘 from 04/03 to 04/07](https://john.colagioia.net/blog/2023/04/07/week.html)|Fri Apr 07 2023|
 |[Real Life in Star Trek, The Emissary](https://john.colagioia.net/blog/2023/04/06/emissary.html)|Thu Apr 06 2023|
 |[Normalizing Image Type and Size](https://john.colagioia.net/blog/2023/04/05/file-type-size.html)|Wed Apr 05 2023|
