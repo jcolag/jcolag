@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Emissary](https://john.colagioia.net/blog/2023/04/06/emissary.html)|Thu Apr 06 2023|
 |[Normalizing Image Type and Size](https://john.colagioia.net/blog/2023/04/05/file-type-size.html)|Wed Apr 05 2023|
 |[Developer Diary, Yuknoom Yich’aak K’ahk’](https://john.colagioia.net/blog/2023/04/03/yuknoom.html)|Mon Apr 03 2023|
-|[Free Culture Book Club — Snowbound Blood part 2](https://john.colagioia.net/blog/2023/04/01/snowbound-blood-2.html)|Sat Apr 01 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
