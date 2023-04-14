@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Peak Performance](https://john.colagioia.net/blog/2023/04/13/peak-performance.html)|Thu Apr 13 2023|
 |[Developer Diary, Siblings Day](https://john.colagioia.net/blog/2023/04/10/siblings.html)|Mon Apr 10 2023|
 |[Great Ideas from Terrible Jobs](https://john.colagioia.net/blog/2023/04/09/ideas.html)|Sun Apr 09 2023|
 |[Free Culture Book Club — Snowbound Blood part 3](https://john.colagioia.net/blog/2023/04/08/snowbound-blood-3.html)|Sat Apr 08 2023|
