@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Lena Massacre](https://john.colagioia.net/blog/2023/04/17/lena.html)|Mon Apr 17 2023|
 |[Free Culture Book Club — Snowbound Blood part 4](https://john.colagioia.net/blog/2023/04/15/snowbound-blood-4.html)|Sat Apr 15 2023|
 |[Toots 🐘 from 04/10 to 04/14](https://john.colagioia.net/blog/2023/04/14/week.html)|Fri Apr 14 2023|
 |[Real Life in Star Trek, Peak Performance](https://john.colagioia.net/blog/2023/04/13/peak-performance.html)|Thu Apr 13 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Great Ideas from Terrible Jobs](https://john.colagioia.net/blog/2023/04/09/ideas.html)|Sun Apr 09 2023|
 |[Free Culture Book Club — Snowbound Blood part 3](https://john.colagioia.net/blog/2023/04/08/snowbound-blood-3.html)|Sat Apr 08 2023|
 |[Toots 🐘 from 04/03 to 04/07](https://john.colagioia.net/blog/2023/04/07/week.html)|Fri Apr 07 2023|
-|[Real Life in Star Trek, The Emissary](https://john.colagioia.net/blog/2023/04/06/emissary.html)|Thu Apr 06 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
