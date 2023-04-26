@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Shades of Gray](https://john.colagioia.net/blog/2023/04/20/shades-gray.html)|Thu Apr 20 2023|
 |[Developer Diary, Lena Massacre](https://john.colagioia.net/blog/2023/04/17/lena.html)|Mon Apr 17 2023|
 |[Free Culture Book Club — Snowbound Blood part 4](https://john.colagioia.net/blog/2023/04/15/snowbound-blood-4.html)|Sat Apr 15 2023|
-|[Toots 🐘 from 04/10 to 04/14](https://john.colagioia.net/blog/2023/04/14/week.html)|Fri Apr 14 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
