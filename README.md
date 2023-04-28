@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Season 2, TNG](https://john.colagioia.net/blog/2023/04/27/ng-season-2.html)|Thu Apr 27 2023|
 |[Developer Diary, Fashion Revolution Day](https://john.colagioia.net/blog/2023/04/24/fashion.html)|Mon Apr 24 2023|
 |[Why Federate?](https://john.colagioia.net/blog/2023/04/23/federation.html)|Sun Apr 23 2023|
 |[Free Culture Book Club — Expedition Sasquatch, part 1](https://john.colagioia.net/blog/2023/04/22/sasquatch-1.html)|Sat Apr 22 2023|
