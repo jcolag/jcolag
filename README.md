@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🐘 from 04/24 to 04/28](https://john.colagioia.net/blog/2023/04/28/week.html)|Fri Apr 28 2023|
 |[Real Life in Star Trek, Season 2, TNG](https://john.colagioia.net/blog/2023/04/27/ng-season-2.html)|Thu Apr 27 2023|
 |[Developer Diary, Fashion Revolution Day](https://john.colagioia.net/blog/2023/04/24/fashion.html)|Mon Apr 24 2023|
 |[Why Federate?](https://john.colagioia.net/blog/2023/04/23/federation.html)|Sun Apr 23 2023|
 |[Free Culture Book Club — Expedition Sasquatch, part 1](https://john.colagioia.net/blog/2023/04/22/sasquatch-1.html)|Sat Apr 22 2023|
 |[Toots 🐘 from 04/17 to 04/21](https://john.colagioia.net/blog/2023/04/21/week.html)|Fri Apr 21 2023|
 |[Real Life in Star Trek, Shades of Gray](https://john.colagioia.net/blog/2023/04/20/shades-gray.html)|Thu Apr 20 2023|
-|[Developer Diary, Lena Massacre](https://john.colagioia.net/blog/2023/04/17/lena.html)|Mon Apr 17 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
