@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Expedition Sasquatch, part 3](https://john.colagioia.net/blog/2023/05/06/sasquatch-3.html)|Sat May 06 2023|
 |[Toots 🐘 from 05/01 to 05/05](https://john.colagioia.net/blog/2023/05/05/week.html)|Fri May 05 2023|
 |[Real Life in Star Trek, Evolution](https://john.colagioia.net/blog/2023/05/04/evolution.html)|Thu May 04 2023|
 |[Developer Diary, International Workers’ Day](https://john.colagioia.net/blog/2023/05/01/workers.html)|Mon May 01 2023|
