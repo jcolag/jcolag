@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Nabka Day](https://john.colagioia.net/blog/2023/05/15/nabka.html)|Mon May 15 2023|
 |[Free Culture Book Club — Jectoons Random Vignettes](https://john.colagioia.net/blog/2023/05/13/vignettes.html)|Sat May 13 2023|
 |[Toots 🐘 from 05/08 to 05/12](https://john.colagioia.net/blog/2023/05/12/week.html)|Fri May 12 2023|
 |[Real Life in Star Trek, The Ensigns of Command](https://john.colagioia.net/blog/2023/05/11/ensigns-command.html)|Thu May 11 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, WWII Remembrance](https://john.colagioia.net/blog/2023/05/08/remembrance.html)|Mon May 08 2023|
 |[Free Culture Book Club — Expedition Sasquatch, part 3](https://john.colagioia.net/blog/2023/05/06/sasquatch-3.html)|Sat May 06 2023|
 |[Toots 🐘 from 05/01 to 05/05](https://john.colagioia.net/blog/2023/05/05/week.html)|Fri May 05 2023|
-|[Real Life in Star Trek, Evolution](https://john.colagioia.net/blog/2023/05/04/evolution.html)|Thu May 04 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
