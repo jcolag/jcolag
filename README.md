@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Ensigns of Command](https://john.colagioia.net/blog/2023/05/11/ensigns-command.html)|Thu May 11 2023|
 |[Graphs with Chart.js](https://john.colagioia.net/blog/2023/05/10/chart-js.html)|Wed May 10 2023|
 |[Developer Diary, WWII Remembrance](https://john.colagioia.net/blog/2023/05/08/remembrance.html)|Mon May 08 2023|
-|[Free Culture Book Club — Expedition Sasquatch, part 3](https://john.colagioia.net/blog/2023/05/06/sasquatch-3.html)|Sat May 06 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
