@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, World Biodiversity Day](https://john.colagioia.net/blog/2023/05/22/biodiv.html)|Mon May 22 2023|
 |[Free Culture Book Club — Death off the Cuff](https://john.colagioia.net/blog/2023/05/20/death-cuff.html)|Sat May 20 2023|
 |[Toots 🐘 from 05/15 to 05/19](https://john.colagioia.net/blog/2023/05/19/week.html)|Fri May 19 2023|
 |[Real Life in Star Trek, The Survivors](https://john.colagioia.net/blog/2023/05/18/survivors.html)|Thu May 18 2023|
 |[Developer Diary, Nabka Day](https://john.colagioia.net/blog/2023/05/15/nabka.html)|Mon May 15 2023|
 |[Free Culture Book Club — Jectoons Random Vignettes](https://john.colagioia.net/blog/2023/05/13/vignettes.html)|Sat May 13 2023|
 |[Toots 🐘 from 05/08 to 05/12](https://john.colagioia.net/blog/2023/05/12/week.html)|Fri May 12 2023|
-|[Real Life in Star Trek, The Ensigns of Command](https://john.colagioia.net/blog/2023/05/11/ensigns-command.html)|Thu May 11 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
