@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Survivors](https://john.colagioia.net/blog/2023/05/18/survivors.html)|Thu May 18 2023|
 |[Developer Diary, Nabka Day](https://john.colagioia.net/blog/2023/05/15/nabka.html)|Mon May 15 2023|
 |[Free Culture Book Club — Jectoons Random Vignettes](https://john.colagioia.net/blog/2023/05/13/vignettes.html)|Sat May 13 2023|
-|[Toots 🐘 from 05/08 to 05/12](https://john.colagioia.net/blog/2023/05/12/week.html)|Fri May 12 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
