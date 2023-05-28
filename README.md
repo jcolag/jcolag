@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Distress Beacon](https://john.colagioia.net/blog/2023/05/27/distress-beacon.html)|Sat May 27 2023|
 |[Toots 🐘 from 05/22 to 05/26](https://john.colagioia.net/blog/2023/05/26/week.html)|Fri May 26 2023|
 |[Real Life in Star Trek, Who Watches the Watchers](https://john.colagioia.net/blog/2023/05/25/who-watches-watchers.html)|Thu May 25 2023|
 |[Developer Diary, World Biodiversity Day](https://john.colagioia.net/blog/2023/05/22/biodiv.html)|Mon May 22 2023|
