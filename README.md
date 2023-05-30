@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Day of UN Peacekeepers](https://john.colagioia.net/blog/2023/05/29/peacekeepers.html)|Mon May 29 2023|
 |[Free Culture Book Club — Distress Beacon](https://john.colagioia.net/blog/2023/05/27/distress-beacon.html)|Sat May 27 2023|
 |[Toots 🐘 from 05/22 to 05/26](https://john.colagioia.net/blog/2023/05/26/week.html)|Fri May 26 2023|
 |[Real Life in Star Trek, Who Watches the Watchers](https://john.colagioia.net/blog/2023/05/25/who-watches-watchers.html)|Thu May 25 2023|
 |[Developer Diary, World Biodiversity Day](https://john.colagioia.net/blog/2023/05/22/biodiv.html)|Mon May 22 2023|
 |[Free Culture Book Club — Death off the Cuff](https://john.colagioia.net/blog/2023/05/20/death-cuff.html)|Sat May 20 2023|
 |[Toots 🐘 from 05/15 to 05/19](https://john.colagioia.net/blog/2023/05/19/week.html)|Fri May 19 2023|
-|[Real Life in Star Trek, The Survivors](https://john.colagioia.net/blog/2023/05/18/survivors.html)|Thu May 18 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
