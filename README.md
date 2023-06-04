@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Green Comet, part 1](https://john.colagioia.net/blog/2023/06/03/green-comet-1.html)|Sat Jun 03 2023|
 |[Toots 🐘 from 05/29 to 06/02](https://john.colagioia.net/blog/2023/06/02/week.html)|Fri Jun 02 2023|
 |[Real Life in Star Trek, The Bonding](https://john.colagioia.net/blog/2023/06/01/bonding.html)|Thu Jun 01 2023|
 |[Developer Diary, Day of UN Peacekeepers](https://john.colagioia.net/blog/2023/05/29/peacekeepers.html)|Mon May 29 2023|
