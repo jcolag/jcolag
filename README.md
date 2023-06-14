@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Booby Trap](https://john.colagioia.net/blog/2023/06/08/booby-trap.html)|Thu Jun 08 2023|
 |[Developer Diary, World Environment Day](https://john.colagioia.net/blog/2023/06/05/environment.html)|Mon Jun 05 2023|
 |[Free Culture Book Club — Green Comet, part 1](https://john.colagioia.net/blog/2023/06/03/green-comet-1.html)|Sat Jun 03 2023|
-|[Toots 🐘 from 05/29 to 06/02](https://john.colagioia.net/blog/2023/06/02/week.html)|Fri Jun 02 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
