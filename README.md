@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Enemy](https://john.colagioia.net/blog/2023/06/15/enemy.html)|Thu Jun 15 2023|
 |[Developer Diary, World Day Against Child Labor](https://john.colagioia.net/blog/2023/06/12/child-labor.html)|Mon Jun 12 2023|
 |[Free Culture Book Club — Green Comet, part 2](https://john.colagioia.net/blog/2023/06/10/green-comet-2.html)|Sat Jun 10 2023|
 |[Toots 🐘 from 06/05 to 06/09](https://john.colagioia.net/blog/2023/06/09/week.html)|Fri Jun 09 2023|
