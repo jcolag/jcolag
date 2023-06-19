@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Unraveling Universality](https://john.colagioia.net/blog/2023/06/18/universality.html)|Sun Jun 18 2023|
 |[Free Culture Book Club — Green Comet, part 3](https://john.colagioia.net/blog/2023/06/17/green-comet-3.html)|Sat Jun 17 2023|
 |[Toots 🐘 from 06/12 to 06/16](https://john.colagioia.net/blog/2023/06/16/week.html)|Fri Jun 16 2023|
 |[Real Life in Star Trek, The Enemy](https://john.colagioia.net/blog/2023/06/15/enemy.html)|Thu Jun 15 2023|
