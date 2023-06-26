@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Why Care about Free Culture?](https://john.colagioia.net/blog/2023/06/25/free-culture.html)|Sun Jun 25 2023|
 |[Free Culture Book Club — Let’s Move Forward](https://john.colagioia.net/blog/2023/06/24/move-forward.html)|Sat Jun 24 2023|
 |[Toots 🐘 from 06/19 to 06/23](https://john.colagioia.net/blog/2023/06/23/week.html)|Fri Jun 23 2023|
 |[Real Life in Star Trek, The Price](https://john.colagioia.net/blog/2023/06/22/price.html)|Thu Jun 22 2023|
