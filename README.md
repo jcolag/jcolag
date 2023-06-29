@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Price](https://john.colagioia.net/blog/2023/06/22/price.html)|Thu Jun 22 2023|
 |[Developer Diary, Juneteenth](https://john.colagioia.net/blog/2023/06/19/juneteenth.html)|Mon Jun 19 2023|
 |[Unraveling Universality](https://john.colagioia.net/blog/2023/06/18/universality.html)|Sun Jun 18 2023|
-|[Free Culture Book Club — Green Comet, part 3](https://john.colagioia.net/blog/2023/06/17/green-comet-3.html)|Sat Jun 17 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
