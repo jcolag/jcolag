@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — kiki the nano bot](https://john.colagioia.net/blog/2023/07/01/kiki.html)|Sat Jul 01 2023|
 |[Toots 🐘 from 06/26 to 06/30](https://john.colagioia.net/blog/2023/06/30/week.html)|Fri Jun 30 2023|
 |[Real Life in Star Trek, The Vengeance Factor](https://john.colagioia.net/blog/2023/06/29/vengeance-factor.html)|Thu Jun 29 2023|
 |[Developer Diary, World Refrigeration Day](https://john.colagioia.net/blog/2023/06/26/refrigeration.html)|Mon Jun 26 2023|
