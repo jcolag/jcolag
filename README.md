@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Someone Like You](https://john.colagioia.net/blog/2023/07/08/glider-ink.html)|Sat Jul 08 2023|
 |[Toots 🐘 from 07/03 to 07/07](https://john.colagioia.net/blog/2023/07/07/week.html)|Fri Jul 07 2023|
 |[Real Life in Star Trek, The Defector](https://john.colagioia.net/blog/2023/07/06/defector.html)|Thu Jul 06 2023|
 |[Developer Diary, Pickett’s Charge](https://john.colagioia.net/blog/2023/07/03/pickett.html)|Mon Jul 03 2023|
