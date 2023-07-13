@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🐘 from 07/03 to 07/07](https://john.colagioia.net/blog/2023/07/07/week.html)|Fri Jul 07 2023|
 |[Real Life in Star Trek, The Defector](https://john.colagioia.net/blog/2023/07/06/defector.html)|Thu Jul 06 2023|
 |[Developer Diary, Pickett’s Charge](https://john.colagioia.net/blog/2023/07/03/pickett.html)|Mon Jul 03 2023|
-|[Free Culture Book Club — kiki the nano bot](https://john.colagioia.net/blog/2023/07/01/kiki.html)|Sat Jul 01 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
