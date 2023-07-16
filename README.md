@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Archive of Our Own, part 1](https://john.colagioia.net/blog/2023/07/15/ao3-1.html)|Sat Jul 15 2023|
 |[Toots 🐘 from 07/10 to 07/14](https://john.colagioia.net/blog/2023/07/14/week.html)|Fri Jul 14 2023|
 |[Real Life in Star Trek, The Hunted](https://john.colagioia.net/blog/2023/07/13/hunted.html)|Thu Jul 13 2023|
 |[Developer Diary, Wyoming Statehood](https://john.colagioia.net/blog/2023/07/10/wyoming.html)|Mon Jul 10 2023|
