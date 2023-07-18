@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Yongle Emperor](https://john.colagioia.net/blog/2023/07/17/yongle.html)|Mon Jul 17 2023|
 |[Free Culture Book Club — Archive of Our Own, part 1](https://john.colagioia.net/blog/2023/07/15/ao3-1.html)|Sat Jul 15 2023|
 |[Toots 🐘 from 07/10 to 07/14](https://john.colagioia.net/blog/2023/07/14/week.html)|Fri Jul 14 2023|
 |[Real Life in Star Trek, The Hunted](https://john.colagioia.net/blog/2023/07/13/hunted.html)|Thu Jul 13 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Affirmative Action in Gentle Terms](https://john.colagioia.net/blog/2023/07/09/affirmative.html)|Sun Jul 09 2023|
 |[Free Culture Book Club — Someone Like You](https://john.colagioia.net/blog/2023/07/08/glider-ink.html)|Sat Jul 08 2023|
 |[Toots 🐘 from 07/03 to 07/07](https://john.colagioia.net/blog/2023/07/07/week.html)|Fri Jul 07 2023|
-|[Real Life in Star Trek, The Defector](https://john.colagioia.net/blog/2023/07/06/defector.html)|Thu Jul 06 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
