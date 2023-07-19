@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Wyoming Statehood](https://john.colagioia.net/blog/2023/07/10/wyoming.html)|Mon Jul 10 2023|
 |[Affirmative Action in Gentle Terms](https://john.colagioia.net/blog/2023/07/09/affirmative.html)|Sun Jul 09 2023|
 |[Free Culture Book Club — Someone Like You](https://john.colagioia.net/blog/2023/07/08/glider-ink.html)|Sat Jul 08 2023|
-|[Toots 🐘 from 07/03 to 07/07](https://john.colagioia.net/blog/2023/07/07/week.html)|Fri Jul 07 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
