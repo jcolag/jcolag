@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Archive of Our Own, part 2](https://john.colagioia.net/blog/2023/07/22/ao3-2.html)|Sat Jul 22 2023|
 |[Toots 🐘 from 07/17 to 07/21](https://john.colagioia.net/blog/2023/07/21/week.html)|Fri Jul 21 2023|
 |[Real Life in Star Trek, The High Ground](https://john.colagioia.net/blog/2023/07/20/high-ground.html)|Thu Jul 20 2023|
 |[Developer Diary, Yongle Emperor](https://john.colagioia.net/blog/2023/07/17/yongle.html)|Mon Jul 17 2023|
