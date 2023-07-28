@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Déjà Q](https://john.colagioia.net/blog/2023/07/27/deja-q.html)|Thu Jul 27 2023|
 |[Developer Diary, Simón Bolívar Day](https://john.colagioia.net/blog/2023/07/24/bolivar.html)|Mon Jul 24 2023|
 |[Free Culture Book Club — Archive of Our Own, part 2](https://john.colagioia.net/blog/2023/07/22/ao3-2.html)|Sat Jul 22 2023|
 |[Toots 🐘 from 07/17 to 07/21](https://john.colagioia.net/blog/2023/07/21/week.html)|Fri Jul 21 2023|
