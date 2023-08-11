@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Yesterday’s Enterprise](https://john.colagioia.net/blog/2023/08/10/yesterday-s-enterprise.html)|Thu Aug 10 2023|
 |[Developer Diary, Purple Heart](https://john.colagioia.net/blog/2023/08/07/purple-heart.html)|Mon Aug 07 2023|
 |[Software as a Haunting (SaaH?)](https://john.colagioia.net/blog/2023/08/06/code-haunting.html)|Sun Aug 06 2023|
 |[Free Culture Book Club — Project Ballad, part 2](https://john.colagioia.net/blog/2023/08/05/project-ballad-2.html)|Sat Aug 05 2023|
