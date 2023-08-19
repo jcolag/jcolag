@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🐘 from 08/14 to 08/18](https://john.colagioia.net/blog/2023/08/18/week.html)|Fri Aug 18 2023|
 |[Real Life in Star Trek, The Offspring](https://john.colagioia.net/blog/2023/08/17/offspring.html)|Thu Aug 17 2023|
 |[Developer Diary, Gerakan Pramuka](https://john.colagioia.net/blog/2023/08/14/gerakan-pramuka.html)|Mon Aug 14 2023|
 |[Announcing Kabang!](https://john.colagioia.net/blog/2023/08/13/kabang.html)|Sun Aug 13 2023|
 |[Free Culture Book Club — Project Ballad, part 3](https://john.colagioia.net/blog/2023/08/12/project-ballad-3.html)|Sat Aug 12 2023|
 |[Toots 🐘 from 08/07 to 08/11](https://john.colagioia.net/blog/2023/08/11/week.html)|Fri Aug 11 2023|
 |[Real Life in Star Trek, Yesterday’s Enterprise](https://john.colagioia.net/blog/2023/08/10/yesterday-s-enterprise.html)|Thu Aug 10 2023|
-|[Developer Diary, Purple Heart](https://john.colagioia.net/blog/2023/08/07/purple-heart.html)|Mon Aug 07 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
