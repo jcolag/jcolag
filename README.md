@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Poles, part 1](https://john.colagioia.net/blog/2023/08/19/poles-1.html)|Sat Aug 19 2023|
 |[Toots 🐘 from 08/14 to 08/18](https://john.colagioia.net/blog/2023/08/18/week.html)|Fri Aug 18 2023|
 |[Real Life in Star Trek, The Offspring](https://john.colagioia.net/blog/2023/08/17/offspring.html)|Thu Aug 17 2023|
 |[Developer Diary, Gerakan Pramuka](https://john.colagioia.net/blog/2023/08/14/gerakan-pramuka.html)|Mon Aug 14 2023|
