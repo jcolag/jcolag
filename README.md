@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Sins of the Father](https://john.colagioia.net/blog/2023/08/24/sins-father.html)|Thu Aug 24 2023|
 |[Developer Diary, Haitian Revolution](https://john.colagioia.net/blog/2023/08/21/haiti.html)|Mon Aug 21 2023|
 |[Free Culture Book Club — Poles, part 1](https://john.colagioia.net/blog/2023/08/19/poles-1.html)|Sat Aug 19 2023|
 |[Toots 🐘 from 08/14 to 08/18](https://john.colagioia.net/blog/2023/08/18/week.html)|Fri Aug 18 2023|
 |[Real Life in Star Trek, The Offspring](https://john.colagioia.net/blog/2023/08/17/offspring.html)|Thu Aug 17 2023|
 |[Developer Diary, Gerakan Pramuka](https://john.colagioia.net/blog/2023/08/14/gerakan-pramuka.html)|Mon Aug 14 2023|
-|[Announcing Kabang!](https://john.colagioia.net/blog/2023/08/13/kabang.html)|Sun Aug 13 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
