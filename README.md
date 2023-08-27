@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Poles, part 2](https://john.colagioia.net/blog/2023/08/26/poles-2.html)|Sat Aug 26 2023|
 |[Toots 🐘 from 08/21 to 08/25](https://john.colagioia.net/blog/2023/08/25/week.html)|Fri Aug 25 2023|
 |[Real Life in Star Trek, Sins of the Father](https://john.colagioia.net/blog/2023/08/24/sins-father.html)|Thu Aug 24 2023|
 |[Developer Diary, Haitian Revolution](https://john.colagioia.net/blog/2023/08/21/haiti.html)|Mon Aug 21 2023|
