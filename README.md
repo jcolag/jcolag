@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Allegiance](https://john.colagioia.net/blog/2023/08/31/allegiance.html)|Thu Aug 31 2023|
 |[Developer Diary, Kaqchikel Rebellion](https://john.colagioia.net/blog/2023/08/28/kaqchikel.html)|Mon Aug 28 2023|
 |[Free Culture Book Club — Poles, part 2](https://john.colagioia.net/blog/2023/08/26/poles-2.html)|Sat Aug 26 2023|
-|[Toots 🐘 from 08/21 to 08/25](https://john.colagioia.net/blog/2023/08/25/week.html)|Fri Aug 25 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
