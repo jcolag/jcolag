@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Poles, part 4](https://john.colagioia.net/blog/2023/09/09/poles-4.html)|Sat Sep 09 2023|
 |[Toots 🐘 from 09/04 to 09/08](https://john.colagioia.net/blog/2023/09/08/week.html)|Fri Sep 08 2023|
 |[Real Life in Star Trek, Captain’s Holiday](https://john.colagioia.net/blog/2023/09/07/captain-s-holiday.html)|Thu Sep 07 2023|
 |[Developer Diary, Labor Day](https://john.colagioia.net/blog/2023/09/04/labor.html)|Mon Sep 04 2023|
