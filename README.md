@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Captain’s Holiday](https://john.colagioia.net/blog/2023/09/07/captain-s-holiday.html)|Thu Sep 07 2023|
 |[Developer Diary, Labor Day](https://john.colagioia.net/blog/2023/09/04/labor.html)|Mon Sep 04 2023|
 |[Free Culture Book Club — Poles, part 3](https://john.colagioia.net/blog/2023/09/02/poles-3.html)|Sat Sep 02 2023|
-|[Toots 🐘 from 08/28 to 09/01](https://john.colagioia.net/blog/2023/09/01/week.html)|Fri Sep 01 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
