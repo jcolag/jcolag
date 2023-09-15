@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Tin Man](https://john.colagioia.net/blog/2023/09/14/tin-man.html)|Thu Sep 14 2023|
 |[Developer Diary, Nayrouz](https://john.colagioia.net/blog/2023/09/11/nayrouz.html)|Mon Sep 11 2023|
 |[Free Culture Book Club — Poles, part 4](https://john.colagioia.net/blog/2023/09/09/poles-4.html)|Sat Sep 09 2023|
 |[Toots 🐘 from 09/04 to 09/08](https://john.colagioia.net/blog/2023/09/08/week.html)|Fri Sep 08 2023|
