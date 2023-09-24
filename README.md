@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — C-Man](https://john.colagioia.net/blog/2023/09/23/c-man.html)|Sat Sep 23 2023|
 |[Toots 🐘 from 09/18 to 09/22](https://john.colagioia.net/blog/2023/09/22/week.html)|Fri Sep 22 2023|
 |[Real Life in Star Trek, Hollow Pursuits](https://john.colagioia.net/blog/2023/09/21/hollow-pursuits.html)|Thu Sep 21 2023|
 |[Developer Diary, World Water Monitoring Day](https://john.colagioia.net/blog/2023/09/18/water.html)|Mon Sep 18 2023|
