@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Full Bloom](https://john.colagioia.net/blog/2023/09/30/full-bloom.html)|Sat Sep 30 2023|
 |[Toots 🦣 from 09/25 to 09/29](https://john.colagioia.net/blog/2023/09/29/week.html)|Fri Sep 29 2023|
 |[Real Life in Star Trek, The Most Toys](https://john.colagioia.net/blog/2023/09/28/most-toys.html)|Thu Sep 28 2023|
 |[Developer Diary, Unification of Nepal](https://john.colagioia.net/blog/2023/09/25/nepal.html)|Mon Sep 25 2023|
