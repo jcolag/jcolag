@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 09/25 to 09/29](https://john.colagioia.net/blog/2023/09/29/week.html)|Fri Sep 29 2023|
 |[Real Life in Star Trek, The Most Toys](https://john.colagioia.net/blog/2023/09/28/most-toys.html)|Thu Sep 28 2023|
 |[Developer Diary, Unification of Nepal](https://john.colagioia.net/blog/2023/09/25/nepal.html)|Mon Sep 25 2023|
-|[Free Culture Book Club — C-Man](https://john.colagioia.net/blog/2023/09/23/c-man.html)|Sat Sep 23 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
