@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 10/02 to 10/06](https://john.colagioia.net/blog/2023/10/06/week.html)|Fri Oct 06 2023|
 |[Real Life in Star Trek, Sarek](https://john.colagioia.net/blog/2023/10/05/sarek.html)|Thu Oct 05 2023|
 |[Developer Diary, Batik Day](https://john.colagioia.net/blog/2023/10/02/batik.html)|Mon Oct 02 2023|
-|[Free Culture Book Club — Full Bloom](https://john.colagioia.net/blog/2023/09/30/full-bloom.html)|Sat Sep 30 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
