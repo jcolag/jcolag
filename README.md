@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Ménage à Troi](https://john.colagioia.net/blog/2023/10/12/menage-troi.html)|Thu Oct 12 2023|
 |[Developer Diary, Hangul Day](https://john.colagioia.net/blog/2023/10/09/hangul.html)|Mon Oct 09 2023|
 |[Free Culture Book Club — ½](https://john.colagioia.net/blog/2023/10/07/half.html)|Sat Oct 07 2023|
 |[Toots 🦣 from 10/02 to 10/06](https://john.colagioia.net/blog/2023/10/06/week.html)|Fri Oct 06 2023|
