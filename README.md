@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, World Food Day](https://john.colagioia.net/blog/2023/10/16/food.html)|Mon Oct 16 2023|
 |[Free Culture Book Club — Sugar the Robot, part 1](https://john.colagioia.net/blog/2023/10/14/roboteers-1.html)|Sat Oct 14 2023|
 |[Toots 🦣 from 10/09 to 10/13](https://john.colagioia.net/blog/2023/10/13/week.html)|Fri Oct 13 2023|
 |[Real Life in Star Trek, Ménage à Troi](https://john.colagioia.net/blog/2023/10/12/menage-troi.html)|Thu Oct 12 2023|
 |[Developer Diary, Hangul Day](https://john.colagioia.net/blog/2023/10/09/hangul.html)|Mon Oct 09 2023|
 |[Free Culture Book Club — ½](https://john.colagioia.net/blog/2023/10/07/half.html)|Sat Oct 07 2023|
 |[Toots 🦣 from 10/02 to 10/06](https://john.colagioia.net/blog/2023/10/06/week.html)|Fri Oct 06 2023|
-|[Real Life in Star Trek, Sarek](https://john.colagioia.net/blog/2023/10/05/sarek.html)|Thu Oct 05 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
