@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 10/16 to 10/20](https://john.colagioia.net/blog/2023/10/20/week.html)|Fri Oct 20 2023|
 |[Real Life in Star Trek, Transfigurations](https://john.colagioia.net/blog/2023/10/19/transfigurations.html)|Thu Oct 19 2023|
 |[Developer Diary, World Food Day](https://john.colagioia.net/blog/2023/10/16/food.html)|Mon Oct 16 2023|
-|[Free Culture Book Club — Sugar the Robot, part 1](https://john.colagioia.net/blog/2023/10/14/roboteers-1.html)|Sat Oct 14 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
