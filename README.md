@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Duelyst](https://john.colagioia.net/blog/2023/10/28/duelyst.html)|Sat Oct 28 2023|
 |[Toots 🦣 from 10/23 to 10/27](https://john.colagioia.net/blog/2023/10/27/week.html)|Fri Oct 27 2023|
 |[Real Life in Star Trek, The Best of Both Worlds, Part One](https://john.colagioia.net/blog/2023/10/26/both-worlds-1.html)|Thu Oct 26 2023|
 |[Developer Diary, Emmanuel de Grouchy](https://john.colagioia.net/blog/2023/10/23/grouchy.html)|Mon Oct 23 2023|
