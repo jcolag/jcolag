@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Best of Both Worlds, Part One](https://john.colagioia.net/blog/2023/10/26/both-worlds-1.html)|Thu Oct 26 2023|
 |[Developer Diary, Emmanuel de Grouchy](https://john.colagioia.net/blog/2023/10/23/grouchy.html)|Mon Oct 23 2023|
 |[Free Culture Book Club — Sugar the Robot, part 2](https://john.colagioia.net/blog/2023/10/21/roboteers-2.html)|Sat Oct 21 2023|
-|[Toots 🦣 from 10/16 to 10/20](https://john.colagioia.net/blog/2023/10/20/week.html)|Fri Oct 20 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
