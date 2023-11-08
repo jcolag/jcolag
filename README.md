@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Season 3, TNG](https://john.colagioia.net/blog/2023/11/02/ng-season-3.html)|Thu Nov 02 2023|
 |[Developer Diary, …Victims of Political Repressions](https://john.colagioia.net/blog/2023/10/30/repression.html)|Mon Oct 30 2023|
 |[Free Culture Book Club — Duelyst](https://john.colagioia.net/blog/2023/10/28/duelyst.html)|Sat Oct 28 2023|
-|[Toots 🦣 from 10/23 to 10/27](https://john.colagioia.net/blog/2023/10/27/week.html)|Fri Oct 27 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
