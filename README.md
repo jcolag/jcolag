@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 11/06 to 11/10](https://john.colagioia.net/blog/2023/11/10/week.html)|Fri Nov 10 2023|
 |[Real Life in Star Trek, The Best of Both Worlds Part 2](https://john.colagioia.net/blog/2023/11/09/best-both-worlds-part-2.html)|Thu Nov 09 2023|
 |[Developer Diary, IDPEEWAC](https://john.colagioia.net/blog/2023/11/06/idpeewac.html)|Mon Nov 06 2023|
-|[Free Culture Book Club — Homestuck, part 1](https://john.colagioia.net/blog/2023/11/04/homestuck-1.html)|Sat Nov 04 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
