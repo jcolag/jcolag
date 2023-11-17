@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Family](https://john.colagioia.net/blog/2023/11/16/family.html)|Thu Nov 16 2023|
 |[Developer Diary, World Kindness Day](https://john.colagioia.net/blog/2023/11/13/kindness.html)|Mon Nov 13 2023|
 |[Free Culture Book Club — Homestuck, part 2](https://john.colagioia.net/blog/2023/11/11/homestuck-2.html)|Sat Nov 11 2023|
 |[Toots 🦣 from 11/06 to 11/10](https://john.colagioia.net/blog/2023/11/10/week.html)|Fri Nov 10 2023|
