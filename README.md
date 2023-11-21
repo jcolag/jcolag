@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Día de la Revolución](https://john.colagioia.net/blog/2023/11/20/revolucion.html)|Mon Nov 20 2023|
 |[Free Culture Book Club — Homestuck, part 3](https://john.colagioia.net/blog/2023/11/18/homestuck-3.html)|Sat Nov 18 2023|
 |[Toots 🦣 from 11/13 to 11/17](https://john.colagioia.net/blog/2023/11/17/week.html)|Fri Nov 17 2023|
 |[Real Life in Star Trek, Family](https://john.colagioia.net/blog/2023/11/16/family.html)|Thu Nov 16 2023|
 |[Developer Diary, World Kindness Day](https://john.colagioia.net/blog/2023/11/13/kindness.html)|Mon Nov 13 2023|
 |[Free Culture Book Club — Homestuck, part 2](https://john.colagioia.net/blog/2023/11/11/homestuck-2.html)|Sat Nov 11 2023|
 |[Toots 🦣 from 11/06 to 11/10](https://john.colagioia.net/blog/2023/11/10/week.html)|Fri Nov 10 2023|
-|[Real Life in Star Trek, The Best of Both Worlds Part 2](https://john.colagioia.net/blog/2023/11/09/best-both-worlds-part-2.html)|Thu Nov 09 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
