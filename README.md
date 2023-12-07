@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 11/27 to 12/01](https://john.colagioia.net/blog/2023/12/01/week.html)|Fri Dec 01 2023|
 |[Real Life in Star Trek, Suddenly Human](https://john.colagioia.net/blog/2023/11/30/suddenly-human.html)|Thu Nov 30 2023|
 |[Developer Diary, Berners Street](https://john.colagioia.net/blog/2023/11/27/berners.html)|Mon Nov 27 2023|
-|[Free Culture Book Club — A Vessel for Offering, part 1](https://john.colagioia.net/blog/2023/11/25/vessel-offering-1.html)|Sat Nov 25 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
