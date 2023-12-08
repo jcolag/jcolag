@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Remember Me](https://john.colagioia.net/blog/2023/12/07/remember-me.html)|Thu Dec 07 2023|
 |[Developer Diary, Impeachment of Samuel Chase (Intro)](https://john.colagioia.net/blog/2023/12/04/chase.html)|Mon Dec 04 2023|
 |[Free Culture Book Club — A Vessel for Offering, part 2](https://john.colagioia.net/blog/2023/12/02/vessel-offering-2.html)|Sat Dec 02 2023|
 |[Toots 🦣 from 11/27 to 12/01](https://john.colagioia.net/blog/2023/12/01/week.html)|Fri Dec 01 2023|
