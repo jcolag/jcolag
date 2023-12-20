@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Legacy](https://john.colagioia.net/blog/2023/12/14/legacy.html)|Thu Dec 14 2023|
 |[Developer Diary, Tango Day](https://john.colagioia.net/blog/2023/12/11/tango.html)|Mon Dec 11 2023|
 |[Free Culture Book Club — A Vessel for Offering, part 3](https://john.colagioia.net/blog/2023/12/09/vessel-offering-3.html)|Sat Dec 09 2023|
-|[Toots 🦣 from 12/04 to 12/08](https://john.colagioia.net/blog/2023/12/08/week.html)|Fri Dec 08 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
