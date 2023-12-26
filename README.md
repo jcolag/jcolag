@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Christmas 🎄](https://john.colagioia.net/blog/2023/12/25/christmas.html)|Mon Dec 25 2023|
 |[Ernest Hemingway’s Visit from Saint Nicholas](https://john.colagioia.net/blog/2023/12/24/visit.html)|Sun Dec 24 2023|
 |[Free Culture Book Club — Only One](https://john.colagioia.net/blog/2023/12/23/only-one.html)|Sat Dec 23 2023|
 |[Toots 🦣 from 12/18 to 12/22](https://john.colagioia.net/blog/2023/12/22/week.html)|Fri Dec 22 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, International Migrants Day](https://john.colagioia.net/blog/2023/12/18/migrants.html)|Mon Dec 18 2023|
 |[Free Culture Book Club — A Vessel for Offering, part 4](https://john.colagioia.net/blog/2023/12/16/vessel-offering-4.html)|Sat Dec 16 2023|
 |[Toots 🦣 from 12/11 to 12/15](https://john.colagioia.net/blog/2023/12/15/week.html)|Fri Dec 15 2023|
-|[Real Life in Star Trek, Legacy](https://john.colagioia.net/blog/2023/12/14/legacy.html)|Thu Dec 14 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
