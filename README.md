@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Future Imperfect](https://john.colagioia.net/blog/2023/12/28/future-imperfect.html)|Thu Dec 28 2023|
 |[Scheduling Reminders, but Not Too Late](https://john.colagioia.net/blog/2023/12/27/too-late.html)|Wed Dec 27 2023|
 |[Developer Diary, Christmas 🎄](https://john.colagioia.net/blog/2023/12/25/christmas.html)|Mon Dec 25 2023|
 |[Ernest Hemingway’s Visit from Saint Nicholas](https://john.colagioia.net/blog/2023/12/24/visit.html)|Sun Dec 24 2023|
