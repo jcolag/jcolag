@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[🔭 Looking Back on 2023](https://john.colagioia.net/blog/2023/12/31/review-2023.html)|Sun Dec 31 2023|
 |[Free Culture Book Club — Admin](https://john.colagioia.net/blog/2023/12/30/admin.html)|Sat Dec 30 2023|
 |[Toots 🦣 from 12/25 to 12/29](https://john.colagioia.net/blog/2023/12/29/week.html)|Fri Dec 29 2023|
 |[Real Life in Star Trek, Future Imperfect](https://john.colagioia.net/blog/2023/12/28/future-imperfect.html)|Thu Dec 28 2023|
