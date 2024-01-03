@@ -15,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Christmas 🎄](https://john.colagioia.net/blog/2023/12/25/christmas.html)|Mon Dec 25 2023|
 |[Ernest Hemingway’s Visit from Saint Nicholas](https://john.colagioia.net/blog/2023/12/24/visit.html)|Sun Dec 24 2023|
 |[Free Culture Book Club — Only One](https://john.colagioia.net/blog/2023/12/23/only-one.html)|Sat Dec 23 2023|
-|[Toots 🦣 from 12/18 to 12/22](https://john.colagioia.net/blog/2023/12/22/week.html)|Fri Dec 22 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
