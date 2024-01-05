@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Final Mission](https://john.colagioia.net/blog/2024/01/04/final-mission.html)|Thu Jan 04 2024|
 |[Developer Diary, New Year’s Day](https://john.colagioia.net/blog/2024/01/01/new-year.html)|Mon Jan 01 2024|
 |[🔭 Looking Back on 2023](https://john.colagioia.net/blog/2023/12/31/review-2023.html)|Sun Dec 31 2023|
 |[Free Culture Book Club — Admin](https://john.colagioia.net/blog/2023/12/30/admin.html)|Sat Dec 30 2023|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Future Imperfect](https://john.colagioia.net/blog/2023/12/28/future-imperfect.html)|Thu Dec 28 2023|
 |[Scheduling Reminders, but Not Too Late](https://john.colagioia.net/blog/2023/12/27/too-late.html)|Wed Dec 27 2023|
 |[Developer Diary, Christmas 🎄](https://john.colagioia.net/blog/2023/12/25/christmas.html)|Mon Dec 25 2023|
-|[Ernest Hemingway’s Visit from Saint Nicholas](https://john.colagioia.net/blog/2023/12/24/visit.html)|Sun Dec 24 2023|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
