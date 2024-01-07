@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Ada &amp; Zangemann](https://john.colagioia.net/blog/2024/01/06/ada-zangemann.html)|Sat Jan 06 2024|
 |[Toots 🦣 from 01/01 to 01/05](https://john.colagioia.net/blog/2024/01/05/week.html)|Fri Jan 05 2024|
 |[Real Life in Star Trek, Final Mission](https://john.colagioia.net/blog/2024/01/04/final-mission.html)|Thu Jan 04 2024|
 |[Developer Diary, New Year’s Day](https://john.colagioia.net/blog/2024/01/01/new-year.html)|Mon Jan 01 2024|
