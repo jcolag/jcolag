@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Diversifying the “Business” of Free Culture](https://john.colagioia.net/blog/2024/01/14/diversify.html)|Sun Jan 14 2024|
 |[Free Culture Book Club — Space Rover, part 1](https://john.colagioia.net/blog/2024/01/13/space-rover-1.html)|Sat Jan 13 2024|
 |[Toots 🦣 from 01/08 to 01/12](https://john.colagioia.net/blog/2024/01/12/week.html)|Fri Jan 12 2024|
 |[Real Life in Star Trek, The Loss](https://john.colagioia.net/blog/2024/01/11/loss.html)|Thu Jan 11 2024|
