@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 01/15 to 01/19](https://john.colagioia.net/blog/2024/01/19/week.html)|Fri Jan 19 2024|
 |[Real Life in Star Trek, Data’s Day](https://john.colagioia.net/blog/2024/01/18/data-s-day.html)|Thu Jan 18 2024|
 |[Developer Diary, Wikipedia](https://john.colagioia.net/blog/2024/01/15/wikipedia.html)|Mon Jan 15 2024|
 |[Diversifying the “Business” of Free Culture](https://john.colagioia.net/blog/2024/01/14/diversify.html)|Sun Jan 14 2024|
 |[Free Culture Book Club — Space Rover, part 1](https://john.colagioia.net/blog/2024/01/13/space-rover-1.html)|Sat Jan 13 2024|
 |[Toots 🦣 from 01/08 to 01/12](https://john.colagioia.net/blog/2024/01/12/week.html)|Fri Jan 12 2024|
 |[Real Life in Star Trek, The Loss](https://john.colagioia.net/blog/2024/01/11/loss.html)|Thu Jan 11 2024|
-|[Developer Diary, The Eighth](https://john.colagioia.net/blog/2024/01/08/eighth.html)|Mon Jan 08 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
