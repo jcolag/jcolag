@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Space Rover, part 2](https://john.colagioia.net/blog/2024/01/20/space-rover-2.html)|Sat Jan 20 2024|
 |[Toots 🦣 from 01/15 to 01/19](https://john.colagioia.net/blog/2024/01/19/week.html)|Fri Jan 19 2024|
 |[Real Life in Star Trek, Data’s Day](https://john.colagioia.net/blog/2024/01/18/data-s-day.html)|Thu Jan 18 2024|
 |[Developer Diary, Wikipedia](https://john.colagioia.net/blog/2024/01/15/wikipedia.html)|Mon Jan 15 2024|
