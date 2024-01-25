@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Data’s Day](https://john.colagioia.net/blog/2024/01/18/data-s-day.html)|Thu Jan 18 2024|
 |[Developer Diary, Wikipedia](https://john.colagioia.net/blog/2024/01/15/wikipedia.html)|Mon Jan 15 2024|
 |[Diversifying the “Business” of Free Culture](https://john.colagioia.net/blog/2024/01/14/diversify.html)|Sun Jan 14 2024|
-|[Free Culture Book Club — Space Rover, part 1](https://john.colagioia.net/blog/2024/01/13/space-rover-1.html)|Sat Jan 13 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
