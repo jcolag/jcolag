@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, The Raven](https://john.colagioia.net/blog/2024/01/29/raven.html)|Mon Jan 29 2024|
 |[Slipped a Mickey](https://john.colagioia.net/blog/2024/01/28/mouse.html)|Sun Jan 28 2024|
 |[Free Culture Book Club — Gedichte](https://john.colagioia.net/blog/2024/01/27/gedichte.html)|Sat Jan 27 2024|
 |[Toots 🦣 from 01/22 to 01/26](https://john.colagioia.net/blog/2024/01/26/week.html)|Fri Jan 26 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[The Return of AI Antics](https://john.colagioia.net/blog/2024/01/21/paid-ai.html)|Sun Jan 21 2024|
 |[Free Culture Book Club — Space Rover, part 2](https://john.colagioia.net/blog/2024/01/20/space-rover-2.html)|Sat Jan 20 2024|
 |[Toots 🦣 from 01/15 to 01/19](https://john.colagioia.net/blog/2024/01/19/week.html)|Fri Jan 19 2024|
-|[Real Life in Star Trek, Data’s Day](https://john.colagioia.net/blog/2024/01/18/data-s-day.html)|Thu Jan 18 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
