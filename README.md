@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, January Uprising](https://john.colagioia.net/blog/2024/01/22/january-uprising.html)|Mon Jan 22 2024|
 |[The Return of AI Antics](https://john.colagioia.net/blog/2024/01/21/paid-ai.html)|Sun Jan 21 2024|
 |[Free Culture Book Club — Space Rover, part 2](https://john.colagioia.net/blog/2024/01/20/space-rover-2.html)|Sat Jan 20 2024|
-|[Toots 🦣 from 01/15 to 01/19](https://john.colagioia.net/blog/2024/01/19/week.html)|Fri Jan 19 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
