@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Devil’s Due](https://john.colagioia.net/blog/2024/02/01/devil-s-due.html)|Thu Feb 01 2024|
 |[Developer Diary, The Raven](https://john.colagioia.net/blog/2024/01/29/raven.html)|Mon Jan 29 2024|
 |[Slipped a Mickey](https://john.colagioia.net/blog/2024/01/28/mouse.html)|Sun Jan 28 2024|
 |[Free Culture Book Club — Gedichte](https://john.colagioia.net/blog/2024/01/27/gedichte.html)|Sat Jan 27 2024|
 |[Toots 🦣 from 01/22 to 01/26](https://john.colagioia.net/blog/2024/01/26/week.html)|Fri Jan 26 2024|
 |[Real Life in Star Trek, The Wounded](https://john.colagioia.net/blog/2024/01/25/wounded.html)|Thu Jan 25 2024|
 |[Developer Diary, January Uprising](https://john.colagioia.net/blog/2024/01/22/january-uprising.html)|Mon Jan 22 2024|
-|[The Return of AI Antics](https://john.colagioia.net/blog/2024/01/21/paid-ai.html)|Sun Jan 21 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
