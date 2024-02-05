@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Hermitage Museum](https://john.colagioia.net/blog/2024/02/05/hermitage.html)|Mon Feb 05 2024|
 |[Free Culture Book Club — Pointy Chances](https://john.colagioia.net/blog/2024/02/03/pointy-chances.html)|Sat Feb 03 2024|
 |[Toots 🦣 from 01/29 to 02/02](https://john.colagioia.net/blog/2024/02/02/week.html)|Fri Feb 02 2024|
 |[Real Life in Star Trek, Devil’s Due](https://john.colagioia.net/blog/2024/02/01/devil-s-due.html)|Thu Feb 01 2024|
