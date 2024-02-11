@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Moria’s Race](https://john.colagioia.net/blog/2024/02/10/morias-race.html)|Sat Feb 10 2024|
 |[Toots 🦣 from 02/05 to 02/09](https://john.colagioia.net/blog/2024/02/09/week.html)|Fri Feb 09 2024|
 |[Real Life in Star Trek, Clues](https://john.colagioia.net/blog/2024/02/08/clues.html)|Thu Feb 08 2024|
 |[Developer Diary, Hermitage Museum](https://john.colagioia.net/blog/2024/02/05/hermitage.html)|Mon Feb 05 2024|
