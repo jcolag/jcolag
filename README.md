@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Clues](https://john.colagioia.net/blog/2024/02/08/clues.html)|Thu Feb 08 2024|
 |[Developer Diary, Hermitage Museum](https://john.colagioia.net/blog/2024/02/05/hermitage.html)|Mon Feb 05 2024|
 |[Free Culture Book Club — Pointy Chances](https://john.colagioia.net/blog/2024/02/03/pointy-chances.html)|Sat Feb 03 2024|
-|[Toots 🦣 from 01/29 to 02/02](https://john.colagioia.net/blog/2024/02/02/week.html)|Fri Feb 02 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
