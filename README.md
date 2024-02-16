@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, First Contact](https://john.colagioia.net/blog/2024/02/15/first-contact.html)|Thu Feb 15 2024|
 |[Developer Diary, Red Hand Day](https://john.colagioia.net/blog/2024/02/12/red-hand.html)|Mon Feb 12 2024|
 |[SUREs — Silly Unsolicited Requests for Exposure](https://john.colagioia.net/blog/2024/02/11/sure.html)|Sun Feb 11 2024|
 |[Free Culture Book Club — Moria’s Race](https://john.colagioia.net/blog/2024/02/10/morias-race.html)|Sat Feb 10 2024|
