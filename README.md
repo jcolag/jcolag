@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 02/12 to 02/16](https://john.colagioia.net/blog/2024/02/16/week.html)|Fri Feb 16 2024|
 |[Real Life in Star Trek, First Contact](https://john.colagioia.net/blog/2024/02/15/first-contact.html)|Thu Feb 15 2024|
 |[Developer Diary, Red Hand Day](https://john.colagioia.net/blog/2024/02/12/red-hand.html)|Mon Feb 12 2024|
 |[SUREs — Silly Unsolicited Requests for Exposure](https://john.colagioia.net/blog/2024/02/11/sure.html)|Sun Feb 11 2024|
 |[Free Culture Book Club — Moria’s Race](https://john.colagioia.net/blog/2024/02/10/morias-race.html)|Sat Feb 10 2024|
 |[Toots 🦣 from 02/05 to 02/09](https://john.colagioia.net/blog/2024/02/09/week.html)|Fri Feb 09 2024|
 |[Real Life in Star Trek, Clues](https://john.colagioia.net/blog/2024/02/08/clues.html)|Thu Feb 08 2024|
-|[Developer Diary, Hermitage Museum](https://john.colagioia.net/blog/2024/02/05/hermitage.html)|Mon Feb 05 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
