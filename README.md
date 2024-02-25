@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — WNV Universe — Woethief 2](https://john.colagioia.net/blog/2024/02/24/wnv-universe-2.html)|Sat Feb 24 2024|
 |[Toots 🦣 from 02/19 to 02/23](https://john.colagioia.net/blog/2024/02/23/week.html)|Fri Feb 23 2024|
 |[Real Life in Star Trek, Galaxy’s Child](https://john.colagioia.net/blog/2024/02/22/galaxy-s-child.html)|Thu Feb 22 2024|
 |[Developer Diary, Eruption of Huaynaputina](https://john.colagioia.net/blog/2024/02/19/huaynaputina.html)|Mon Feb 19 2024|
