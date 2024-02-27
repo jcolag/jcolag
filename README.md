@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Beach Pneumatic Transit](https://john.colagioia.net/blog/2024/02/26/beach.html)|Mon Feb 26 2024|
 |[AI Doom Sounds So Familiar](https://john.colagioia.net/blog/2024/02/25/ai-doom.html)|Sun Feb 25 2024|
 |[Free Culture Book Club — WNV Universe — Woethief 2](https://john.colagioia.net/blog/2024/02/24/wnv-universe-2.html)|Sat Feb 24 2024|
 |[Toots 🦣 from 02/19 to 02/23](https://john.colagioia.net/blog/2024/02/23/week.html)|Fri Feb 23 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[My Linux Story](https://john.colagioia.net/blog/2024/02/18/linux.html)|Sun Feb 18 2024|
 |[Free Culture Book Club — WNV Universe — Woethief 1](https://john.colagioia.net/blog/2024/02/17/wnv-universe-1.html)|Sat Feb 17 2024|
 |[Toots 🦣 from 02/12 to 02/16](https://john.colagioia.net/blog/2024/02/16/week.html)|Fri Feb 16 2024|
-|[Real Life in Star Trek, First Contact](https://john.colagioia.net/blog/2024/02/15/first-contact.html)|Thu Feb 15 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
