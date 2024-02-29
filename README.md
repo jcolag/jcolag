@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Galaxy’s Child](https://john.colagioia.net/blog/2024/02/22/galaxy-s-child.html)|Thu Feb 22 2024|
 |[Developer Diary, Eruption of Huaynaputina](https://john.colagioia.net/blog/2024/02/19/huaynaputina.html)|Mon Feb 19 2024|
 |[My Linux Story](https://john.colagioia.net/blog/2024/02/18/linux.html)|Sun Feb 18 2024|
-|[Free Culture Book Club — WNV Universe — Woethief 1](https://john.colagioia.net/blog/2024/02/17/wnv-universe-1.html)|Sat Feb 17 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
