@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, United States Constitution](https://john.colagioia.net/blog/2024/03/04/us-constitution.html)|Mon Mar 04 2024|
 |[The Rise and (Likely) Fall of Anti-AI Licenses](https://john.colagioia.net/blog/2024/03/03/ai-licenses.html)|Sun Mar 03 2024|
 |[Free Culture Book Club — WNV Universe — Woethief 3](https://john.colagioia.net/blog/2024/03/02/wnv-universe-3.html)|Sat Mar 02 2024|
 |[Toots 🦣 from 02/26 to 03/01](https://john.colagioia.net/blog/2024/03/01/week.html)|Fri Mar 01 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[AI Doom Sounds So Familiar](https://john.colagioia.net/blog/2024/02/25/ai-doom.html)|Sun Feb 25 2024|
 |[Free Culture Book Club — WNV Universe — Woethief 2](https://john.colagioia.net/blog/2024/02/24/wnv-universe-2.html)|Sat Feb 24 2024|
 |[Toots 🦣 from 02/19 to 02/23](https://john.colagioia.net/blog/2024/02/23/week.html)|Fri Feb 23 2024|
-|[Real Life in Star Trek, Galaxy’s Child](https://john.colagioia.net/blog/2024/02/22/galaxy-s-child.html)|Thu Feb 22 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
