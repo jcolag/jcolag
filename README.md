@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — WNV Universe — Other](https://john.colagioia.net/blog/2024/03/09/wnv-universe-4.html)|Sat Mar 09 2024|
 |[Toots 🦣 from 03/04 to 03/08](https://john.colagioia.net/blog/2024/03/08/week.html)|Fri Mar 08 2024|
 |[Real Life in Star Trek, Identity Crisis](https://john.colagioia.net/blog/2024/03/07/identity-crisis.html)|Thu Mar 07 2024|
 |[Developer Diary, United States Constitution](https://john.colagioia.net/blog/2024/03/04/us-constitution.html)|Mon Mar 04 2024|
