@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, United States Constitution](https://john.colagioia.net/blog/2024/03/04/us-constitution.html)|Mon Mar 04 2024|
 |[The Rise and (Likely) Fall of Anti-AI Licenses](https://john.colagioia.net/blog/2024/03/03/ai-licenses.html)|Sun Mar 03 2024|
 |[Free Culture Book Club — WNV Universe — Woethief 3](https://john.colagioia.net/blog/2024/03/02/wnv-universe-3.html)|Sat Mar 02 2024|
-|[Toots 🦣 from 02/26 to 03/01](https://john.colagioia.net/blog/2024/03/01/week.html)|Fri Mar 01 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
