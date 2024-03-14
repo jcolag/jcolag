@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Trying on the Indie Web, Part 1](https://john.colagioia.net/blog/2024/03/13/indieweb-1.html)|Wed Mar 13 2024|
 |[Developer Diary, Roxy Theater](https://john.colagioia.net/blog/2024/03/11/roxy.html)|Mon Mar 11 2024|
 |[Free Culture Book Club — WNV Universe — Other](https://john.colagioia.net/blog/2024/03/09/wnv-universe-4.html)|Sat Mar 09 2024|
 |[Toots 🦣 from 03/04 to 03/08](https://john.colagioia.net/blog/2024/03/08/week.html)|Fri Mar 08 2024|
 |[Real Life in Star Trek, Identity Crisis](https://john.colagioia.net/blog/2024/03/07/identity-crisis.html)|Thu Mar 07 2024|
 |[Developer Diary, United States Constitution](https://john.colagioia.net/blog/2024/03/04/us-constitution.html)|Mon Mar 04 2024|
 |[The Rise and (Likely) Fall of Anti-AI Licenses](https://john.colagioia.net/blog/2024/03/03/ai-licenses.html)|Sun Mar 03 2024|
-|[Free Culture Book Club — WNV Universe — Woethief 3](https://john.colagioia.net/blog/2024/03/02/wnv-universe-3.html)|Sat Mar 02 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
