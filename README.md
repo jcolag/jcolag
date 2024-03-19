@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Paris Commune](https://john.colagioia.net/blog/2024/03/18/paris-commune.html)|Mon Mar 18 2024|
 |[Ruining Chivalry and Other Fun Diversions](https://john.colagioia.net/blog/2024/03/17/chivalry.html)|Sun Mar 17 2024|
 |[Free Culture Book Club — Cauac Ox](https://john.colagioia.net/blog/2024/03/16/cauac-ox.html)|Sat Mar 16 2024|
 |[Toots 🦣 from 03/11 to 03/15](https://john.colagioia.net/blog/2024/03/15/week.html)|Fri Mar 15 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Roxy Theater](https://john.colagioia.net/blog/2024/03/11/roxy.html)|Mon Mar 11 2024|
 |[Free Culture Book Club — WNV Universe — Other](https://john.colagioia.net/blog/2024/03/09/wnv-universe-4.html)|Sat Mar 09 2024|
 |[Toots 🦣 from 03/04 to 03/08](https://john.colagioia.net/blog/2024/03/08/week.html)|Fri Mar 08 2024|
-|[Real Life in Star Trek, Identity Crisis](https://john.colagioia.net/blog/2024/03/07/identity-crisis.html)|Thu Mar 07 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
