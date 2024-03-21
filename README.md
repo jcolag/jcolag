@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Deeper in the Indie Web](https://john.colagioia.net/blog/2024/03/20/indieweb-2.html)|Wed Mar 20 2024|
 |[Developer Diary, Paris Commune](https://john.colagioia.net/blog/2024/03/18/paris-commune.html)|Mon Mar 18 2024|
 |[Ruining Chivalry and Other Fun Diversions](https://john.colagioia.net/blog/2024/03/17/chivalry.html)|Sun Mar 17 2024|
 |[Free Culture Book Club — Cauac Ox](https://john.colagioia.net/blog/2024/03/16/cauac-ox.html)|Sat Mar 16 2024|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Nth Degree](https://john.colagioia.net/blog/2024/03/14/nth-degree.html)|Thu Mar 14 2024|
 |[Trying on the Indie Web, Part 1](https://john.colagioia.net/blog/2024/03/13/indieweb-1.html)|Wed Mar 13 2024|
 |[Developer Diary, Roxy Theater](https://john.colagioia.net/blog/2024/03/11/roxy.html)|Mon Mar 11 2024|
-|[Free Culture Book Club — WNV Universe — Other](https://john.colagioia.net/blog/2024/03/09/wnv-universe-4.html)|Sat Mar 09 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
