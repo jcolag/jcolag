@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 03/18 to 03/22](https://john.colagioia.net/blog/2024/03/22/week.html)|Fri Mar 22 2024|
 |[Real Life in Star Trek, Qpid](https://john.colagioia.net/blog/2024/03/21/qpid.html)|Thu Mar 21 2024|
 |[Deeper in the Indie Web](https://john.colagioia.net/blog/2024/03/20/indieweb-2.html)|Wed Mar 20 2024|
 |[Developer Diary, Paris Commune](https://john.colagioia.net/blog/2024/03/18/paris-commune.html)|Mon Mar 18 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 03/11 to 03/15](https://john.colagioia.net/blog/2024/03/15/week.html)|Fri Mar 15 2024|
 |[Real Life in Star Trek, The Nth Degree](https://john.colagioia.net/blog/2024/03/14/nth-degree.html)|Thu Mar 14 2024|
 |[Trying on the Indie Web, Part 1](https://john.colagioia.net/blog/2024/03/13/indieweb-1.html)|Wed Mar 13 2024|
-|[Developer Diary, Roxy Theater](https://john.colagioia.net/blog/2024/03/11/roxy.html)|Mon Mar 11 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
