@@ -15,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Cauac Ox](https://john.colagioia.net/blog/2024/03/16/cauac-ox.html)|Sat Mar 16 2024|
 |[Toots 🦣 from 03/11 to 03/15](https://john.colagioia.net/blog/2024/03/15/week.html)|Fri Mar 15 2024|
 |[Real Life in Star Trek, The Nth Degree](https://john.colagioia.net/blog/2024/03/14/nth-degree.html)|Thu Mar 14 2024|
-|[Trying on the Indie Web, Part 1](https://john.colagioia.net/blog/2024/03/13/indieweb-1.html)|Wed Mar 13 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
