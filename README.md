@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Transatlantic Slave Trade Remembrance](https://john.colagioia.net/blog/2024/03/25/slavery.html)|Mon Mar 25 2024|
 |[Free Culture Book Club — Airlock Bound, part 1](https://john.colagioia.net/blog/2024/03/23/airlock-bound-1.html)|Sat Mar 23 2024|
 |[Toots 🦣 from 03/18 to 03/22](https://john.colagioia.net/blog/2024/03/22/week.html)|Fri Mar 22 2024|
 |[Real Life in Star Trek, Qpid](https://john.colagioia.net/blog/2024/03/21/qpid.html)|Thu Mar 21 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Ruining Chivalry and Other Fun Diversions](https://john.colagioia.net/blog/2024/03/17/chivalry.html)|Sun Mar 17 2024|
 |[Free Culture Book Club — Cauac Ox](https://john.colagioia.net/blog/2024/03/16/cauac-ox.html)|Sat Mar 16 2024|
 |[Toots 🦣 from 03/11 to 03/15](https://john.colagioia.net/blog/2024/03/15/week.html)|Fri Mar 15 2024|
-|[Real Life in Star Trek, The Nth Degree](https://john.colagioia.net/blog/2024/03/14/nth-degree.html)|Thu Mar 14 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
