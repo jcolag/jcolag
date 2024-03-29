@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Drumhead](https://john.colagioia.net/blog/2024/03/28/drumhead.html)|Thu Mar 28 2024|
 |[Caught in the Indie Web](https://john.colagioia.net/blog/2024/03/27/indieweb-3.html)|Wed Mar 27 2024|
 |[Deeper in the Indie Web](https://john.colagioia.net/blog/2024/03/27/1.html)|Wed Mar 27 2024|
 |[Developer Diary, Transatlantic Slave Trade Remembrance](https://john.colagioia.net/blog/2024/03/25/slavery.html)|Mon Mar 25 2024|
@@ -16,7 +17,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Qpid](https://john.colagioia.net/blog/2024/03/21/qpid.html)|Thu Mar 21 2024|
 |[Deeper in the Indie Web](https://john.colagioia.net/blog/2024/03/20/indieweb-2.html)|Wed Mar 20 2024|
 |[Developer Diary, Paris Commune](https://john.colagioia.net/blog/2024/03/18/paris-commune.html)|Mon Mar 18 2024|
-|[Ruining Chivalry and Other Fun Diversions](https://john.colagioia.net/blog/2024/03/17/chivalry.html)|Sun Mar 17 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
