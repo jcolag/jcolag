@@ -6,17 +6,14 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 03/25 to 03/29](https://john.colagioia.net/blog/2024/03/29/week.html)|Fri Mar 29 2024|
 |[Real Life in Star Trek, The Drumhead](https://john.colagioia.net/blog/2024/03/28/drumhead.html)|Thu Mar 28 2024|
 |[Caught in the Indie Web](https://john.colagioia.net/blog/2024/03/27/indieweb-3.html)|Wed Mar 27 2024|
-|[Deeper in the Indie Web](https://john.colagioia.net/blog/2024/03/27/1.html)|Wed Mar 27 2024|
 |[Developer Diary, Transatlantic Slave Trade Remembrance](https://john.colagioia.net/blog/2024/03/25/slavery.html)|Mon Mar 25 2024|
 |[Free Culture Book Club — Airlock Bound, part 1](https://john.colagioia.net/blog/2024/03/23/airlock-bound-1.html)|Sat Mar 23 2024|
 |[Toots 🦣 from 03/18 to 03/22](https://john.colagioia.net/blog/2024/03/22/week.html)|Fri Mar 22 2024|
-|[Amazon Tells Warehouse Workers to Close Their Eyes and Think Happy Thoughts](https://john.colagioia.net/blog/2024/03/22/1.html)|Fri Mar 22 2024|
-|[Choose rich](https://john.colagioia.net/blog/2024/03/22/2.html)|Fri Mar 22 2024|
 |[Real Life in Star Trek, Qpid](https://john.colagioia.net/blog/2024/03/21/qpid.html)|Thu Mar 21 2024|
 |[Deeper in the Indie Web](https://john.colagioia.net/blog/2024/03/20/indieweb-2.html)|Wed Mar 20 2024|
-|[Developer Diary, Paris Commune](https://john.colagioia.net/blog/2024/03/18/paris-commune.html)|Mon Mar 18 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
