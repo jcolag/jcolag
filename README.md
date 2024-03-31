@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Airlock Bound, part 2](https://john.colagioia.net/blog/2024/03/30/airlock-bound-2.html)|Sat Mar 30 2024|
 |[Toots 🦣 from 03/25 to 03/29](https://john.colagioia.net/blog/2024/03/29/week.html)|Fri Mar 29 2024|
 |[Real Life in Star Trek, The Drumhead](https://john.colagioia.net/blog/2024/03/28/drumhead.html)|Thu Mar 28 2024|
 |[Caught in the Indie Web](https://john.colagioia.net/blog/2024/03/27/indieweb-3.html)|Wed Mar 27 2024|
