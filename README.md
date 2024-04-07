@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — In Unexpected Places](https://john.colagioia.net/blog/2024/04/06/unexpected.html)|Sat Apr 06 2024|
 |[Toots 🦣 from 04/01 to 04/05](https://john.colagioia.net/blog/2024/04/05/week.html)|Fri Apr 05 2024|
 |[Real Life in Star Trek, Half A Life](https://john.colagioia.net/blog/2024/04/04/half-life.html)|Thu Apr 04 2024|
 |[Spinning(?) the Indie Web](https://john.colagioia.net/blog/2024/04/03/indieweb-4.html)|Wed Apr 03 2024|
