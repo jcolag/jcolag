@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Half A Life](https://john.colagioia.net/blog/2024/04/04/half-life.html)|Thu Apr 04 2024|
 |[Spinning(?) the Indie Web](https://john.colagioia.net/blog/2024/04/03/indieweb-4.html)|Wed Apr 03 2024|
 |[Developer Diary, (Ugh) April Fool’s Day](https://john.colagioia.net/blog/2024/04/01/fool.html)|Mon Apr 01 2024|
-|[Free Culture Book Club — Airlock Bound, part 2](https://john.colagioia.net/blog/2024/03/30/airlock-bound-2.html)|Sat Mar 30 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
