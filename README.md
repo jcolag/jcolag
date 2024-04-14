@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Noir &amp; Blanc, part 1](https://john.colagioia.net/blog/2024/04/13/noir-blanc-1.html)|Sat Apr 13 2024|
 |[Toots 🦣 from 04/08 to 04/12](https://john.colagioia.net/blog/2024/04/12/week.html)|Fri Apr 12 2024|
 |[Real Life in Star Trek, The Host](https://john.colagioia.net/blog/2024/04/11/host.html)|Thu Apr 11 2024|
 |[Developer Diary, International Romani Day](https://john.colagioia.net/blog/2024/04/08/romani.html)|Mon Apr 08 2024|
