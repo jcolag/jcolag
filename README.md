@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Host](https://john.colagioia.net/blog/2024/04/11/host.html)|Thu Apr 11 2024|
 |[Developer Diary, International Romani Day](https://john.colagioia.net/blog/2024/04/08/romani.html)|Mon Apr 08 2024|
 |[Topical Grab Bag](https://john.colagioia.net/blog/2024/04/07/grab-bag.html)|Sun Apr 07 2024|
-|[Free Culture Book Club — In Unexpected Places](https://john.colagioia.net/blog/2024/04/06/unexpected.html)|Sat Apr 06 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
