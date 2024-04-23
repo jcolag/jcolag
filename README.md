@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Earth Day](https://john.colagioia.net/blog/2024/04/22/earth.html)|Mon Apr 22 2024|
 |[Free Culture Book Club — Noir &amp; Blanc, part 2](https://john.colagioia.net/blog/2024/04/20/noir-blanc-2.html)|Sat Apr 20 2024|
 |[Toots 🦣 from 04/15 to 04/19](https://john.colagioia.net/blog/2024/04/19/week.html)|Fri Apr 19 2024|
 |[Real Life in Star Trek, The Mind’s Eye](https://john.colagioia.net/blog/2024/04/18/mind-s-eye.html)|Thu Apr 18 2024|
@@ -13,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Short Fiction — ‘Neath a Sunless Sky](https://john.colagioia.net/blog/2024/04/14/sunless-sky.html)|Sun Apr 14 2024|
 |[Free Culture Book Club — Noir &amp; Blanc, part 1](https://john.colagioia.net/blog/2024/04/13/noir-blanc-1.html)|Sat Apr 13 2024|
 |[Toots 🦣 from 04/08 to 04/12](https://john.colagioia.net/blog/2024/04/12/week.html)|Fri Apr 12 2024|
-|[Real Life in Star Trek, The Host](https://john.colagioia.net/blog/2024/04/11/host.html)|Thu Apr 11 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
