@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Mind’s Eye](https://john.colagioia.net/blog/2024/04/18/mind-s-eye.html)|Thu Apr 18 2024|
 |[Developer Diary, Universal Day of Culture](https://john.colagioia.net/blog/2024/04/15/culture.html)|Mon Apr 15 2024|
 |[Short Fiction — ‘Neath a Sunless Sky](https://john.colagioia.net/blog/2024/04/14/sunless-sky.html)|Sun Apr 14 2024|
-|[Free Culture Book Club — Noir &amp; Blanc, part 1](https://john.colagioia.net/blog/2024/04/13/noir-blanc-1.html)|Sat Apr 13 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
