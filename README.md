@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — The Lost Universe](https://john.colagioia.net/blog/2024/05/04/lost-universe.html)|Sat May 04 2024|
 |[Toots 🦣 from 04/29 to 05/03](https://john.colagioia.net/blog/2024/05/03/week.html)|Fri May 03 2024|
 |[Real Life in Star Trek, Redemption](https://john.colagioia.net/blog/2024/05/02/redemption.html)|Thu May 02 2024|
 |[Developer Diary, International Dance Day](https://john.colagioia.net/blog/2024/04/29/dance.html)|Mon Apr 29 2024|
