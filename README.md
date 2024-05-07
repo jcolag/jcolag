@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Hıdırellez](https://john.colagioia.net/blog/2024/05/06/hidirellez.html)|Mon May 06 2024|
 |[Free Culture Book Club — The Lost Universe](https://john.colagioia.net/blog/2024/05/04/lost-universe.html)|Sat May 04 2024|
 |[Toots 🦣 from 04/29 to 05/03](https://john.colagioia.net/blog/2024/05/03/week.html)|Fri May 03 2024|
 |[Real Life in Star Trek, Redemption](https://john.colagioia.net/blog/2024/05/02/redemption.html)|Thu May 02 2024|
 |[Developer Diary, International Dance Day](https://john.colagioia.net/blog/2024/04/29/dance.html)|Mon Apr 29 2024|
 |[Free Culture Book Club — Noir &amp; Blanc, part 3](https://john.colagioia.net/blog/2024/04/27/noir-blanc-3.html)|Sat Apr 27 2024|
 |[Toots 🦣 from 04/22 to 04/26](https://john.colagioia.net/blog/2024/04/26/week.html)|Fri Apr 26 2024|
-|[Real Life in Star Trek, In Theory](https://john.colagioia.net/blog/2024/04/25/in-theory.html)|Thu Apr 25 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
