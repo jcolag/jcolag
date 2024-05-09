@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 04/29 to 05/03](https://john.colagioia.net/blog/2024/05/03/week.html)|Fri May 03 2024|
 |[Real Life in Star Trek, Redemption](https://john.colagioia.net/blog/2024/05/02/redemption.html)|Thu May 02 2024|
 |[Developer Diary, International Dance Day](https://john.colagioia.net/blog/2024/04/29/dance.html)|Mon Apr 29 2024|
-|[Free Culture Book Club — Noir &amp; Blanc, part 3](https://john.colagioia.net/blog/2024/04/27/noir-blanc-3.html)|Sat Apr 27 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
