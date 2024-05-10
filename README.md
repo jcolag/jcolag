@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Season 4, TNG](https://john.colagioia.net/blog/2024/05/09/ng-season-4.html)|Thu May 09 2024|
 |[Developer Diary, Hıdırellez](https://john.colagioia.net/blog/2024/05/06/hidirellez.html)|Mon May 06 2024|
 |[Free Culture Book Club — The Lost Universe](https://john.colagioia.net/blog/2024/05/04/lost-universe.html)|Sat May 04 2024|
 |[Toots 🦣 from 04/29 to 05/03](https://john.colagioia.net/blog/2024/05/03/week.html)|Fri May 03 2024|
