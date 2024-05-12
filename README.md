@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Cistemfailure](https://john.colagioia.net/blog/2024/05/11/cistemfailure.html)|Sat May 11 2024|
 |[Toots 🦣 from 05/06 to 05/10](https://john.colagioia.net/blog/2024/05/10/week.html)|Fri May 10 2024|
 |[Real Life in Star Trek, Season 4, TNG](https://john.colagioia.net/blog/2024/05/09/ng-season-4.html)|Thu May 09 2024|
 |[Developer Diary, Hıdırellez](https://john.colagioia.net/blog/2024/05/06/hidirellez.html)|Mon May 06 2024|
