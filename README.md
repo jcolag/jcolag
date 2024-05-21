@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, World Metrology Day](https://john.colagioia.net/blog/2024/05/20/metrology.html)|Mon May 20 2024|
 |[Free Culture Book Club — Catburglar](https://john.colagioia.net/blog/2024/05/18/catburglar.html)|Sat May 18 2024|
 |[Toots 🦣 from 05/13 to 05/17](https://john.colagioia.net/blog/2024/05/17/week.html)|Fri May 17 2024|
 |[Real Life in Star Trek, Redemption Part 2](https://john.colagioia.net/blog/2024/05/16/redemption-part-2.html)|Thu May 16 2024|
 |[Developer Diary, Amerigo Vespucci](https://john.colagioia.net/blog/2024/05/13/vespucci.html)|Mon May 13 2024|
 |[Free Culture Book Club — Cistemfailure](https://john.colagioia.net/blog/2024/05/11/cistemfailure.html)|Sat May 11 2024|
 |[Toots 🦣 from 05/06 to 05/10](https://john.colagioia.net/blog/2024/05/10/week.html)|Fri May 10 2024|
-|[Real Life in Star Trek, Season 4, TNG](https://john.colagioia.net/blog/2024/05/09/ng-season-4.html)|Thu May 09 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
