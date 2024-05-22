@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Redemption Part 2](https://john.colagioia.net/blog/2024/05/16/redemption-part-2.html)|Thu May 16 2024|
 |[Developer Diary, Amerigo Vespucci](https://john.colagioia.net/blog/2024/05/13/vespucci.html)|Mon May 13 2024|
 |[Free Culture Book Club — Cistemfailure](https://john.colagioia.net/blog/2024/05/11/cistemfailure.html)|Sat May 11 2024|
-|[Toots 🦣 from 05/06 to 05/10](https://john.colagioia.net/blog/2024/05/10/week.html)|Fri May 10 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
