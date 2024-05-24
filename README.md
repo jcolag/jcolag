@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Darmok](https://john.colagioia.net/blog/2024/05/23/darmok.html)|Thu May 23 2024|
 |[Developer Diary, World Metrology Day](https://john.colagioia.net/blog/2024/05/20/metrology.html)|Mon May 20 2024|
 |[Free Culture Book Club — Catburglar](https://john.colagioia.net/blog/2024/05/18/catburglar.html)|Sat May 18 2024|
 |[Toots 🦣 from 05/13 to 05/17](https://john.colagioia.net/blog/2024/05/17/week.html)|Fri May 17 2024|
