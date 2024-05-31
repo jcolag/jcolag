@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Ensign Ro](https://john.colagioia.net/blog/2024/05/30/ensign-ro.html)|Thu May 30 2024|
 |[Developer Diary, Memorial Day](https://john.colagioia.net/blog/2024/05/27/memorial.html)|Mon May 27 2024|
 |[An Army of Roger Cormans](https://john.colagioia.net/blog/2024/05/26/corman.html)|Sun May 26 2024|
 |[Free Culture Book Club — Unprintable](https://john.colagioia.net/blog/2024/05/25/unprintable.html)|Sat May 25 2024|
