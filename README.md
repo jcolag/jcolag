@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The Free Culture Movement](https://john.colagioia.net/blog/2024/06/02/free-culture-movement.html)|Sun Jun 02 2024|
 |[Free Culture Book Club — There Is No Antimemetics Division](https://john.colagioia.net/blog/2024/06/01/antimemetics.html)|Sat Jun 01 2024|
 |[Toots 🦣 from 05/27 to 05/31](https://john.colagioia.net/blog/2024/05/31/week.html)|Fri May 31 2024|
 |[Real Life in Star Trek, Ensign Ro](https://john.colagioia.net/blog/2024/05/30/ensign-ro.html)|Thu May 30 2024|
