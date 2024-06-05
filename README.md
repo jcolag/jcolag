@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Memorial Day](https://john.colagioia.net/blog/2024/05/27/memorial.html)|Mon May 27 2024|
 |[An Army of Roger Cormans](https://john.colagioia.net/blog/2024/05/26/corman.html)|Sun May 26 2024|
 |[Free Culture Book Club — Unprintable](https://john.colagioia.net/blog/2024/05/25/unprintable.html)|Sat May 25 2024|
-|[Toots 🦣 from 05/20 to 05/24](https://john.colagioia.net/blog/2024/05/24/week.html)|Fri May 24 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
