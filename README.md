@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 06/03 to 06/07](https://john.colagioia.net/blog/2024/06/07/week.html)|Fri Jun 07 2024|
 |[Real Life in Star Trek, Silicon Avatar](https://john.colagioia.net/blog/2024/06/06/silicon-avatar.html)|Thu Jun 06 2024|
 |[Developer Diary, World Bicycle Day](https://john.colagioia.net/blog/2024/06/03/bicycle.html)|Mon Jun 03 2024|
 |[The Free Culture Movement](https://john.colagioia.net/blog/2024/06/02/free-culture-movement.html)|Sun Jun 02 2024|
 |[Free Culture Book Club — There Is No Antimemetics Division](https://john.colagioia.net/blog/2024/06/01/antimemetics.html)|Sat Jun 01 2024|
 |[Toots 🦣 from 05/27 to 05/31](https://john.colagioia.net/blog/2024/05/31/week.html)|Fri May 31 2024|
 |[Real Life in Star Trek, Ensign Ro](https://john.colagioia.net/blog/2024/05/30/ensign-ro.html)|Thu May 30 2024|
-|[Developer Diary, Memorial Day](https://john.colagioia.net/blog/2024/05/27/memorial.html)|Mon May 27 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
