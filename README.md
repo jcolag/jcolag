@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture News](https://john.colagioia.net/blog/2024/06/09/free-culture-news.html)|Sun Jun 09 2024|
 |[Free Culture Book Club — Nevada, part 1](https://john.colagioia.net/blog/2024/06/08/nevada-1.html)|Sat Jun 08 2024|
 |[Toots 🦣 from 06/03 to 06/07](https://john.colagioia.net/blog/2024/06/07/week.html)|Fri Jun 07 2024|
 |[Real Life in Star Trek, Silicon Avatar](https://john.colagioia.net/blog/2024/06/06/silicon-avatar.html)|Thu Jun 06 2024|
