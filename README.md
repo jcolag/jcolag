@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Art Nouveau Day](https://john.colagioia.net/blog/2024/06/10/art-nouveau.html)|Mon Jun 10 2024|
 |[Free Culture News](https://john.colagioia.net/blog/2024/06/09/free-culture-news.html)|Sun Jun 09 2024|
 |[Free Culture Book Club — Nevada, part 1](https://john.colagioia.net/blog/2024/06/08/nevada-1.html)|Sat Jun 08 2024|
 |[Toots 🦣 from 06/03 to 06/07](https://john.colagioia.net/blog/2024/06/07/week.html)|Fri Jun 07 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[The Free Culture Movement](https://john.colagioia.net/blog/2024/06/02/free-culture-movement.html)|Sun Jun 02 2024|
 |[Free Culture Book Club — There Is No Antimemetics Division](https://john.colagioia.net/blog/2024/06/01/antimemetics.html)|Sat Jun 01 2024|
 |[Toots 🦣 from 05/27 to 05/31](https://john.colagioia.net/blog/2024/05/31/week.html)|Fri May 31 2024|
-|[Real Life in Star Trek, Ensign Ro](https://john.colagioia.net/blog/2024/05/30/ensign-ro.html)|Thu May 30 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
