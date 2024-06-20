@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Disaster](https://john.colagioia.net/blog/2024/06/13/disaster.html)|Thu Jun 13 2024|
 |[Developer Diary, Art Nouveau Day](https://john.colagioia.net/blog/2024/06/10/art-nouveau.html)|Mon Jun 10 2024|
 |[Free Culture News](https://john.colagioia.net/blog/2024/06/09/free-culture-news.html)|Sun Jun 09 2024|
-|[Free Culture Book Club — Nevada, part 1](https://john.colagioia.net/blog/2024/06/08/nevada-1.html)|Sat Jun 08 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
