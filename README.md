@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Nevada, part 3](https://john.colagioia.net/blog/2024/06/22/nevada-3.html)|Sat Jun 22 2024|
 |[Toots 🦣 from 06/17 to 06/21](https://john.colagioia.net/blog/2024/06/21/week.html)|Fri Jun 21 2024|
 |[Real Life in Star Trek, The Game](https://john.colagioia.net/blog/2024/06/20/game.html)|Thu Jun 20 2024|
 |[Developer Diary, Desertification and Drought](https://john.colagioia.net/blog/2024/06/17/drought.html)|Mon Jun 17 2024|
