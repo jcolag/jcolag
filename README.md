@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Game](https://john.colagioia.net/blog/2024/06/20/game.html)|Thu Jun 20 2024|
 |[Developer Diary, Desertification and Drought](https://john.colagioia.net/blog/2024/06/17/drought.html)|Mon Jun 17 2024|
 |[Free Culture Book Club — Nevada, part 2](https://john.colagioia.net/blog/2024/06/15/nevada-2.html)|Sat Jun 15 2024|
-|[Toots 🦣 from 06/10 to 06/14](https://john.colagioia.net/blog/2024/06/14/week.html)|Fri Jun 14 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
