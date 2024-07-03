@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Unification Part 1](https://john.colagioia.net/blog/2024/06/27/unification-part-1.html)|Thu Jun 27 2024|
 |[Developer Diary, Inti Raymi](https://john.colagioia.net/blog/2024/06/24/inti-raymi.html)|Mon Jun 24 2024|
 |[Free Culture Book Club — Nevada, part 3](https://john.colagioia.net/blog/2024/06/22/nevada-3.html)|Sat Jun 22 2024|
-|[Toots 🦣 from 06/17 to 06/21](https://john.colagioia.net/blog/2024/06/21/week.html)|Fri Jun 21 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
