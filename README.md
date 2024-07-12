@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, A Matter of Time](https://john.colagioia.net/blog/2024/07/11/matter-time.html)|Thu Jul 11 2024|
 |[Developer Diary, Emancipation Day (observed)](https://john.colagioia.net/blog/2024/07/08/emancipation.html)|Mon Jul 08 2024|
 |[Free Culture Book Club — Nevada, part 5](https://john.colagioia.net/blog/2024/07/06/nevada-5.html)|Sat Jul 06 2024|
 |[Toots 🦣 from 07/01 to 07/05](https://john.colagioia.net/blog/2024/07/05/week.html)|Fri Jul 05 2024|

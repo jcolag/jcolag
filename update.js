@@ -18,8 +18,7 @@ https.get('https://john.colagioia.net/blog/feed.xml', (res) => {
         const entry = entries[i];
         const title = entry.link[0]['$'].title;
         const url = entry.link[0]['$'].href;
-console.log(entry);
-        const summary = entry.summary[0]._;
+        const summary = entry.summary ? entry.summary[0]._ : 'No summary found';
         const published = new Date(entry.published[0]);
         const lastWeek = new Date();
 
