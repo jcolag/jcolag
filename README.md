@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 07/08 to 07/12](https://john.colagioia.net/blog/2024/07/12/week.html)|Fri Jul 12 2024|
 |[Real Life in Star Trek, A Matter of Time](https://john.colagioia.net/blog/2024/07/11/matter-time.html)|Thu Jul 11 2024|
 |[Developer Diary, Emancipation Day (observed)](https://john.colagioia.net/blog/2024/07/08/emancipation.html)|Mon Jul 08 2024|
 |[Free Culture Book Club — Nevada, part 5](https://john.colagioia.net/blog/2024/07/06/nevada-5.html)|Sat Jul 06 2024|
 |[Toots 🦣 from 07/01 to 07/05](https://john.colagioia.net/blog/2024/07/05/week.html)|Fri Jul 05 2024|
 |[Real Life in Star Trek, Unification Part 2](https://john.colagioia.net/blog/2024/07/04/unification-part-2.html)|Thu Jul 04 2024|
-|[Developer Diary, Canada Day](https://john.colagioia.net/blog/2024/07/01/canada.html)|Mon Jul 01 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
