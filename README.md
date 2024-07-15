@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Sleep, Addendum](https://john.colagioia.net/blog/2024/07/14/sleep-2.html)|Sun Jul 14 2024|
 |[Free Culture Book Club — Raiders of the Unix Seas](https://john.colagioia.net/blog/2024/07/13/raiders-unix-seas.html)|Sat Jul 13 2024|
 |[Toots 🦣 from 07/08 to 07/12](https://john.colagioia.net/blog/2024/07/12/week.html)|Fri Jul 12 2024|
 |[Real Life in Star Trek, A Matter of Time](https://john.colagioia.net/blog/2024/07/11/matter-time.html)|Thu Jul 11 2024|
