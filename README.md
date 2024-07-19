@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, New Ground](https://john.colagioia.net/blog/2024/07/18/new-ground.html)|Thu Jul 18 2024|
 |[Developer Diary, Queen Yun](https://john.colagioia.net/blog/2024/07/15/yun.html)|Mon Jul 15 2024|
 |[Sleep, Addendum](https://john.colagioia.net/blog/2024/07/14/sleep-2.html)|Sun Jul 14 2024|
 |[Free Culture Book Club — Raiders of the Unix Seas](https://john.colagioia.net/blog/2024/07/13/raiders-unix-seas.html)|Sat Jul 13 2024|
