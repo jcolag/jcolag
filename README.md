@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Aether Age Codex - Helios, part 1](https://john.colagioia.net/blog/2024/07/20/helios-1.html)|Sat Jul 20 2024|
 |[Toots 🦣 from 07/15 to 07/19](https://john.colagioia.net/blog/2024/07/19/week.html)|Fri Jul 19 2024|
 |[Real Life in Star Trek, New Ground](https://john.colagioia.net/blog/2024/07/18/new-ground.html)|Thu Jul 18 2024|
 |[Developer Diary, Queen Yun](https://john.colagioia.net/blog/2024/07/15/yun.html)|Mon Jul 15 2024|
