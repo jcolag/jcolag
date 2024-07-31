@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Hero Worship](https://john.colagioia.net/blog/2024/07/25/hero-worship.html)|Thu Jul 25 2024|
 |[Developer Diary, Ratcatcher’s Day](https://john.colagioia.net/blog/2024/07/22/ratcatcher.html)|Mon Jul 22 2024|
 |[Free Culture Book Club — Aether Age Codex - Helios, part 1](https://john.colagioia.net/blog/2024/07/20/helios-1.html)|Sat Jul 20 2024|
-|[Toots 🦣 from 07/15 to 07/19](https://john.colagioia.net/blog/2024/07/19/week.html)|Fri Jul 19 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
