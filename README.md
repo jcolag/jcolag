@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Violations](https://john.colagioia.net/blog/2024/08/01/violations.html)|Thu Aug 01 2024|
 |[Developer Diary, Thai Language Day](https://john.colagioia.net/blog/2024/07/29/thai.html)|Mon Jul 29 2024|
 |[Free Culture Book Club — Aether Age Codex - Helios, part 2](https://john.colagioia.net/blog/2024/07/27/helios-2.html)|Sat Jul 27 2024|
 |[Toots 🦣 from 07/22 to 07/26](https://john.colagioia.net/blog/2024/07/26/week.html)|Fri Jul 26 2024|
