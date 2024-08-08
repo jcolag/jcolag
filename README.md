@@ -11,7 +11,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 07/29 to 08/02](https://john.colagioia.net/blog/2024/08/02/week.html)|Fri Aug 02 2024|
 |[Real Life in Star Trek, Violations](https://john.colagioia.net/blog/2024/08/01/violations.html)|Thu Aug 01 2024|
 |[Developer Diary, Thai Language Day](https://john.colagioia.net/blog/2024/07/29/thai.html)|Mon Jul 29 2024|
-|[Free Culture Book Club — Aether Age Codex - Helios, part 2](https://john.colagioia.net/blog/2024/07/27/helios-2.html)|Sat Jul 27 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
