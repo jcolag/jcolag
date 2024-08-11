@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Viaje a la Tierra del Quebracho](https://john.colagioia.net/blog/2024/08/10/quebracho.html)|Sat Aug 10 2024|
 |[Toots 🦣 from 08/05 to 08/09](https://john.colagioia.net/blog/2024/08/09/week.html)|Fri Aug 09 2024|
 |[Real Life in Star Trek, The Masterpiece Society](https://john.colagioia.net/blog/2024/08/08/masterpiece-society.html)|Thu Aug 08 2024|
 |[Developer Diary, Coast Guard Day (belated)](https://john.colagioia.net/blog/2024/08/05/coast-guard.html)|Mon Aug 05 2024|
