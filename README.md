@@ -6,13 +6,13 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Yet Another Dark Mode Post](https://john.colagioia.net/blog/2024/08/14/dark-mode-again.html)|Wed Aug 14 2024|
 |[Developer Diary, World Elephant Day](https://john.colagioia.net/blog/2024/08/12/elephant.html)|Mon Aug 12 2024|
 |[Open Source Characters](https://john.colagioia.net/blog/2024/08/11/open-source-characters.html)|Sun Aug 11 2024|
 |[Free Culture Book Club — Viaje a la Tierra del Quebracho](https://john.colagioia.net/blog/2024/08/10/quebracho.html)|Sat Aug 10 2024|
 |[Toots 🦣 from 08/05 to 08/09](https://john.colagioia.net/blog/2024/08/09/week.html)|Fri Aug 09 2024|
 |[Real Life in Star Trek, The Masterpiece Society](https://john.colagioia.net/blog/2024/08/08/masterpiece-society.html)|Thu Aug 08 2024|
 |[Developer Diary, Coast Guard Day (belated)](https://john.colagioia.net/blog/2024/08/05/coast-guard.html)|Mon Aug 05 2024|
-|[Free Culture Book Club — Aether Age Codex - Helios, part 3](https://john.colagioia.net/blog/2024/08/03/helios-3.html)|Sat Aug 03 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
