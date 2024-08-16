@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Conundrum](https://john.colagioia.net/blog/2024/08/15/conundrum.html)|Thu Aug 15 2024|
 |[Yet Another Dark Mode Post](https://john.colagioia.net/blog/2024/08/14/dark-mode-again.html)|Wed Aug 14 2024|
 |[Developer Diary, World Elephant Day](https://john.colagioia.net/blog/2024/08/12/elephant.html)|Mon Aug 12 2024|
 |[Open Source Characters](https://john.colagioia.net/blog/2024/08/11/open-source-characters.html)|Sun Aug 11 2024|
