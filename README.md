@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Antumbra, chapter 0](https://john.colagioia.net/blog/2024/08/17/antumbra.html)|Sat Aug 17 2024|
 |[Toots 🦣 from 08/12 to 08/16](https://john.colagioia.net/blog/2024/08/16/week.html)|Fri Aug 16 2024|
 |[Real Life in Star Trek, Conundrum](https://john.colagioia.net/blog/2024/08/15/conundrum.html)|Thu Aug 15 2024|
 |[Yet Another Dark Mode Post](https://john.colagioia.net/blog/2024/08/14/dark-mode-again.html)|Wed Aug 14 2024|
