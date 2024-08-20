@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, World Humanitarian Day](https://john.colagioia.net/blog/2024/08/19/humanitarian.html)|Mon Aug 19 2024|
 |[Free Culture Book Club — Antumbra, chapter 0](https://john.colagioia.net/blog/2024/08/17/antumbra.html)|Sat Aug 17 2024|
 |[Toots 🦣 from 08/12 to 08/16](https://john.colagioia.net/blog/2024/08/16/week.html)|Fri Aug 16 2024|
 |[Real Life in Star Trek, Conundrum](https://john.colagioia.net/blog/2024/08/15/conundrum.html)|Thu Aug 15 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Open Source Characters](https://john.colagioia.net/blog/2024/08/11/open-source-characters.html)|Sun Aug 11 2024|
 |[Free Culture Book Club — Viaje a la Tierra del Quebracho](https://john.colagioia.net/blog/2024/08/10/quebracho.html)|Sat Aug 10 2024|
 |[Toots 🦣 from 08/05 to 08/09](https://john.colagioia.net/blog/2024/08/09/week.html)|Fri Aug 09 2024|
-|[Real Life in Star Trek, The Masterpiece Society](https://john.colagioia.net/blog/2024/08/08/masterpiece-society.html)|Thu Aug 08 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
