@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Yet Another Dark Mode Post](https://john.colagioia.net/blog/2024/08/14/dark-mode-again.html)|Wed Aug 14 2024|
 |[Developer Diary, World Elephant Day](https://john.colagioia.net/blog/2024/08/12/elephant.html)|Mon Aug 12 2024|
 |[Open Source Characters](https://john.colagioia.net/blog/2024/08/11/open-source-characters.html)|Sun Aug 11 2024|
-|[Free Culture Book Club — Viaje a la Tierra del Quebracho](https://john.colagioia.net/blog/2024/08/10/quebracho.html)|Sat Aug 10 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
