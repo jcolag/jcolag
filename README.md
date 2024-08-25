@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Morrisa Jeanine](https://john.colagioia.net/blog/2024/08/24/morrisa-jeanine.html)|Sat Aug 24 2024|
 |[Toots 🦣 from 08/19 to 08/23](https://john.colagioia.net/blog/2024/08/23/week.html)|Fri Aug 23 2024|
 |[Real Life in Star Trek, Power Play](https://john.colagioia.net/blog/2024/08/22/power-play.html)|Thu Aug 22 2024|
 |[Developer Diary, World Humanitarian Day](https://john.colagioia.net/blog/2024/08/19/humanitarian.html)|Mon Aug 19 2024|
