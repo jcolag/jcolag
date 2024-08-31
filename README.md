@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 08/26 to 08/30](https://john.colagioia.net/blog/2024/08/30/week.html)|Fri Aug 30 2024|
 |[Real Life in Star Trek, Ethics](https://john.colagioia.net/blog/2024/08/29/ethics.html)|Thu Aug 29 2024|
 |[Developer Diary, Women’s Equality Day](https://john.colagioia.net/blog/2024/08/26/womens-equality.html)|Mon Aug 26 2024|
 |[Free Culture Book Club — Morrisa Jeanine](https://john.colagioia.net/blog/2024/08/24/morrisa-jeanine.html)|Sat Aug 24 2024|
 |[Toots 🦣 from 08/19 to 08/23](https://john.colagioia.net/blog/2024/08/23/week.html)|Fri Aug 23 2024|
 |[Real Life in Star Trek, Power Play](https://john.colagioia.net/blog/2024/08/22/power-play.html)|Thu Aug 22 2024|
-|[Developer Diary, World Humanitarian Day](https://john.colagioia.net/blog/2024/08/19/humanitarian.html)|Mon Aug 19 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
