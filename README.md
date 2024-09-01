@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Geiko Eien Ni](https://john.colagioia.net/blog/2024/08/31/geiko-eien-ni.html)|Sat Aug 31 2024|
 |[Toots 🦣 from 08/26 to 08/30](https://john.colagioia.net/blog/2024/08/30/week.html)|Fri Aug 30 2024|
 |[Real Life in Star Trek, Ethics](https://john.colagioia.net/blog/2024/08/29/ethics.html)|Thu Aug 29 2024|
 |[Developer Diary, Women’s Equality Day](https://john.colagioia.net/blog/2024/08/26/womens-equality.html)|Mon Aug 26 2024|
