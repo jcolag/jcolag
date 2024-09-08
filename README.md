@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Aumyr, part 1](https://john.colagioia.net/blog/2024/09/07/aumyr-1.html)|Sat Sep 07 2024|
 |[Toots 🦣 from 09/02 to 09/06](https://john.colagioia.net/blog/2024/09/06/week.html)|Fri Sep 06 2024|
 |[Real Life in Star Trek, The Outcast](https://john.colagioia.net/blog/2024/09/05/outcast.html)|Thu Sep 05 2024|
 |[Developer Diary, Emma Nutt Day, Belated](https://john.colagioia.net/blog/2024/09/02/emma-nutt.html)|Mon Sep 02 2024|
