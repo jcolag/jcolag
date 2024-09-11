@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Emma Nutt Day, Belated](https://john.colagioia.net/blog/2024/09/02/emma-nutt.html)|Mon Sep 02 2024|
 |[Weird Enough?](https://john.colagioia.net/blog/2024/09/01/weird.html)|Sun Sep 01 2024|
 |[Free Culture Book Club — Geiko Eien Ni](https://john.colagioia.net/blog/2024/08/31/geiko-eien-ni.html)|Sat Aug 31 2024|
-|[Toots 🦣 from 08/26 to 08/30](https://john.colagioia.net/blog/2024/08/30/week.html)|Fri Aug 30 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
