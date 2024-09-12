@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Outcast](https://john.colagioia.net/blog/2024/09/05/outcast.html)|Thu Sep 05 2024|
 |[Developer Diary, Emma Nutt Day, Belated](https://john.colagioia.net/blog/2024/09/02/emma-nutt.html)|Mon Sep 02 2024|
 |[Weird Enough?](https://john.colagioia.net/blog/2024/09/01/weird.html)|Sun Sep 01 2024|
-|[Free Culture Book Club — Geiko Eien Ni](https://john.colagioia.net/blog/2024/08/31/geiko-eien-ni.html)|Sat Aug 31 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
