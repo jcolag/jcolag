@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Aumyr, part 2](https://john.colagioia.net/blog/2024/09/14/aumyr-2.html)|Sat Sep 14 2024|
 |[Toots 🦣 from 09/09 to 09/13](https://john.colagioia.net/blog/2024/09/13/week.html)|Fri Sep 13 2024|
 |[Real Life in Star Trek, Cause and Effect](https://john.colagioia.net/blog/2024/09/12/cause-effect.html)|Thu Sep 12 2024|
 |[Developer Diary, Chrysanthemum Day](https://john.colagioia.net/blog/2024/09/09/chrysanthemum.html)|Mon Sep 09 2024|
