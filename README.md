@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Ozone Day](https://john.colagioia.net/blog/2024/09/16/ozone-layer.html)|Mon Sep 16 2024|
 |[Chosen](https://john.colagioia.net/blog/2024/09/15/chosen.html)|Sun Sep 15 2024|
 |[Free Culture Book Club — Aumyr, part 2](https://john.colagioia.net/blog/2024/09/14/aumyr-2.html)|Sat Sep 14 2024|
 |[Toots 🦣 from 09/09 to 09/13](https://john.colagioia.net/blog/2024/09/13/week.html)|Fri Sep 13 2024|
@@ -14,7 +15,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Holding Universal Access to All Knowledge Hostage](https://john.colagioia.net/blog/2024/09/08/internet-archive.html)|Sun Sep 08 2024|
 |[Free Culture Book Club — Aumyr, part 1](https://john.colagioia.net/blog/2024/09/07/aumyr-1.html)|Sat Sep 07 2024|
 |[Toots 🦣 from 09/02 to 09/06](https://john.colagioia.net/blog/2024/09/06/week.html)|Fri Sep 06 2024|
-|[Real Life in Star Trek, The Outcast](https://john.colagioia.net/blog/2024/09/05/outcast.html)|Thu Sep 05 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
