@@ -14,7 +14,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Chrysanthemum Day](https://john.colagioia.net/blog/2024/09/09/chrysanthemum.html)|Mon Sep 09 2024|
 |[Holding Universal Access to All Knowledge Hostage](https://john.colagioia.net/blog/2024/09/08/internet-archive.html)|Sun Sep 08 2024|
 |[Free Culture Book Club — Aumyr, part 1](https://john.colagioia.net/blog/2024/09/07/aumyr-1.html)|Sat Sep 07 2024|
-|[Toots 🦣 from 09/02 to 09/06](https://john.colagioia.net/blog/2024/09/06/week.html)|Fri Sep 06 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
