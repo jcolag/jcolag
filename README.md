@@ -13,7 +13,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Cause and Effect](https://john.colagioia.net/blog/2024/09/12/cause-effect.html)|Thu Sep 12 2024|
 |[Developer Diary, Chrysanthemum Day](https://john.colagioia.net/blog/2024/09/09/chrysanthemum.html)|Mon Sep 09 2024|
 |[Holding Universal Access to All Knowledge Hostage](https://john.colagioia.net/blog/2024/09/08/internet-archive.html)|Sun Sep 08 2024|
-|[Free Culture Book Club — Aumyr, part 1](https://john.colagioia.net/blog/2024/09/07/aumyr-1.html)|Sat Sep 07 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
