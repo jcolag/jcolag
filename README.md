@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Cost of Living](https://john.colagioia.net/blog/2024/09/26/cost-living.html)|Thu Sep 26 2024|
 |[Developer Diary, Celebrate Bisexuality Day](https://john.colagioia.net/blog/2024/09/23/bisexuality.html)|Mon Sep 23 2024|
 |[Free Culture Book Club — Aumyr, part 3](https://john.colagioia.net/blog/2024/09/21/aumyr-3.html)|Sat Sep 21 2024|
 |[Toots 🦣 from 09/16 to 09/20](https://john.colagioia.net/blog/2024/09/20/week.html)|Fri Sep 20 2024|
 |[Real Life in Star Trek, The First Duty](https://john.colagioia.net/blog/2024/09/19/first-duty.html)|Thu Sep 19 2024|
 |[Developer Diary, Ozone Day](https://john.colagioia.net/blog/2024/09/16/ozone-layer.html)|Mon Sep 16 2024|
-|[Chosen](https://john.colagioia.net/blog/2024/09/15/chosen.html)|Sun Sep 15 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
