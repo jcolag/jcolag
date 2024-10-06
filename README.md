@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Ancient Beast](https://john.colagioia.net/blog/2024/10/05/ancient-beast.html)|Sat Oct 05 2024|
 |[Toots 🦣 from 09/30 to 10/04](https://john.colagioia.net/blog/2024/10/04/week.html)|Fri Oct 04 2024|
 |[Real Life in Star Trek, The Perfect Mate](https://john.colagioia.net/blog/2024/10/03/perfect-mate.html)|Thu Oct 03 2024|
 |[Developer Diary, International Translation Day](https://john.colagioia.net/blog/2024/09/30/translation.html)|Mon Sep 30 2024|
