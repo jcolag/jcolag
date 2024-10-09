@@ -12,7 +12,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, The Perfect Mate](https://john.colagioia.net/blog/2024/10/03/perfect-mate.html)|Thu Oct 03 2024|
 |[Developer Diary, International Translation Day](https://john.colagioia.net/blog/2024/09/30/translation.html)|Mon Sep 30 2024|
 |[Free Culture Book Club — Aumyr, part 4](https://john.colagioia.net/blog/2024/09/28/aumyr-4.html)|Sat Sep 28 2024|
-|[Toots 🦣 from 09/23 to 09/27](https://john.colagioia.net/blog/2024/09/27/week.html)|Fri Sep 27 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
