@@ -6,12 +6,12 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 10/07 to 10/11](https://john.colagioia.net/blog/2024/10/11/week.html)|Fri Oct 11 2024|
 |[Real Life in Star Trek, Imaginary Friend](https://john.colagioia.net/blog/2024/10/10/imaginary-friend.html)|Thu Oct 10 2024|
 |[Developer Diary, Child Health Day](https://john.colagioia.net/blog/2024/10/07/child-health.html)|Mon Oct 07 2024|
 |[Free Culture Book Club — Ancient Beast](https://john.colagioia.net/blog/2024/10/05/ancient-beast.html)|Sat Oct 05 2024|
 |[Toots 🦣 from 09/30 to 10/04](https://john.colagioia.net/blog/2024/10/04/week.html)|Fri Oct 04 2024|
 |[Real Life in Star Trek, The Perfect Mate](https://john.colagioia.net/blog/2024/10/03/perfect-mate.html)|Thu Oct 03 2024|
-|[Developer Diary, International Translation Day](https://john.colagioia.net/blog/2024/09/30/translation.html)|Mon Sep 30 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
