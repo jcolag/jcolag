@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, I, Borg](https://john.colagioia.net/blog/2024/10/17/i-borg.html)|Thu Oct 17 2024|
 |[Developer Diary, World Standards Day](https://john.colagioia.net/blog/2024/10/14/standards.html)|Mon Oct 14 2024|
 |[Free Culture Book Club — Restoration Day, part 1](https://john.colagioia.net/blog/2024/10/12/restoration-day-1.html)|Sat Oct 12 2024|
 |[Toots 🦣 from 10/07 to 10/11](https://john.colagioia.net/blog/2024/10/11/week.html)|Fri Oct 11 2024|
