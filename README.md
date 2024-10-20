@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Getting the Most from Mastodon (and Friends)](https://john.colagioia.net/blog/2024/10/20/most-mastodon.html)|Sun Oct 20 2024|
 |[Free Culture Book Club — Restoration Day, part 2](https://john.colagioia.net/blog/2024/10/19/restoration-day-2.html)|Sat Oct 19 2024|
 |[Toots 🦣 from 10/14 to 10/18](https://john.colagioia.net/blog/2024/10/18/week.html)|Fri Oct 18 2024|
 |[Real Life in Star Trek, I, Borg](https://john.colagioia.net/blog/2024/10/17/i-borg.html)|Thu Oct 17 2024|
