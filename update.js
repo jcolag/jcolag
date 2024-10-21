@@ -3,6 +3,7 @@ const https = require('https');
 const xml = require('xml2js');
 
 const template = fs.readFileSync('./template.md', 'utf-8');
+const length = 10;
 let rss = '';
 
 https.get('https://john.colagioia.net/blog/feed.xml', (res) => {
@@ -14,7 +15,7 @@ https.get('https://john.colagioia.net/blog/feed.xml', (res) => {
       const entries = res.feed.entry;
       let table = '';
 
-      for (let i = 0; i < entries.length; i++) {
+      for (let i = 0; i < length; i++) {
         const entry = entries[i];
         const title = entry.link[0]['$'].title;
         const url = entry.link[0]['$'].href;
@@ -24,9 +25,7 @@ https.get('https://john.colagioia.net/blog/feed.xml', (res) => {
 
         lastWeek.setDate(lastWeek.getDate() - 11);
         lastWeek.setHours(0);
-        if (published > lastWeek) {
-          table += `|[${title}](${url})|${published.toDateString()}|\n`;
-        }
+        table += `|[${title}](${url})|${published.toDateString()}|\n`;
       }
 
       const result = template.replace('<!--BlogPostsHere-->', table.trim());
