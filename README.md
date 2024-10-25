@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Next Phase](https://john.colagioia.net/blog/2024/10/24/next-phase.html)|Thu Oct 24 2024|
 |[Developer Diary, World Statistics Day, Belated](https://john.colagioia.net/blog/2024/10/21/statistics.html)|Mon Oct 21 2024|
 |[Getting the Most from Mastodon (and Friends)](https://john.colagioia.net/blog/2024/10/20/most-mastodon.html)|Sun Oct 20 2024|
 |[Free Culture Book Club — Restoration Day, part 2](https://john.colagioia.net/blog/2024/10/19/restoration-day-2.html)|Sat Oct 19 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Restoration Day, part 1](https://john.colagioia.net/blog/2024/10/12/restoration-day-1.html)|Sat Oct 12 2024|
 |[Toots 🦣 from 10/07 to 10/11](https://john.colagioia.net/blog/2024/10/11/week.html)|Fri Oct 11 2024|
 |[Real Life in Star Trek, Imaginary Friend](https://john.colagioia.net/blog/2024/10/10/imaginary-friend.html)|Thu Oct 10 2024|
-|[Developer Diary, Child Health Day](https://john.colagioia.net/blog/2024/10/07/child-health.html)|Mon Oct 07 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
