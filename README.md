@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 10/28 to 11/01](https://john.colagioia.net/blog/2024/11/01/week.html)|Fri Nov 01 2024|
 |[Real Life in Star Trek, The Inner Light](https://john.colagioia.net/blog/2024/10/31/inner-light.html)|Thu Oct 31 2024|
 |[Developer Diary, International Animation Day](https://john.colagioia.net/blog/2024/10/28/animation.html)|Mon Oct 28 2024|
 |[Some (US) Election Comments](https://john.colagioia.net/blog/2024/10/27/project-2025.html)|Sun Oct 27 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, World Statistics Day, Belated](https://john.colagioia.net/blog/2024/10/21/statistics.html)|Mon Oct 21 2024|
 |[Getting the Most from Mastodon (and Friends)](https://john.colagioia.net/blog/2024/10/20/most-mastodon.html)|Sun Oct 20 2024|
 |[Free Culture Book Club — Restoration Day, part 2](https://john.colagioia.net/blog/2024/10/19/restoration-day-2.html)|Sat Oct 19 2024|
-|[Toots 🦣 from 10/14 to 10/18](https://john.colagioia.net/blog/2024/10/18/week.html)|Fri Oct 18 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
