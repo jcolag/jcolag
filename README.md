@@ -6,6 +6,8 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Route 66, An American (bad) Dream](https://john.colagioia.net/blog/2024/11/09/route-66.html)|Sat Nov 09 2024|
+|[Toots 🦣 from 11/04 to 11/08](https://john.colagioia.net/blog/2024/11/08/week.html)|Fri Nov 08 2024|
 |[Real Life in Star Trek, Time’s Arrow, part 1](https://john.colagioia.net/blog/2024/11/07/time-s-arrow-1.html)|Thu Nov 07 2024|
 |[Developer Diary, Bank Transfer Eve](https://john.colagioia.net/blog/2024/11/04/bank.html)|Mon Nov 04 2024|
 |[Free Culture Book Club — Everybody Loves Eric Raymond](https://john.colagioia.net/blog/2024/11/02/eler.html)|Sat Nov 02 2024|
@@ -14,8 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, International Animation Day](https://john.colagioia.net/blog/2024/10/28/animation.html)|Mon Oct 28 2024|
 |[Some (US) Election Comments](https://john.colagioia.net/blog/2024/10/27/project-2025.html)|Sun Oct 27 2024|
 |[Free Culture Book Club — Restoration Day, part 3](https://john.colagioia.net/blog/2024/10/26/restoration-day-3.html)|Sat Oct 26 2024|
-|[Toots 🦣 from 10/21 to 10/25](https://john.colagioia.net/blog/2024/10/25/week.html)|Fri Oct 25 2024|
-|[Real Life in Star Trek, The Next Phase](https://john.colagioia.net/blog/2024/10/24/next-phase.html)|Thu Oct 24 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
