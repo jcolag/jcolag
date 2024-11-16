@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 11/11 to 11/15](https://john.colagioia.net/blog/2024/11/15/week.html)|Fri Nov 15 2024|
 |[Real Life in Star Trek, Season 5, TNG](https://john.colagioia.net/blog/2024/11/14/ng-season-5.html)|Thu Nov 14 2024|
 |[Developer Diary, Veterans Day](https://john.colagioia.net/blog/2024/11/11/veterans.html)|Mon Nov 11 2024|
 |[Some Further (US) Election Comments](https://john.colagioia.net/blog/2024/11/10/election.html)|Sun Nov 10 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Bank Transfer Eve](https://john.colagioia.net/blog/2024/11/04/bank.html)|Mon Nov 04 2024|
 |[Free Culture Book Club — Everybody Loves Eric Raymond](https://john.colagioia.net/blog/2024/11/02/eler.html)|Sat Nov 02 2024|
 |[Toots 🦣 from 10/28 to 11/01](https://john.colagioia.net/blog/2024/11/01/week.html)|Fri Nov 01 2024|
-|[Real Life in Star Trek, The Inner Light](https://john.colagioia.net/blog/2024/10/31/inner-light.html)|Thu Oct 31 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
