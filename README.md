@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Fully Automated! part 1](https://john.colagioia.net/blog/2024/11/16/fully-automated-1.html)|Sat Nov 16 2024|
 |[Toots 🦣 from 11/11 to 11/15](https://john.colagioia.net/blog/2024/11/15/week.html)|Fri Nov 15 2024|
 |[Real Life in Star Trek, Season 5, TNG](https://john.colagioia.net/blog/2024/11/14/ng-season-5.html)|Thu Nov 14 2024|
 |[Developer Diary, Veterans Day](https://john.colagioia.net/blog/2024/11/11/veterans.html)|Mon Nov 11 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Time’s Arrow, part 1](https://john.colagioia.net/blog/2024/11/07/time-s-arrow-1.html)|Thu Nov 07 2024|
 |[Developer Diary, Bank Transfer Eve](https://john.colagioia.net/blog/2024/11/04/bank.html)|Mon Nov 04 2024|
 |[Free Culture Book Club — Everybody Loves Eric Raymond](https://john.colagioia.net/blog/2024/11/02/eler.html)|Sat Nov 02 2024|
-|[Toots 🦣 from 10/28 to 11/01](https://john.colagioia.net/blog/2024/11/01/week.html)|Fri Nov 01 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
