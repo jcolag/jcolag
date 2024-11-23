@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 11/18 to 11/22](https://john.colagioia.net/blog/2024/11/22/week.html)|Fri Nov 22 2024|
 |[Real Life in Star Trek, Time’s Arrow, part 2](https://john.colagioia.net/blog/2024/11/21/time-s-arrow-2.html)|Thu Nov 21 2024|
 |[Developer Diary, Susan B. Anthony](https://john.colagioia.net/blog/2024/11/18/susan-b-anthony.html)|Mon Nov 18 2024|
 |[Read Some (Other) Blogs](https://john.colagioia.net/blog/2024/11/17/blogs.html)|Sun Nov 17 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Veterans Day](https://john.colagioia.net/blog/2024/11/11/veterans.html)|Mon Nov 11 2024|
 |[Some Further (US) Election Comments](https://john.colagioia.net/blog/2024/11/10/election.html)|Sun Nov 10 2024|
 |[Free Culture Book Club — Route 66, An American (bad) Dream](https://john.colagioia.net/blog/2024/11/09/route-66.html)|Sat Nov 09 2024|
-|[Toots 🦣 from 11/04 to 11/08](https://john.colagioia.net/blog/2024/11/08/week.html)|Fri Nov 08 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
