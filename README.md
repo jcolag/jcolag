@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Man of The People](https://john.colagioia.net/blog/2024/12/05/man-people.html)|Thu Dec 05 2024|
 |[Developer Diary, Abolition of Slavery](https://john.colagioia.net/blog/2024/12/02/slavery.html)|Mon Dec 02 2024|
 |[Free Culture Book Club — Ancient Fire](https://john.colagioia.net/blog/2024/11/30/ancient-fire.html)|Sat Nov 30 2024|
 |[Toots 🦣 from 11/25 to 11/29](https://john.colagioia.net/blog/2024/11/29/week.html)|Fri Nov 29 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 11/18 to 11/22](https://john.colagioia.net/blog/2024/11/22/week.html)|Fri Nov 22 2024|
 |[Real Life in Star Trek, Time’s Arrow, part 2](https://john.colagioia.net/blog/2024/11/21/time-s-arrow-2.html)|Thu Nov 21 2024|
 |[Developer Diary, Susan B. Anthony](https://john.colagioia.net/blog/2024/11/18/susan-b-anthony.html)|Mon Nov 18 2024|
-|[Read Some (Other) Blogs](https://john.colagioia.net/blog/2024/11/17/blogs.html)|Sun Nov 17 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
