@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Five Years of Entropy Arbitrage](https://john.colagioia.net/blog/2024/12/08/five-years.html)|Sun Dec 08 2024|
 |[Free Culture Book Club — 2048, Enkidu, and Plastic](https://john.colagioia.net/blog/2024/12/07/enkidu.html)|Sat Dec 07 2024|
 |[Toots 🦣 from 12/02 to 12/06](https://john.colagioia.net/blog/2024/12/06/week.html)|Fri Dec 06 2024|
 |[Real Life in Star Trek, Man of The People](https://john.colagioia.net/blog/2024/12/05/man-people.html)|Thu Dec 05 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Realm of Fear](https://john.colagioia.net/blog/2024/11/28/realm-fear.html)|Thu Nov 28 2024|
 |[Developer Diary, Elimination of Violence against Women](https://john.colagioia.net/blog/2024/11/25/vaw.html)|Mon Nov 25 2024|
 |[Free Culture Book Club — Fully Automated! part 2](https://john.colagioia.net/blog/2024/11/23/fully-automated-2.html)|Sat Nov 23 2024|
-|[Toots 🦣 from 11/18 to 11/22](https://john.colagioia.net/blog/2024/11/22/week.html)|Fri Nov 22 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
