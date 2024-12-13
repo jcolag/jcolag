@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Relics](https://john.colagioia.net/blog/2024/12/12/relics.html)|Thu Dec 12 2024|
 |[Developer Diary, Anti-Corruption Day](https://john.colagioia.net/blog/2024/12/09/corruption.html)|Mon Dec 09 2024|
 |[Five Years of Entropy Arbitrage](https://john.colagioia.net/blog/2024/12/08/five-years.html)|Sun Dec 08 2024|
 |[Free Culture Book Club — 2048, Enkidu, and Plastic](https://john.colagioia.net/blog/2024/12/07/enkidu.html)|Sat Dec 07 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Ancient Fire](https://john.colagioia.net/blog/2024/11/30/ancient-fire.html)|Sat Nov 30 2024|
 |[Toots 🦣 from 11/25 to 11/29](https://john.colagioia.net/blog/2024/11/29/week.html)|Fri Nov 29 2024|
 |[Real Life in Star Trek, Realm of Fear](https://john.colagioia.net/blog/2024/11/28/realm-fear.html)|Thu Nov 28 2024|
-|[Developer Diary, Elimination of Violence against Women](https://john.colagioia.net/blog/2024/11/25/vaw.html)|Mon Nov 25 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
