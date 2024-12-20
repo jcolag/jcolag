@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Schisms](https://john.colagioia.net/blog/2024/12/19/schisms.html)|Thu Dec 19 2024|
 |[Developer Diary, Day of Reconciliation](https://john.colagioia.net/blog/2024/12/16/reconciliation.html)|Mon Dec 16 2024|
 |[Devils, in Detail](https://john.colagioia.net/blog/2024/12/15/devils-detail.html)|Sun Dec 15 2024|
 |[Free Culture Book Club — floodlight up. liquid god](https://john.colagioia.net/blog/2024/12/14/floodlight.html)|Sat Dec 14 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Five Years of Entropy Arbitrage](https://john.colagioia.net/blog/2024/12/08/five-years.html)|Sun Dec 08 2024|
 |[Free Culture Book Club — 2048, Enkidu, and Plastic](https://john.colagioia.net/blog/2024/12/07/enkidu.html)|Sat Dec 07 2024|
 |[Toots 🦣 from 12/02 to 12/06](https://john.colagioia.net/blog/2024/12/06/week.html)|Fri Dec 06 2024|
-|[Real Life in Star Trek, Man of The People](https://john.colagioia.net/blog/2024/12/05/man-people.html)|Thu Dec 05 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
