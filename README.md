@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Treaty of Ghent](https://john.colagioia.net/blog/2024/12/23/ghent.html)|Mon Dec 23 2024|
 |[Christmas Every Day](https://john.colagioia.net/blog/2024/12/22/christmas-every-day.html)|Sun Dec 22 2024|
 |[Free Culture Book Club — Speciare Lunar Research Facility](https://john.colagioia.net/blog/2024/12/21/speciare.html)|Sat Dec 21 2024|
 |[Toots 🦣 from 12/16 to 12/20](https://john.colagioia.net/blog/2024/12/20/week.html)|Fri Dec 20 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — floodlight up. liquid god](https://john.colagioia.net/blog/2024/12/14/floodlight.html)|Sat Dec 14 2024|
 |[Toots 🦣 from 12/09 to 12/13](https://john.colagioia.net/blog/2024/12/13/week.html)|Fri Dec 13 2024|
 |[Real Life in Star Trek, Relics](https://john.colagioia.net/blog/2024/12/12/relics.html)|Thu Dec 12 2024|
-|[Developer Diary, Anti-Corruption Day](https://john.colagioia.net/blog/2024/12/09/corruption.html)|Mon Dec 09 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
