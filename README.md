@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Trans Girl Project, part 1](https://john.colagioia.net/blog/2024/12/28/trans-girl-1.html)|Sat Dec 28 2024|
 |[Toots 🦣 from 12/23 to 12/27](https://john.colagioia.net/blog/2024/12/27/week.html)|Fri Dec 27 2024|
 |[Real Life in Star Trek, True Q](https://john.colagioia.net/blog/2024/12/26/true-q.html)|Thu Dec 26 2024|
 |[Developer Diary, Treaty of Ghent](https://john.colagioia.net/blog/2024/12/23/ghent.html)|Mon Dec 23 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Schisms](https://john.colagioia.net/blog/2024/12/19/schisms.html)|Thu Dec 19 2024|
 |[Developer Diary, Day of Reconciliation](https://john.colagioia.net/blog/2024/12/16/reconciliation.html)|Mon Dec 16 2024|
 |[Devils, in Detail](https://john.colagioia.net/blog/2024/12/15/devils-detail.html)|Sun Dec 15 2024|
-|[Free Culture Book Club — floodlight up. liquid god](https://john.colagioia.net/blog/2024/12/14/floodlight.html)|Sat Dec 14 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
