@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Rascals](https://john.colagioia.net/blog/2025/01/02/rascals.html)|Thu Jan 02 2025|
 |[Developer Diary, Rizal Day](https://john.colagioia.net/blog/2024/12/30/rizal.html)|Mon Dec 30 2024|
 |[🔭 Looking Back on 2024](https://john.colagioia.net/blog/2024/12/29/review-2024.html)|Sun Dec 29 2024|
 |[Free Culture Book Club — Trans Girl Project, part 1](https://john.colagioia.net/blog/2024/12/28/trans-girl-1.html)|Sat Dec 28 2024|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Christmas Every Day](https://john.colagioia.net/blog/2024/12/22/christmas-every-day.html)|Sun Dec 22 2024|
 |[Free Culture Book Club — Speciare Lunar Research Facility](https://john.colagioia.net/blog/2024/12/21/speciare.html)|Sat Dec 21 2024|
 |[Toots 🦣 from 12/16 to 12/20](https://john.colagioia.net/blog/2024/12/20/week.html)|Fri Dec 20 2024|
-|[Real Life in Star Trek, Schisms](https://john.colagioia.net/blog/2024/12/19/schisms.html)|Thu Dec 19 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
