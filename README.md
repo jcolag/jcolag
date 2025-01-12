@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Blood of the Ancient Star, part 1](https://john.colagioia.net/blog/2025/01/11/bloodstar-1.html)|Sat Jan 11 2025|
 |[Toots 🦣 from 01/06 to 01/10](https://john.colagioia.net/blog/2025/01/10/week.html)|Fri Jan 10 2025|
 |[Real Life in Star Trek, A Fistful of Datas](https://john.colagioia.net/blog/2025/01/09/fistful-datas.html)|Thu Jan 09 2025|
 |[Developer Diary, Epiphany](https://john.colagioia.net/blog/2025/01/06/epiphany.html)|Mon Jan 06 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Rascals](https://john.colagioia.net/blog/2025/01/02/rascals.html)|Thu Jan 02 2025|
 |[Developer Diary, Rizal Day](https://john.colagioia.net/blog/2024/12/30/rizal.html)|Mon Dec 30 2024|
 |[🔭 Looking Back on 2024](https://john.colagioia.net/blog/2024/12/29/review-2024.html)|Sun Dec 29 2024|
-|[Free Culture Book Club — Trans Girl Project, part 1](https://john.colagioia.net/blog/2024/12/28/trans-girl-1.html)|Sat Dec 28 2024|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
