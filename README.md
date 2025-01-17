@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Quality of Life](https://john.colagioia.net/blog/2025/01/16/quality-life.html)|Thu Jan 16 2025|
 |[Developer Diary, Old New Year’s Eve](https://john.colagioia.net/blog/2025/01/13/old-new-year.html)|Mon Jan 13 2025|
 |[Exercise](https://john.colagioia.net/blog/2025/01/12/exercise.html)|Sun Jan 12 2025|
 |[Free Culture Book Club — Blood of the Ancient Star, part 1](https://john.colagioia.net/blog/2025/01/11/bloodstar-1.html)|Sat Jan 11 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[🍾 Happy Belated Calendar-Changing Day, 2025 🎆](https://john.colagioia.net/blog/2025/01/05/hny2025.html)|Sun Jan 05 2025|
 |[Free Culture Book Club — Trans Girl Project, part 2](https://john.colagioia.net/blog/2025/01/04/trans-girl-2.html)|Sat Jan 04 2025|
 |[Toots 🦣 from 12/30 to 01/03](https://john.colagioia.net/blog/2025/01/03/week.html)|Fri Jan 03 2025|
-|[Real Life in Star Trek, Rascals](https://john.colagioia.net/blog/2025/01/02/rascals.html)|Thu Jan 02 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
