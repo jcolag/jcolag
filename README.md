@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Turkish Constitution of 1921](https://john.colagioia.net/blog/2025/01/20/turkiye.html)|Mon Jan 20 2025|
 |[Grappling with AI Usage](https://john.colagioia.net/blog/2025/01/19/ai-usage.html)|Sun Jan 19 2025|
 |[Free Culture Book Club — Blood of the Ancient Star, part 2](https://john.colagioia.net/blog/2025/01/18/bloodstar-2.html)|Sat Jan 18 2025|
 |[Toots 🦣 from 01/13 to 01/17](https://john.colagioia.net/blog/2025/01/17/week.html)|Fri Jan 17 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Blood of the Ancient Star, part 1](https://john.colagioia.net/blog/2025/01/11/bloodstar-1.html)|Sat Jan 11 2025|
 |[Toots 🦣 from 01/06 to 01/10](https://john.colagioia.net/blog/2025/01/10/week.html)|Fri Jan 10 2025|
 |[Real Life in Star Trek, A Fistful of Datas](https://john.colagioia.net/blog/2025/01/09/fistful-datas.html)|Thu Jan 09 2025|
-|[Developer Diary, Epiphany](https://john.colagioia.net/blog/2025/01/06/epiphany.html)|Mon Jan 06 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
