@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 01/20 to 01/24](https://john.colagioia.net/blog/2025/01/24/week.html)|Fri Jan 24 2025|
 |[Real Life in Star Trek, Chain of Command, Part 1](https://john.colagioia.net/blog/2025/01/23/chain-command-1.html)|Thu Jan 23 2025|
 |[Developer Diary, Turkish Constitution of 1921](https://john.colagioia.net/blog/2025/01/20/turkiye.html)|Mon Jan 20 2025|
 |[Grappling with AI Usage](https://john.colagioia.net/blog/2025/01/19/ai-usage.html)|Sun Jan 19 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Old New Year’s Eve](https://john.colagioia.net/blog/2025/01/13/old-new-year.html)|Mon Jan 13 2025|
 |[Exercise](https://john.colagioia.net/blog/2025/01/12/exercise.html)|Sun Jan 12 2025|
 |[Free Culture Book Club — Blood of the Ancient Star, part 1](https://john.colagioia.net/blog/2025/01/11/bloodstar-1.html)|Sat Jan 11 2025|
-|[Toots 🦣 from 01/06 to 01/10](https://john.colagioia.net/blog/2025/01/10/week.html)|Fri Jan 10 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
