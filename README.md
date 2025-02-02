@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — The Man Behind the Machine](https://john.colagioia.net/blog/2025/02/01/man-machine.html)|Sat Feb 01 2025|
 |[Toots 🦣 from 01/27 to 01/31](https://john.colagioia.net/blog/2025/01/31/week.html)|Fri Jan 31 2025|
 |[Real Life in Star Trek, Chain of Command, Part 2](https://john.colagioia.net/blog/2025/01/30/chain-command-2.html)|Thu Jan 30 2025|
 |[Developer Diary, Liberation of Auschwitz](https://john.colagioia.net/blog/2025/01/27/auschwitz.html)|Mon Jan 27 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Turkish Constitution of 1921](https://john.colagioia.net/blog/2025/01/20/turkiye.html)|Mon Jan 20 2025|
 |[Grappling with AI Usage](https://john.colagioia.net/blog/2025/01/19/ai-usage.html)|Sun Jan 19 2025|
 |[Free Culture Book Club — Blood of the Ancient Star, part 2](https://john.colagioia.net/blog/2025/01/18/bloodstar-2.html)|Sat Jan 18 2025|
-|[Toots 🦣 from 01/13 to 01/17](https://john.colagioia.net/blog/2025/01/17/week.html)|Fri Jan 17 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
