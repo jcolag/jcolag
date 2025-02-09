@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Cairn Players Guide and Background](https://john.colagioia.net/blog/2025/02/08/cairn-1.html)|Sat Feb 08 2025|
 |[Toots 🦣 from 02/03 to 02/07](https://john.colagioia.net/blog/2025/02/07/week.html)|Fri Feb 07 2025|
 |[Real Life in Star Trek, Ship in a Bottle](https://john.colagioia.net/blog/2025/02/06/ship-in-bottle.html)|Thu Feb 06 2025|
 |[Developer Diary, Sámi National Day](https://john.colagioia.net/blog/2025/02/03/saami.html)|Mon Feb 03 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Liberation of Auschwitz](https://john.colagioia.net/blog/2025/01/27/auschwitz.html)|Mon Jan 27 2025|
 |[Free Culture Book Club — Blood of the Ancient Star, part 3](https://john.colagioia.net/blog/2025/01/25/bloodstar-3.html)|Sat Jan 25 2025|
 |[Toots 🦣 from 01/20 to 01/24](https://john.colagioia.net/blog/2025/01/24/week.html)|Fri Jan 24 2025|
-|[Real Life in Star Trek, Chain of Command, Part 1](https://john.colagioia.net/blog/2025/01/23/chain-command-1.html)|Thu Jan 23 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
