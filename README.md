@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Aquiel](https://john.colagioia.net/blog/2025/02/13/aquiel.html)|Thu Feb 13 2025|
 |[Developer Diary, Freedom to Marry Day](https://john.colagioia.net/blog/2025/02/10/freedom-marry.html)|Mon Feb 10 2025|
 |[Stop Doing Their Work for Them](https://john.colagioia.net/blog/2025/02/09/resist.html)|Sun Feb 09 2025|
 |[Free Culture Book Club — Cairn Players Guide and Background](https://john.colagioia.net/blog/2025/02/08/cairn-1.html)|Sat Feb 08 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — The Man Behind the Machine](https://john.colagioia.net/blog/2025/02/01/man-machine.html)|Sat Feb 01 2025|
 |[Toots 🦣 from 01/27 to 01/31](https://john.colagioia.net/blog/2025/01/31/week.html)|Fri Jan 31 2025|
 |[Real Life in Star Trek, Chain of Command, Part 2](https://john.colagioia.net/blog/2025/01/30/chain-command-2.html)|Thu Jan 30 2025|
-|[Developer Diary, Liberation of Auschwitz](https://john.colagioia.net/blog/2025/01/27/auschwitz.html)|Mon Jan 27 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
