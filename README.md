@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Who Belongs](https://john.colagioia.net/blog/2025/02/16/dei.html)|Sun Feb 16 2025|
 |[Free Culture Book Club — Cairn Wardens Guide, part 1](https://john.colagioia.net/blog/2025/02/15/cairn-2.html)|Sat Feb 15 2025|
 |[Toots 🦣 from 02/10 to 02/14](https://john.colagioia.net/blog/2025/02/14/week.html)|Fri Feb 14 2025|
 |[Real Life in Star Trek, Aquiel](https://john.colagioia.net/blog/2025/02/13/aquiel.html)|Thu Feb 13 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 02/03 to 02/07](https://john.colagioia.net/blog/2025/02/07/week.html)|Fri Feb 07 2025|
 |[Real Life in Star Trek, Ship in a Bottle](https://john.colagioia.net/blog/2025/02/06/ship-in-bottle.html)|Thu Feb 06 2025|
 |[Developer Diary, Sámi National Day](https://john.colagioia.net/blog/2025/02/03/saami.html)|Mon Feb 03 2025|
-|[Free Culture Book Club — The Man Behind the Machine](https://john.colagioia.net/blog/2025/02/01/man-machine.html)|Sat Feb 01 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
