@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Stories by Matthew DeBlock](https://john.colagioia.net/blog/2025/03/01/deblock.html)|Sat Mar 01 2025|
 |[Toots 🦣 from 02/24 to 02/28](https://john.colagioia.net/blog/2025/02/28/week.html)|Fri Feb 28 2025|
 |[Real Life in Star Trek, Tapestry](https://john.colagioia.net/blog/2025/02/27/tapestry.html)|Thu Feb 27 2025|
 |[Developer Diary, Kingdom of Ava](https://john.colagioia.net/blog/2025/02/24/ava.html)|Mon Feb 24 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Face of the Enemy](https://john.colagioia.net/blog/2025/02/20/face-enemy.html)|Thu Feb 20 2025|
 |[Developer Diary, World Eve of Social Justice](https://john.colagioia.net/blog/2025/02/17/social-justice.html)|Mon Feb 17 2025|
 |[Who Belongs](https://john.colagioia.net/blog/2025/02/16/dei.html)|Sun Feb 16 2025|
-|[Free Culture Book Club — Cairn Wardens Guide, part 1](https://john.colagioia.net/blog/2025/02/15/cairn-2.html)|Sat Feb 15 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
