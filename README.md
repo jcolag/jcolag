@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Birthright part 2](https://john.colagioia.net/blog/2025/03/13/birthright-2.html)|Thu Mar 13 2025|
 |[Developer Diary, Harriet Tubman Day](https://john.colagioia.net/blog/2025/03/10/tubman.html)|Mon Mar 10 2025|
 |[Free Culture Book Club — acoustic (yin)](https://john.colagioia.net/blog/2025/03/08/acoustic-yin.html)|Sat Mar 08 2025|
 |[Toots 🦣 from 03/03 to 03/07](https://john.colagioia.net/blog/2025/03/07/week.html)|Fri Mar 07 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 02/24 to 02/28](https://john.colagioia.net/blog/2025/02/28/week.html)|Fri Feb 28 2025|
 |[Real Life in Star Trek, Tapestry](https://john.colagioia.net/blog/2025/02/27/tapestry.html)|Thu Feb 27 2025|
 |[Developer Diary, Kingdom of Ava](https://john.colagioia.net/blog/2025/02/24/ava.html)|Mon Feb 24 2025|
-|[The Comet](https://john.colagioia.net/blog/2025/02/23/comet.html)|Sun Feb 23 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
