@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Sulphur Nimbus](https://john.colagioia.net/blog/2025/03/22/sulphur-nimbus.html)|Sat Mar 22 2025|
 |[Toots 🦣 from 03/17 to 03/21](https://john.colagioia.net/blog/2025/03/21/week.html)|Fri Mar 21 2025|
 |[Real Life in Star Trek, Starship Mine](https://john.colagioia.net/blog/2025/03/20/starship-mine.html)|Thu Mar 20 2025|
 |[Developer Diary, Saint Patrick’s Day ☘️](https://john.colagioia.net/blog/2025/03/17/patrick.html)|Mon Mar 17 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Harriet Tubman Day](https://john.colagioia.net/blog/2025/03/10/tubman.html)|Mon Mar 10 2025|
 |[Free Culture Book Club — acoustic (yin)](https://john.colagioia.net/blog/2025/03/08/acoustic-yin.html)|Sat Mar 08 2025|
 |[Toots 🦣 from 03/03 to 03/07](https://john.colagioia.net/blog/2025/03/07/week.html)|Fri Mar 07 2025|
-|[Real Life in Star Trek, Birthright, part 1](https://john.colagioia.net/blog/2025/03/06/birthright-1.html)|Thu Mar 06 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
