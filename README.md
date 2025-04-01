@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Transgender Day of Visibility](https://john.colagioia.net/blog/2025/03/31/transgender.html)|Mon Mar 31 2025|
 |[Hegemon and the Masters of… 🚫](https://john.colagioia.net/blog/2025/03/30/patriarchy.html)|Sun Mar 30 2025|
 |[Free Culture Book Club — Nose Ears, part 1](https://john.colagioia.net/blog/2025/03/29/nose-ears-1.html)|Sat Mar 29 2025|
 |[Toots 🦣 from 03/24 to 03/28](https://john.colagioia.net/blog/2025/03/28/week.html)|Fri Mar 28 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 03/17 to 03/21](https://john.colagioia.net/blog/2025/03/21/week.html)|Fri Mar 21 2025|
 |[Real Life in Star Trek, Starship Mine](https://john.colagioia.net/blog/2025/03/20/starship-mine.html)|Thu Mar 20 2025|
 |[Developer Diary, Saint Patrick’s Day ☘️](https://john.colagioia.net/blog/2025/03/17/patrick.html)|Mon Mar 17 2025|
-|[Free Culture Book Club — electric (yang)](https://john.colagioia.net/blog/2025/03/15/electric-yang.html)|Sat Mar 15 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
