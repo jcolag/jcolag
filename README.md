@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Frame of Mind](https://john.colagioia.net/blog/2025/04/10/frame-mind.html)|Thu Apr 10 2025|
 |[Developer Diary, 1994 Rwandan Genocide](https://john.colagioia.net/blog/2025/04/07/rwanda.html)|Mon Apr 07 2025|
 |[Free Culture Book Club — Nose Ears, part 2](https://john.colagioia.net/blog/2025/04/05/nose-ears-2.html)|Sat Apr 05 2025|
 |[Toots 🦣 from 03/31 to 04/04](https://john.colagioia.net/blog/2025/04/04/week.html)|Fri Apr 04 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Nose Ears, part 1](https://john.colagioia.net/blog/2025/03/29/nose-ears-1.html)|Sat Mar 29 2025|
 |[Toots 🦣 from 03/24 to 03/28](https://john.colagioia.net/blog/2025/03/28/week.html)|Fri Mar 28 2025|
 |[Real Life in Star Trek, Lessons](https://john.colagioia.net/blog/2025/03/27/lessons.html)|Thu Mar 27 2025|
-|[Developer Diary, World Tuberculosis Day](https://john.colagioia.net/blog/2025/03/24/tuberculosis.html)|Mon Mar 24 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
