@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Pilogy, part 2](https://john.colagioia.net/blog/2025/05/03/pilogy-2.html)|Sat May 03 2025|
 |[Toots 🦣 from 04/28 to 05/02](https://john.colagioia.net/blog/2025/05/02/week.html)|Fri May 02 2025|
 |[Real Life in Star Trek, Second Chances](https://john.colagioia.net/blog/2025/05/01/second-chances.html)|Thu May 01 2025|
 |[Developer Diary, Workers’ Memorial Day](https://john.colagioia.net/blog/2025/04/28/workers-memorial.html)|Mon Apr 28 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Grounation Day](https://john.colagioia.net/blog/2025/04/21/grounation.html)|Mon Apr 21 2025|
 |[Free Culture Book Club — Secrets in the Static](https://john.colagioia.net/blog/2025/04/19/secrets-static.html)|Sat Apr 19 2025|
 |[Toots 🦣 from 04/14 to 04/18](https://john.colagioia.net/blog/2025/04/18/week.html)|Fri Apr 18 2025|
-|[Real Life in Star Trek, Suspicions](https://john.colagioia.net/blog/2025/04/17/suspicions.html)|Thu Apr 17 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
