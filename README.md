@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 05/05 to 05/09](https://john.colagioia.net/blog/2025/05/09/week.html)|Fri May 09 2025|
 |[Real Life in Star Trek, Timescape](https://john.colagioia.net/blog/2025/05/08/timescape.html)|Thu May 08 2025|
 |[Developer Diary, Day of the Midwife](https://john.colagioia.net/blog/2025/05/05/midwives.html)|Mon May 05 2025|
 |[$30M — Remixed Education](https://john.colagioia.net/blog/2025/05/04/30m-free-education.html)|Sun May 04 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Workers’ Memorial Day](https://john.colagioia.net/blog/2025/04/28/workers-memorial.html)|Mon Apr 28 2025|
 |[Free Culture Book Club — Pilogy, part 1](https://john.colagioia.net/blog/2025/04/26/pilogy-1.html)|Sat Apr 26 2025|
 |[Toots 🦣 from 04/21 to 04/25](https://john.colagioia.net/blog/2025/04/25/week.html)|Fri Apr 25 2025|
-|[Real Life in Star Trek, Rightful Heir](https://john.colagioia.net/blog/2025/04/24/rightful-heir.html)|Thu Apr 24 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
