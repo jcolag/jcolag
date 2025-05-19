@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Copyright Thoughts](https://john.colagioia.net/blog/2025/05/18/copyright-thoughts.html)|Sun May 18 2025|
 |[Free Culture Book Club — Pilogy, part 4](https://john.colagioia.net/blog/2025/05/17/pilogy-4.html)|Sat May 17 2025|
 |[Toots 🦣 from 05/12 to 05/16](https://john.colagioia.net/blog/2025/05/16/week.html)|Fri May 16 2025|
 |[Real Life in Star Trek, Descent, part 1](https://john.colagioia.net/blog/2025/05/15/descent-1.html)|Thu May 15 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 05/05 to 05/09](https://john.colagioia.net/blog/2025/05/09/week.html)|Fri May 09 2025|
 |[Real Life in Star Trek, Timescape](https://john.colagioia.net/blog/2025/05/08/timescape.html)|Thu May 08 2025|
 |[Developer Diary, Day of the Midwife](https://john.colagioia.net/blog/2025/05/05/midwives.html)|Mon May 05 2025|
-|[$30M — Remixed Education](https://john.colagioia.net/blog/2025/05/04/30m-free-education.html)|Sun May 04 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
