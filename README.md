@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 06/09 to 06/13](https://john.colagioia.net/blog/2025/06/13/week.html)|Fri Jun 13 2025|
 |[Real Life in Star Trek, Interface](https://john.colagioia.net/blog/2025/06/12/interface.html)|Thu Jun 12 2025|
 |[Developer Diary, Eid al-Adha](https://john.colagioia.net/blog/2025/06/09/adha.html)|Mon Jun 09 2025|
 |[Generative AI Wish List](https://john.colagioia.net/blog/2025/06/08/ai-wish-list.html)|Sun Jun 08 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, International Sex Workers’ Day](https://john.colagioia.net/blog/2025/06/02/sex-workers.html)|Mon Jun 02 2025|
 |[One Fight](https://john.colagioia.net/blog/2025/06/01/one-fight.html)|Sun Jun 01 2025|
 |[Free Culture Book Club — Meteorite](https://john.colagioia.net/blog/2025/05/31/meteorite.html)|Sat May 31 2025|
-|[Toots 🦣 from 05/26 to 05/30](https://john.colagioia.net/blog/2025/05/30/week.html)|Fri May 30 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
