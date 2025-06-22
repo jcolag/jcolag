@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — First Woman — Dream to Reality](https://john.colagioia.net/blog/2025/06/21/first-woman-1.html)|Sat Jun 21 2025|
 |[Toots 🦣 from 06/16 to 06/20](https://john.colagioia.net/blog/2025/06/20/week.html)|Fri Jun 20 2025|
 |[Real Life in Star Trek, Gambit part 1](https://john.colagioia.net/blog/2025/06/19/gambit-part-1.html)|Thu Jun 19 2025|
 |[Developer Diary, Day of the African Child](https://john.colagioia.net/blog/2025/06/16/african-child.html)|Mon Jun 16 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Interface](https://john.colagioia.net/blog/2025/06/12/interface.html)|Thu Jun 12 2025|
 |[Developer Diary, Eid al-Adha](https://john.colagioia.net/blog/2025/06/09/adha.html)|Mon Jun 09 2025|
 |[Generative AI Wish List](https://john.colagioia.net/blog/2025/06/08/ai-wish-list.html)|Sun Jun 08 2025|
-|[Free Culture Book Club — The Pink and Black Album](https://john.colagioia.net/blog/2025/06/07/pink-black.html)|Sat Jun 07 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
