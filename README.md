@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Crossing Signals](https://john.colagioia.net/blog/2025/06/29/signal-change.html)|Sun Jun 29 2025|
 |[Free Culture Book Club — First Woman, Expanding Our Universe](https://john.colagioia.net/blog/2025/06/28/first-woman-2.html)|Sat Jun 28 2025|
 |[Toots 🦣 from 06/23 to 06/27](https://john.colagioia.net/blog/2025/06/27/week.html)|Fri Jun 27 2025|
 |[Real Life in Star Trek, Gambit part 2](https://john.colagioia.net/blog/2025/06/26/gambit-part-2.html)|Thu Jun 26 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 06/16 to 06/20](https://john.colagioia.net/blog/2025/06/20/week.html)|Fri Jun 20 2025|
 |[Real Life in Star Trek, Gambit part 1](https://john.colagioia.net/blog/2025/06/19/gambit-part-1.html)|Thu Jun 19 2025|
 |[Developer Diary, Day of the African Child](https://john.colagioia.net/blog/2025/06/16/african-child.html)|Mon Jun 16 2025|
-|[Go Nowhere Fast](https://john.colagioia.net/blog/2025/06/15/go-nowhere-fast.html)|Sun Jun 15 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
