@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Soul Space](https://john.colagioia.net/blog/2025/07/05/soul-space.html)|Sat Jul 05 2025|
 |[Toots 🦣 from 06/30 to 07/04](https://john.colagioia.net/blog/2025/07/04/week.html)|Fri Jul 04 2025|
 |[Real Life in Star Trek, Phantasms](https://john.colagioia.net/blog/2025/07/03/phantasms.html)|Thu Jul 03 2025|
 |[Developer Diary, International Asteroid Day](https://john.colagioia.net/blog/2025/06/30/asteroid.html)|Mon Jun 30 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Gambit part 2](https://john.colagioia.net/blog/2025/06/26/gambit-part-2.html)|Thu Jun 26 2025|
 |[Developer Diary, Midsummer](https://john.colagioia.net/blog/2025/06/23/midsummer.html)|Mon Jun 23 2025|
 |[Short Fiction — Transgender Athlete Bans](https://john.colagioia.net/blog/2025/06/22/title-ix-hope.html)|Sun Jun 22 2025|
-|[Free Culture Book Club — First Woman — Dream to Reality](https://john.colagioia.net/blog/2025/06/21/first-woman-1.html)|Sat Jun 21 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
