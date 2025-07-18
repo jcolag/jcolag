@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Attached](https://john.colagioia.net/blog/2025/07/17/attached.html)|Thu Jul 17 2025|
 |[Developer Diary, Bastille Day](https://john.colagioia.net/blog/2025/07/14/bastille.html)|Mon Jul 14 2025|
 |[30M — Weekly Series](https://john.colagioia.net/blog/2025/07/13/30m-weekly-series.html)|Sun Jul 13 2025|
 |[Free Culture Book Club — Trois écoles, part 1](https://john.colagioia.net/blog/2025/07/12/trois-ecoles-1.html)|Sat Jul 12 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Soul Space](https://john.colagioia.net/blog/2025/07/05/soul-space.html)|Sat Jul 05 2025|
 |[Toots 🦣 from 06/30 to 07/04](https://john.colagioia.net/blog/2025/07/04/week.html)|Fri Jul 04 2025|
 |[Real Life in Star Trek, Phantasms](https://john.colagioia.net/blog/2025/07/03/phantasms.html)|Thu Jul 03 2025|
-|[Developer Diary, International Asteroid Day](https://john.colagioia.net/blog/2025/06/30/asteroid.html)|Mon Jun 30 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
