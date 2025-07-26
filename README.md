@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 07/21 to 07/25](https://john.colagioia.net/blog/2025/07/25/week.html)|Fri Jul 25 2025|
 |[Real Life in Star Trek, Force of Nature](https://john.colagioia.net/blog/2025/07/24/force-nature.html)|Thu Jul 24 2025|
 |[Developer Diary, Luis Muñoz Rivera’s Birthday](https://john.colagioia.net/blog/2025/07/21/rivera.html)|Mon Jul 21 2025|
 |[Naming Things](https://john.colagioia.net/blog/2025/07/20/naming.html)|Sun Jul 20 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Bastille Day](https://john.colagioia.net/blog/2025/07/14/bastille.html)|Mon Jul 14 2025|
 |[30M — Weekly Series](https://john.colagioia.net/blog/2025/07/13/30m-weekly-series.html)|Sun Jul 13 2025|
 |[Free Culture Book Club — Trois écoles, part 1](https://john.colagioia.net/blog/2025/07/12/trois-ecoles-1.html)|Sat Jul 12 2025|
-|[Toots 🦣 from 07/07 to 07/11](https://john.colagioia.net/blog/2025/07/11/week.html)|Fri Jul 11 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
