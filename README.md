@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Public Media](https://john.colagioia.net/blog/2025/08/10/public-media.html)|Sun Aug 10 2025|
 |[Free Culture Book Club — Little Dig Game](https://john.colagioia.net/blog/2025/08/09/dig-game.html)|Sat Aug 09 2025|
 |[Toots 🦣 from 08/04 to 08/08](https://john.colagioia.net/blog/2025/08/08/week.html)|Fri Aug 08 2025|
 |[Real Life in Star Trek, Parallels](https://john.colagioia.net/blog/2025/08/07/parallels.html)|Thu Aug 07 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 07/28 to 08/01](https://john.colagioia.net/blog/2025/08/01/week.html)|Fri Aug 01 2025|
 |[Real Life in Star Trek, Inheritance](https://john.colagioia.net/blog/2025/07/31/inheritance.html)|Thu Jul 31 2025|
 |[Developer Diary, Acadian Expulsion](https://john.colagioia.net/blog/2025/07/28/acadians.html)|Mon Jul 28 2025|
-|[Payment Processing](https://john.colagioia.net/blog/2025/07/27/payment-processor.html)|Sun Jul 27 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
