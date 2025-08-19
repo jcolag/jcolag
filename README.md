@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Hartjesdag](https://john.colagioia.net/blog/2025/08/18/hearts.html)|Mon Aug 18 2025|
 |[Free Culture Book Club — Grey Sky, part 1](https://john.colagioia.net/blog/2025/08/16/grey-sky-1.html)|Sat Aug 16 2025|
 |[Toots 🦣 from 08/11 to 08/15](https://john.colagioia.net/blog/2025/08/15/week.html)|Fri Aug 15 2025|
 |[Real Life in Star Trek, The Pegasus](https://john.colagioia.net/blog/2025/08/14/pegasus.html)|Thu Aug 14 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 08/04 to 08/08](https://john.colagioia.net/blog/2025/08/08/week.html)|Fri Aug 08 2025|
 |[Real Life in Star Trek, Parallels](https://john.colagioia.net/blog/2025/08/07/parallels.html)|Thu Aug 07 2025|
 |[…And Don’t Call Me SSHirley](https://john.colagioia.net/blog/2025/08/06/ssh-keys.html)|Wed Aug 06 2025|
-|[Developer Diary, Kadooment](https://john.colagioia.net/blog/2025/08/04/kadooment.html)|Mon Aug 04 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
