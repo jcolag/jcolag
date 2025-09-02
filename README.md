@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, US Labor Day](https://john.colagioia.net/blog/2025/09/01/labor.html)|Mon Sep 01 2025|
 |[Free Culture Book Club — Violent Nemorous Passage](https://john.colagioia.net/blog/2025/08/30/nemorous.html)|Sat Aug 30 2025|
 |[Toots 🦣 from 08/25 to 08/29](https://john.colagioia.net/blog/2025/08/29/week.html)|Fri Aug 29 2025|
 |[Real Life in Star Trek, Sub Rosa](https://john.colagioia.net/blog/2025/08/28/sub-rosa.html)|Thu Aug 28 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 08/18 to 08/22](https://john.colagioia.net/blog/2025/08/22/week.html)|Fri Aug 22 2025|
 |[Real Life in Star Trek, Homeward](https://john.colagioia.net/blog/2025/08/21/homeward.html)|Thu Aug 21 2025|
 |[Developer Diary, Hartjesdag](https://john.colagioia.net/blog/2025/08/18/hearts.html)|Mon Aug 18 2025|
-|[Free Culture Book Club — Grey Sky, part 1](https://john.colagioia.net/blog/2025/08/16/grey-sky-1.html)|Sat Aug 16 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
