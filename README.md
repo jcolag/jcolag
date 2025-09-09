@@ -6,6 +6,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, International Literacy Day](https://john.colagioia.net/blog/2025/09/08/literacy.html)|Mon Sep 08 2025|
 |[Free Culture Book Club — Ardvark the Aardvark](https://john.colagioia.net/blog/2025/09/06/ardvark.html)|Sat Sep 06 2025|
 |[Toots 🦣 from 09/01 to 09/05](https://john.colagioia.net/blog/2025/09/05/week.html)|Fri Sep 05 2025|
 |[Real Life in Star Trek, Lower Decks](https://john.colagioia.net/blog/2025/09/04/lower-decks.html)|Thu Sep 04 2025|
@@ -15,7 +16,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Sub Rosa](https://john.colagioia.net/blog/2025/08/28/sub-rosa.html)|Thu Aug 28 2025|
 |[Developer Diary, Moon Hoax, Day One](https://john.colagioia.net/blog/2025/08/25/moon-hoax.html)|Mon Aug 25 2025|
 |[Trawling the Question Copyright Archives](https://john.colagioia.net/blog/2025/08/24/trawling-qco.html)|Sun Aug 24 2025|
-|[Free Culture Book Club — Grey Sky, part 2](https://john.colagioia.net/blog/2025/08/23/grey-sky-2.html)|Sat Aug 23 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
