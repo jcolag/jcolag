@@ -1,5 +1,7 @@
 # Hi, I'm John 👋 (he/him)
 
+**Note**:  As Microsoft finishes gobbling up the formerly independent GitHub, I have begun moving operations for my repositories to [my Codeberg account](https://codeberg.org/jcolag).
+
 If you want to know more (maybe *too* much) about me, you should check out [my website](https://john.colagioia.net/) for links onward, including [my blog, **Entropy Arbitrage**](https://john.colagioia.net/blog).  But the short version is that, in my spare time, I work on projects that amuse me, whether it's learning about some corner of technology, prototyping new ideas, or just writing out what might be useful later on down the line.
 
 Here's a sample of topics I've been talking about, this past week or so on the blog.
