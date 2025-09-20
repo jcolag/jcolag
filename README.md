@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 09/15 to 09/19](https://john.colagioia.net/blog/2025/09/19/week.html)|Fri Sep 19 2025|
 |[Real Life in Star Trek, Masks](https://john.colagioia.net/blog/2025/09/18/masks.html)|Thu Sep 18 2025|
 |[Developer Diary, International Day of Democracy](https://john.colagioia.net/blog/2025/09/15/democracy.html)|Mon Sep 15 2025|
 |[Revisiting the Silver Bat](https://john.colagioia.net/blog/2025/09/14/revisit-silver-bat.html)|Sun Sep 14 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, International Literacy Day](https://john.colagioia.net/blog/2025/09/08/literacy.html)|Mon Sep 08 2025|
 |[Free Culture Book Club — Ardvark the Aardvark](https://john.colagioia.net/blog/2025/09/06/ardvark.html)|Sat Sep 06 2025|
 |[Toots 🦣 from 09/01 to 09/05](https://john.colagioia.net/blog/2025/09/05/week.html)|Fri Sep 05 2025|
-|[Real Life in Star Trek, Lower Decks](https://john.colagioia.net/blog/2025/09/04/lower-decks.html)|Thu Sep 04 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
