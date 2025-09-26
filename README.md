@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Eye Of The Beholder](https://john.colagioia.net/blog/2025/09/25/eye-beholder.html)|Thu Sep 25 2025|
 |[Developer Diary, Autumnal Equinox](https://john.colagioia.net/blog/2025/09/22/equinox.html)|Mon Sep 22 2025|
 |[Defining Free Culture, the Elevator Pitch](https://john.colagioia.net/blog/2025/09/21/define-free-culture-1.html)|Sun Sep 21 2025|
 |[Free Culture Book Club — Cult of the Nu Girl](https://john.colagioia.net/blog/2025/09/20/cult-nu-girl.html)|Sat Sep 20 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Revisiting the Silver Bat](https://john.colagioia.net/blog/2025/09/14/revisit-silver-bat.html)|Sun Sep 14 2025|
 |[Free Culture Book Club — Obsolete](https://john.colagioia.net/blog/2025/09/13/obsolete.html)|Sat Sep 13 2025|
 |[Toots 🦣 from 09/08 to 09/12](https://john.colagioia.net/blog/2025/09/12/week.html)|Fri Sep 12 2025|
-|[Real Life in Star Trek, Thine Own Self](https://john.colagioia.net/blog/2025/09/11/thine-own-self.html)|Thu Sep 11 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
