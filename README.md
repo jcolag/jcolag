@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Genesis](https://john.colagioia.net/blog/2025/10/02/genesis.html)|Thu Oct 02 2025|
 |[Developer Diary, Miguel de Cervantes](https://john.colagioia.net/blog/2025/09/29/cervantes.html)|Mon Sep 29 2025|
 |[Silver Bat Preview](https://john.colagioia.net/blog/2025/09/28/silver-bat-preview.html)|Sun Sep 28 2025|
 |[Free Culture Book Club — Wikiversity SF Challenge 1](https://john.colagioia.net/blog/2025/09/27/wsfc-mnemtronium.html)|Sat Sep 27 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Defining Free Culture, the Elevator Pitch](https://john.colagioia.net/blog/2025/09/21/define-free-culture-1.html)|Sun Sep 21 2025|
 |[Free Culture Book Club — Cult of the Nu Girl](https://john.colagioia.net/blog/2025/09/20/cult-nu-girl.html)|Sat Sep 20 2025|
 |[Toots 🦣 from 09/15 to 09/19](https://john.colagioia.net/blog/2025/09/19/week.html)|Fri Sep 19 2025|
-|[Real Life in Star Trek, Masks](https://john.colagioia.net/blog/2025/09/18/masks.html)|Thu Sep 18 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
