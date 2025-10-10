@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Journey’s End](https://john.colagioia.net/blog/2025/10/09/journey-s-end.html)|Thu Oct 09 2025|
 |[Developer Diary, World Habitat Day](https://john.colagioia.net/blog/2025/10/06/habitat.html)|Mon Oct 06 2025|
 |[Defining Free Culture, Philosophy](https://john.colagioia.net/blog/2025/10/05/free-culture-philosophy.html)|Sun Oct 05 2025|
 |[Free Culture Book Club — Wikiversity SF Challenge 2](https://john.colagioia.net/blog/2025/10/04/wsfc-2.html)|Sat Oct 04 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Silver Bat Preview](https://john.colagioia.net/blog/2025/09/28/silver-bat-preview.html)|Sun Sep 28 2025|
 |[Free Culture Book Club — Wikiversity SF Challenge 1](https://john.colagioia.net/blog/2025/09/27/wsfc-mnemtronium.html)|Sat Sep 27 2025|
 |[Toots 🦣 from 09/22 to 09/26](https://john.colagioia.net/blog/2025/09/26/week.html)|Fri Sep 26 2025|
-|[Real Life in Star Trek, Eye Of The Beholder](https://john.colagioia.net/blog/2025/09/25/eye-beholder.html)|Thu Sep 25 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
