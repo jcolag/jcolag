@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[The (Other) Discovery of America](https://john.colagioia.net/blog/2025/10/12/beauchene.html)|Sun Oct 12 2025|
 |[Free Culture Book Club — Breakfast at the Bodega](https://john.colagioia.net/blog/2025/10/11/breakfast-bodega.html)|Sat Oct 11 2025|
 |[Toots 🦣 from 10/06 to 10/10](https://john.colagioia.net/blog/2025/10/10/week.html)|Fri Oct 10 2025|
 |[Real Life in Star Trek, Journey’s End](https://john.colagioia.net/blog/2025/10/09/journey-s-end.html)|Thu Oct 09 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 09/29 to 10/03](https://john.colagioia.net/blog/2025/10/03/week.html)|Fri Oct 03 2025|
 |[Real Life in Star Trek, Genesis](https://john.colagioia.net/blog/2025/10/02/genesis.html)|Thu Oct 02 2025|
 |[Developer Diary, Miguel de Cervantes](https://john.colagioia.net/blog/2025/09/29/cervantes.html)|Mon Sep 29 2025|
-|[Silver Bat Preview](https://john.colagioia.net/blog/2025/09/28/silver-bat-preview.html)|Sun Sep 28 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
