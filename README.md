@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Firstborn](https://john.colagioia.net/blog/2025/10/16/firstborn.html)|Thu Oct 16 2025|
 |[Developer Diary, Disaster Risk Reduction](https://john.colagioia.net/blog/2025/10/13/disaster-risk.html)|Mon Oct 13 2025|
 |[The (Other) Discovery of America](https://john.colagioia.net/blog/2025/10/12/beauchene.html)|Sun Oct 12 2025|
 |[Free Culture Book Club — Breakfast at the Bodega](https://john.colagioia.net/blog/2025/10/11/breakfast-bodega.html)|Sat Oct 11 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Defining Free Culture, Philosophy](https://john.colagioia.net/blog/2025/10/05/free-culture-philosophy.html)|Sun Oct 05 2025|
 |[Free Culture Book Club — Wikiversity SF Challenge 2](https://john.colagioia.net/blog/2025/10/04/wsfc-2.html)|Sat Oct 04 2025|
 |[Toots 🦣 from 09/29 to 10/03](https://john.colagioia.net/blog/2025/10/03/week.html)|Fri Oct 03 2025|
-|[Real Life in Star Trek, Genesis](https://john.colagioia.net/blog/2025/10/02/genesis.html)|Thu Oct 02 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
