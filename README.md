@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Bloodlines](https://john.colagioia.net/blog/2025/10/23/bloodlines.html)|Thu Oct 23 2025|
 |[Developer Diary, World Statistics Day](https://john.colagioia.net/blog/2025/10/20/statistics.html)|Mon Oct 20 2025|
 |[Big Tents, Narrow Minds](https://john.colagioia.net/blog/2025/10/19/big-tents.html)|Sun Oct 19 2025|
 |[Free Culture Book Club — AI Future Day, Part 1](https://john.colagioia.net/blog/2025/10/18/ai-future-day-1.html)|Sat Oct 18 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[The (Other) Discovery of America](https://john.colagioia.net/blog/2025/10/12/beauchene.html)|Sun Oct 12 2025|
 |[Free Culture Book Club — Breakfast at the Bodega](https://john.colagioia.net/blog/2025/10/11/breakfast-bodega.html)|Sat Oct 11 2025|
 |[Toots 🦣 from 10/06 to 10/10](https://john.colagioia.net/blog/2025/10/10/week.html)|Fri Oct 10 2025|
-|[Real Life in Star Trek, Journey’s End](https://john.colagioia.net/blog/2025/10/09/journey-s-end.html)|Thu Oct 09 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
