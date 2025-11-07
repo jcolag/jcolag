@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Preemptive Strike](https://john.colagioia.net/blog/2025/11/06/preemptive-strike.html)|Thu Nov 06 2025|
 |[Developer Diary, US Continental Army](https://john.colagioia.net/blog/2025/11/03/continental-army.html)|Mon Nov 03 2025|
 |[30M — Free Culture Studio](https://john.colagioia.net/blog/2025/11/02/30m-free-culture-studio.html)|Sun Nov 02 2025|
 |[Free Culture Book Club — Steamboat Sailor Brawl](https://john.colagioia.net/blog/2025/11/01/steamboat.html)|Sat Nov 01 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Defining Free Culture, History](https://john.colagioia.net/blog/2025/10/26/define-free-culture-history.html)|Sun Oct 26 2025|
 |[Free Culture Book Club — AI Future Day, Part 2](https://john.colagioia.net/blog/2025/10/25/ai-future-day-2.html)|Sat Oct 25 2025|
 |[Toots 🦣 from 10/20 to 10/24](https://john.colagioia.net/blog/2025/10/24/week.html)|Fri Oct 24 2025|
-|[Real Life in Star Trek, Bloodlines](https://john.colagioia.net/blog/2025/10/23/bloodlines.html)|Thu Oct 23 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
