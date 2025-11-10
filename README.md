@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Look Around, Not Ahead](https://john.colagioia.net/blog/2025/11/09/look-around.html)|Sun Nov 09 2025|
 |[Free Culture Book Club — Spacers Please](https://john.colagioia.net/blog/2025/11/08/spacers-please.html)|Sat Nov 08 2025|
 |[Toots 🦣 from 11/03 to 11/07](https://john.colagioia.net/blog/2025/11/07/week.html)|Fri Nov 07 2025|
 |[Real Life in Star Trek, Preemptive Strike](https://john.colagioia.net/blog/2025/11/06/preemptive-strike.html)|Thu Nov 06 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 10/27 to 10/31](https://john.colagioia.net/blog/2025/10/31/week.html)|Fri Oct 31 2025|
 |[Real Life in Star Trek, Emergence](https://john.colagioia.net/blog/2025/10/30/emergence.html)|Thu Oct 30 2025|
 |[Developer Diary, Audiovisual Heritage](https://john.colagioia.net/blog/2025/10/27/audiovisual.html)|Mon Oct 27 2025|
-|[Defining Free Culture, History](https://john.colagioia.net/blog/2025/10/26/define-free-culture-history.html)|Sun Oct 26 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
