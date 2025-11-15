@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 11/10 to 11/14](https://john.colagioia.net/blog/2025/11/14/week.html)|Fri Nov 14 2025|
 |[Real Life in Star Trek, All Good Things, part 1](https://john.colagioia.net/blog/2025/11/13/all-good-things-1.html)|Thu Nov 13 2025|
 |[Developer Diary, Festival of Reason](https://john.colagioia.net/blog/2025/11/10/reason.html)|Mon Nov 10 2025|
 |[Look Around, Not Ahead](https://john.colagioia.net/blog/2025/11/09/look-around.html)|Sun Nov 09 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, US Continental Army](https://john.colagioia.net/blog/2025/11/03/continental-army.html)|Mon Nov 03 2025|
 |[30M — Free Culture Studio](https://john.colagioia.net/blog/2025/11/02/30m-free-culture-studio.html)|Sun Nov 02 2025|
 |[Free Culture Book Club — Steamboat Sailor Brawl](https://john.colagioia.net/blog/2025/11/01/steamboat.html)|Sat Nov 01 2025|
-|[Toots 🦣 from 10/27 to 10/31](https://john.colagioia.net/blog/2025/10/31/week.html)|Fri Oct 31 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
