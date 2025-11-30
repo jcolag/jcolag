@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Aether Galaxy, part 2](https://john.colagioia.net/blog/2025/11/29/aether-galaxy-2.html)|Sat Nov 29 2025|
 |[Toots 🦣 from 11/24 to 11/28](https://john.colagioia.net/blog/2025/11/28/week.html)|Fri Nov 28 2025|
 |[Real Life in Star Trek, Season 7, TNG](https://john.colagioia.net/blog/2025/11/27/ng-season-7.html)|Thu Nov 27 2025|
 |[Developer Diary, Evolution Day](https://john.colagioia.net/blog/2025/11/24/evolution.html)|Mon Nov 24 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, All Good Things, part 2](https://john.colagioia.net/blog/2025/11/20/all-good-things-2.html)|Thu Nov 20 2025|
 |[Developer Diary, José Miguel Carrera](https://john.colagioia.net/blog/2025/11/17/carrera.html)|Mon Nov 17 2025|
 |[Free Culture, Structure and Mechanisms](https://john.colagioia.net/blog/2025/11/16/free-culture-mechanics.html)|Sun Nov 16 2025|
-|[Free Culture Book Club — Konqi](https://john.colagioia.net/blog/2025/11/15/konqi.html)|Sat Nov 15 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
