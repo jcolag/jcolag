@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Oran Fatwa](https://john.colagioia.net/blog/2025/12/08/oran-fatwa.html)|Mon Dec 08 2025|
 |[Free Culture Book Club — Aether Galaxy, part 3](https://john.colagioia.net/blog/2025/12/06/aether-galaxy-3.html)|Sat Dec 06 2025|
 |[Toots 🦣 from 12/01 to 12/05](https://john.colagioia.net/blog/2025/12/05/week.html)|Fri Dec 05 2025|
 |[Real Life in Star Trek, Generations, part 2](https://john.colagioia.net/blog/2025/12/04/star-trek-generations-1.html)|Thu Dec 04 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 11/24 to 11/28](https://john.colagioia.net/blog/2025/11/28/week.html)|Fri Nov 28 2025|
 |[Real Life in Star Trek, Season 7, TNG](https://john.colagioia.net/blog/2025/11/27/ng-season-7.html)|Thu Nov 27 2025|
 |[Developer Diary, Evolution Day](https://john.colagioia.net/blog/2025/11/24/evolution.html)|Mon Nov 24 2025|
-|[Free Culture Licensing Addendum](https://john.colagioia.net/blog/2025/11/23/free-culture-licensing-2.html)|Sun Nov 23 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
