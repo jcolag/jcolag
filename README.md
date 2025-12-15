@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Connections](https://john.colagioia.net/blog/2025/12/14/connections.html)|Sun Dec 14 2025|
 |[Free Culture Book Club — Skynet Simulator](https://john.colagioia.net/blog/2025/12/13/skynet-simulator.html)|Sat Dec 13 2025|
 |[Toots (Behind the Scenes)](https://john.colagioia.net/blog/2025/12/12/week.html)|Fri Dec 12 2025|
 |[Real Life in Star Trek, Generations, part 3](https://john.colagioia.net/blog/2025/12/11/star-trek-generations-2.html)|Thu Dec 11 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Generations, part 2](https://john.colagioia.net/blog/2025/12/04/star-trek-generations-1.html)|Thu Dec 04 2025|
 |[Developer Diary, Rosa Parks Day](https://john.colagioia.net/blog/2025/12/01/rosa-parks.html)|Mon Dec 01 2025|
 |[Locally Sourced Hate](https://john.colagioia.net/blog/2025/11/30/locally-sourced-hate.html)|Sun Nov 30 2025|
-|[Free Culture Book Club — Aether Galaxy, part 2](https://john.colagioia.net/blog/2025/11/29/aether-galaxy-2.html)|Sat Nov 29 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
