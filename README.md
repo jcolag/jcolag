@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[A Christmas Dream](https://john.colagioia.net/blog/2025/12/21/christmas-dream.html)|Sun Dec 21 2025|
 |[Free Culture Book Club — The Transmogrification of Mr. Claus](https://john.colagioia.net/blog/2025/12/20/transmogrification-claus.html)|Sat Dec 20 2025|
 |[Toots 🦣 from 12/15 to 12/19](https://john.colagioia.net/blog/2025/12/19/week.html)|Fri Dec 19 2025|
 |[Real Life in Star Trek, First Contact, part 1](https://john.colagioia.net/blog/2025/12/18/first-contact-1.html)|Thu Dec 18 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots (Behind the Scenes)](https://john.colagioia.net/blog/2025/12/12/week.html)|Fri Dec 12 2025|
 |[Real Life in Star Trek, Generations, part 3](https://john.colagioia.net/blog/2025/12/11/star-trek-generations-2.html)|Thu Dec 11 2025|
 |[Developer Diary, Oran Fatwa](https://john.colagioia.net/blog/2025/12/08/oran-fatwa.html)|Mon Dec 08 2025|
-|[Free Culture Book Club — Aether Galaxy, part 3](https://john.colagioia.net/blog/2025/12/06/aether-galaxy-3.html)|Sat Dec 06 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
