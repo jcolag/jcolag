@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[🔭 Looking Back on 2025](https://john.colagioia.net/blog/2025/12/28/review-2025.html)|Sun Dec 28 2025|
 |[Free Culture Book Club — Norte, part 1](https://john.colagioia.net/blog/2025/12/27/norte-1.html)|Sat Dec 27 2025|
 |[Toots 🦣 from 12/22 to 12/26](https://john.colagioia.net/blog/2025/12/26/week.html)|Fri Dec 26 2025|
 |[Real Life in Star Trek, First Contact, part 2](https://john.colagioia.net/blog/2025/12/25/first-contact-2.html)|Thu Dec 25 2025|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 12/15 to 12/19](https://john.colagioia.net/blog/2025/12/19/week.html)|Fri Dec 19 2025|
 |[Real Life in Star Trek, First Contact, part 1](https://john.colagioia.net/blog/2025/12/18/first-contact-1.html)|Thu Dec 18 2025|
 |[Developer Diary, Bill of Rights Day](https://john.colagioia.net/blog/2025/12/15/bill-rights.html)|Mon Dec 15 2025|
-|[Connections](https://john.colagioia.net/blog/2025/12/14/connections.html)|Sun Dec 14 2025|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
