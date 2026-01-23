@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Nemesis part 2](https://john.colagioia.net/blog/2026/01/22/nemesis-2.html)|Thu Jan 22 2026|
 |[Developer Diary, Kokborok Day](https://john.colagioia.net/blog/2026/01/19/kokborok.html)|Mon Jan 19 2026|
 |[Using (or Not) AI](https://john.colagioia.net/blog/2026/01/18/using-ai.html)|Sun Jan 18 2026|
 |[Free Culture Book Club — Wuffle (2012)](https://john.colagioia.net/blog/2026/01/17/wuffle-1.html)|Sat Jan 17 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Bravado and Fear](https://john.colagioia.net/blog/2026/01/11/bravado.html)|Sun Jan 11 2026|
 |[Free Culture Book Club — Sol Levante](https://john.colagioia.net/blog/2026/01/10/sol-levante.html)|Sat Jan 10 2026|
 |[Toots 🦣 from 01/05 to 01/09](https://john.colagioia.net/blog/2026/01/09/week.html)|Fri Jan 09 2026|
-|[Real Life in Star Trek, Insurrection, part 2](https://john.colagioia.net/blog/2026/01/08/insurrection-2.html)|Thu Jan 08 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
