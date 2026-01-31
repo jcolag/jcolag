@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 01/26 to 01/30](https://john.colagioia.net/blog/2026/01/30/week.html)|Fri Jan 30 2026|
 |[Real Life in Star Trek, These Are The Voyages…](https://john.colagioia.net/blog/2026/01/29/these-are-voyages.html)|Thu Jan 29 2026|
 |[Developer Diary, Juan Pablo Duarte](https://john.colagioia.net/blog/2026/01/26/duarte.html)|Mon Jan 26 2026|
 |[Free Culture Book Club — Wuffle (2013)](https://john.colagioia.net/blog/2026/01/24/wuffle-2.html)|Sat Jan 24 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Using (or Not) AI](https://john.colagioia.net/blog/2026/01/18/using-ai.html)|Sun Jan 18 2026|
 |[Free Culture Book Club — Wuffle (2012)](https://john.colagioia.net/blog/2026/01/17/wuffle-1.html)|Sat Jan 17 2026|
 |[Toots 🦣 from 01/12 to 01/16](https://john.colagioia.net/blog/2026/01/16/week.html)|Fri Jan 16 2026|
-|[Real Life in Star Trek, Nemesis part 1](https://john.colagioia.net/blog/2026/01/15/nemesis-1.html)|Thu Jan 15 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
