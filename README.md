@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Breaking the ICE](https://john.colagioia.net/blog/2026/02/01/breaking-ice.html)|Sun Feb 01 2026|
 |[Free Culture Book Club — Wuffle (2015)](https://john.colagioia.net/blog/2026/01/31/wuffle-3.html)|Sat Jan 31 2026|
 |[Toots 🦣 from 01/26 to 01/30](https://john.colagioia.net/blog/2026/01/30/week.html)|Fri Jan 30 2026|
 |[Real Life in Star Trek, These Are The Voyages…](https://john.colagioia.net/blog/2026/01/29/these-are-voyages.html)|Thu Jan 29 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Nemesis part 2](https://john.colagioia.net/blog/2026/01/22/nemesis-2.html)|Thu Jan 22 2026|
 |[Developer Diary, Kokborok Day](https://john.colagioia.net/blog/2026/01/19/kokborok.html)|Mon Jan 19 2026|
 |[Using (or Not) AI](https://john.colagioia.net/blog/2026/01/18/using-ai.html)|Sun Jan 18 2026|
-|[Free Culture Book Club — Wuffle (2012)](https://john.colagioia.net/blog/2026/01/17/wuffle-1.html)|Sat Jan 17 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
