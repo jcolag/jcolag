@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Mintonette](https://john.colagioia.net/blog/2026/02/09/mintonette.html)|Mon Feb 09 2026|
 |[The Negro in Our History (1922)](https://john.colagioia.net/blog/2026/02/08/negro-our-history.html)|Sun Feb 08 2026|
 |[Free Culture Book Club — Vampire Corpse Feast](https://john.colagioia.net/blog/2026/02/07/vampire-corpse-feast.html)|Sat Feb 07 2026|
 |[Toots 🦣 from 02/02 to 02/06](https://john.colagioia.net/blog/2026/02/06/week.html)|Fri Feb 06 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Wuffle (2015)](https://john.colagioia.net/blog/2026/01/31/wuffle-3.html)|Sat Jan 31 2026|
 |[Toots 🦣 from 01/26 to 01/30](https://john.colagioia.net/blog/2026/01/30/week.html)|Fri Jan 30 2026|
 |[Real Life in Star Trek, These Are The Voyages…](https://john.colagioia.net/blog/2026/01/29/these-are-voyages.html)|Thu Jan 29 2026|
-|[Developer Diary, Juan Pablo Duarte](https://john.colagioia.net/blog/2026/01/26/duarte.html)|Mon Jan 26 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
