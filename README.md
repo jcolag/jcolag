@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 02/16 to 02/20](https://john.colagioia.net/blog/2026/02/20/week.html)|Fri Feb 20 2026|
 |[Real Life in Star Trek, Next Generation Final Summary](https://john.colagioia.net/blog/2026/02/19/ng-summary.html)|Thu Feb 19 2026|
 |[Developer Diary, Lunar New Year’s Eve](https://john.colagioia.net/blog/2026/02/16/tet-eve.html)|Mon Feb 16 2026|
 |[Carnival Jangle](https://john.colagioia.net/blog/2026/02/15/carnival-jangle.html)|Sun Feb 15 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Mintonette](https://john.colagioia.net/blog/2026/02/09/mintonette.html)|Mon Feb 09 2026|
 |[The Negro in Our History (1922)](https://john.colagioia.net/blog/2026/02/08/negro-our-history.html)|Sun Feb 08 2026|
 |[Free Culture Book Club — Vampire Corpse Feast](https://john.colagioia.net/blog/2026/02/07/vampire-corpse-feast.html)|Sat Feb 07 2026|
-|[Toots 🦣 from 02/02 to 02/06](https://john.colagioia.net/blog/2026/02/06/week.html)|Fri Feb 06 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
