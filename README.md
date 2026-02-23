@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Disconnected Thoughts](https://john.colagioia.net/blog/2026/02/22/thoughts.html)|Sun Feb 22 2026|
 |[Free Culture Book Club — Wikimedia Italia Plays (Banana)](https://john.colagioia.net/blog/2026/02/21/wikimedia-italia-2.html)|Sat Feb 21 2026|
 |[Toots 🦣 from 02/16 to 02/20](https://john.colagioia.net/blog/2026/02/20/week.html)|Fri Feb 20 2026|
 |[Real Life in Star Trek, Next Generation Final Summary](https://john.colagioia.net/blog/2026/02/19/ng-summary.html)|Thu Feb 19 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 02/09 to 02/13](https://john.colagioia.net/blog/2026/02/13/week.html)|Fri Feb 13 2026|
 |[Real Life in Star Trek, Films etc., TNG](https://john.colagioia.net/blog/2026/02/12/ng-films.html)|Thu Feb 12 2026|
 |[Developer Diary, Mintonette](https://john.colagioia.net/blog/2026/02/09/mintonette.html)|Mon Feb 09 2026|
-|[The Negro in Our History (1922)](https://john.colagioia.net/blog/2026/02/08/negro-our-history.html)|Sun Feb 08 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
