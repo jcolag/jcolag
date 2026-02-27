@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Emissary part 1](https://john.colagioia.net/blog/2026/02/26/emissary-1.html)|Thu Feb 26 2026|
 |[Developer Diary, Meteņi](https://john.colagioia.net/blog/2026/02/23/meteni.html)|Mon Feb 23 2026|
 |[Disconnected Thoughts](https://john.colagioia.net/blog/2026/02/22/thoughts.html)|Sun Feb 22 2026|
 |[Free Culture Book Club — Wikimedia Italia Plays (Banana)](https://john.colagioia.net/blog/2026/02/21/wikimedia-italia-2.html)|Sat Feb 21 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Carnival Jangle](https://john.colagioia.net/blog/2026/02/15/carnival-jangle.html)|Sun Feb 15 2026|
 |[Free Culture Book Club — Wikimedia Italia Plays (1)](https://john.colagioia.net/blog/2026/02/14/wikimedia-italia-1.html)|Sat Feb 14 2026|
 |[Toots 🦣 from 02/09 to 02/13](https://john.colagioia.net/blog/2026/02/13/week.html)|Fri Feb 13 2026|
-|[Real Life in Star Trek, Films etc., TNG](https://john.colagioia.net/blog/2026/02/12/ng-films.html)|Thu Feb 12 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
