@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Emissary part 2](https://john.colagioia.net/blog/2026/03/05/emissary-2.html)|Thu Mar 05 2026|
 |[Developer Diary, American Citizenship Day](https://john.colagioia.net/blog/2026/03/02/citizenship.html)|Mon Mar 02 2026|
 |[Nothing to Hide](https://john.colagioia.net/blog/2026/03/01/nothing-hide.html)|Sun Mar 01 2026|
 |[Free Culture Book Club — Mundo Virtual](https://john.colagioia.net/blog/2026/02/28/mundo-virtual.html)|Sat Feb 28 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Disconnected Thoughts](https://john.colagioia.net/blog/2026/02/22/thoughts.html)|Sun Feb 22 2026|
 |[Free Culture Book Club — Wikimedia Italia Plays (Banana)](https://john.colagioia.net/blog/2026/02/21/wikimedia-italia-2.html)|Sat Feb 21 2026|
 |[Toots 🦣 from 02/16 to 02/20](https://john.colagioia.net/blog/2026/02/20/week.html)|Fri Feb 20 2026|
-|[Real Life in Star Trek, Next Generation Final Summary](https://john.colagioia.net/blog/2026/02/19/ng-summary.html)|Thu Feb 19 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
