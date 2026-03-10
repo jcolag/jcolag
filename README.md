@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, US v Amistad](https://john.colagioia.net/blog/2026/03/09/amistad.html)|Mon Mar 09 2026|
 |[Privileges Behaving Badly](https://john.colagioia.net/blog/2026/03/08/iwd.html)|Sun Mar 08 2026|
 |[Free Culture Book Club — Memory Heap, part 1](https://john.colagioia.net/blog/2026/03/07/memory-heap-1.html)|Sat Mar 07 2026|
 |[Toots 🦣 from 03/02 to 03/06](https://john.colagioia.net/blog/2026/03/06/week.html)|Fri Mar 06 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Mundo Virtual](https://john.colagioia.net/blog/2026/02/28/mundo-virtual.html)|Sat Feb 28 2026|
 |[Toots 🦣 from 02/23 to 02/27](https://john.colagioia.net/blog/2026/02/27/week.html)|Fri Feb 27 2026|
 |[Real Life in Star Trek, Emissary part 1](https://john.colagioia.net/blog/2026/02/26/emissary-1.html)|Thu Feb 26 2026|
-|[Developer Diary, Meteņi](https://john.colagioia.net/blog/2026/02/23/meteni.html)|Mon Feb 23 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
