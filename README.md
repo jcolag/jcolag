@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — À l’orée de la ville, pt 2](https://john.colagioia.net/blog/2026/04/04/oree-ville-2.html)|Sat Apr 04 2026|
 |[Toots 🦣 from 03/30 to 04/03](https://john.colagioia.net/blog/2026/04/03/week.html)|Fri Apr 03 2026|
 |[Real Life in Star Trek, Captive Pursuit](https://john.colagioia.net/blog/2026/04/02/captive-pursuit.html)|Thu Apr 02 2026|
 |[Developer Diary, National Doctors’ Day](https://john.colagioia.net/blog/2026/03/30/doctors.html)|Mon Mar 30 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Reply to …Taken Seriously…](https://john.colagioia.net/blog/2026/03/27/taken-seriously.html)|Fri Mar 27 2026|
 |[Real Life in Star Trek, Babel](https://john.colagioia.net/blog/2026/03/26/babel.html)|Thu Mar 26 2026|
 |[Developer Diary, World Meteorological Day](https://john.colagioia.net/blog/2026/03/23/meteorological.html)|Mon Mar 23 2026|
-|[Free Culture, Responsibilities](https://john.colagioia.net/blog/2026/03/22/free-culture-responsibilities-1.html)|Sun Mar 22 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
