@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Dax](https://john.colagioia.net/blog/2026/04/16/dax.html)|Thu Apr 16 2026|
 |[Developer Diary, Thingyan](https://john.colagioia.net/blog/2026/04/13/thingyan.html)|Mon Apr 13 2026|
 |[Fair Share](https://john.colagioia.net/blog/2026/04/12/fair-share.html)|Sun Apr 12 2026|
 |[Free Culture Book Club — À l’orée de la ville, pt 3](https://john.colagioia.net/blog/2026/04/11/oree-ville-3.html)|Sat Apr 11 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Reclaiming Education](https://john.colagioia.net/blog/2026/04/05/reclaiming-education.html)|Sun Apr 05 2026|
 |[Free Culture Book Club — À l’orée de la ville, pt 2](https://john.colagioia.net/blog/2026/04/04/oree-ville-2.html)|Sat Apr 04 2026|
 |[Toots 🦣 from 03/30 to 04/03](https://john.colagioia.net/blog/2026/04/03/week.html)|Fri Apr 03 2026|
-|[Real Life in Star Trek, Captive Pursuit](https://john.colagioia.net/blog/2026/04/02/captive-pursuit.html)|Thu Apr 02 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
