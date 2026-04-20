@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[La Rana in Mission Unlikely](https://john.colagioia.net/blog/2026/04/19/mission-unlikely.html)|Sun Apr 19 2026|
 |[Free Culture Book Club — Avalon High, part 1](https://john.colagioia.net/blog/2026/04/18/avalon-high-1.html)|Sat Apr 18 2026|
 |[Toots 🦣 from 04/13 to 04/17](https://john.colagioia.net/blog/2026/04/17/week.html)|Fri Apr 17 2026|
 |[Real Life in Star Trek, Dax](https://john.colagioia.net/blog/2026/04/16/dax.html)|Thu Apr 16 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 04/06 to 04/10](https://john.colagioia.net/blog/2026/04/10/week.html)|Fri Apr 10 2026|
 |[Real Life in Star Trek, Q-less](https://john.colagioia.net/blog/2026/04/09/q-less.html)|Thu Apr 09 2026|
 |[Developer Diary, Tomb-Sweeping Day](https://john.colagioia.net/blog/2026/04/06/tomb.html)|Mon Apr 06 2026|
-|[Reclaiming Education](https://john.colagioia.net/blog/2026/04/05/reclaiming-education.html)|Sun Apr 05 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
