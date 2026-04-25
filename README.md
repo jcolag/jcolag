@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 04/20 to 04/24](https://john.colagioia.net/blog/2026/04/24/week.html)|Fri Apr 24 2026|
 |[Real Life in Star Trek, The Passenger](https://john.colagioia.net/blog/2026/04/23/passenger.html)|Thu Apr 23 2026|
 |[Developer Diary, Chinese Language Day](https://john.colagioia.net/blog/2026/04/20/chinese.html)|Mon Apr 20 2026|
 |[La Rana in Mission Unlikely](https://john.colagioia.net/blog/2026/04/19/mission-unlikely.html)|Sun Apr 19 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Thingyan](https://john.colagioia.net/blog/2026/04/13/thingyan.html)|Mon Apr 13 2026|
 |[Fair Share](https://john.colagioia.net/blog/2026/04/12/fair-share.html)|Sun Apr 12 2026|
 |[Free Culture Book Club — À l’orée de la ville, pt 3](https://john.colagioia.net/blog/2026/04/11/oree-ville-3.html)|Sat Apr 11 2026|
-|[Toots 🦣 from 04/06 to 04/10](https://john.colagioia.net/blog/2026/04/10/week.html)|Fri Apr 10 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
