@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Anti-Bullying Day](https://john.colagioia.net/blog/2026/05/04/anti-bullying.html)|Mon May 04 2026|
 |[Good AI? Part 2, Technology](https://john.colagioia.net/blog/2026/05/03/good-ai-2.html)|Sun May 03 2026|
 |[Free Culture Book Club — Avalon High, part 3](https://john.colagioia.net/blog/2026/05/02/avalon-high-3.html)|Sat May 02 2026|
 |[Toots 🦣 from 04/27 to 05/01](https://john.colagioia.net/blog/2026/05/01/week.html)|Fri May 01 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Avalon High, part 2](https://john.colagioia.net/blog/2026/04/25/avalon-high-2.html)|Sat Apr 25 2026|
 |[Toots 🦣 from 04/20 to 04/24](https://john.colagioia.net/blog/2026/04/24/week.html)|Fri Apr 24 2026|
 |[Real Life in Star Trek, The Passenger](https://john.colagioia.net/blog/2026/04/23/passenger.html)|Thu Apr 23 2026|
-|[Developer Diary, Chinese Language Day](https://john.colagioia.net/blog/2026/04/20/chinese.html)|Mon Apr 20 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
