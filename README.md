@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Battle Lines](https://john.colagioia.net/blog/2026/05/21/battle-lines.html)|Thu May 21 2026|
 |[Developer Diary, World AIDS Vaccine Day](https://john.colagioia.net/blog/2026/05/18/aids-vaccine.html)|Mon May 18 2026|
 |[Good AI? Part 4, More Culture](https://john.colagioia.net/blog/2026/05/17/good-ai-4.html)|Sun May 17 2026|
 |[Free Culture Book Club — Carriotepunk, part 1](https://john.colagioia.net/blog/2026/05/16/carriotepunk-1.html)|Sat May 16 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Good AI? Part 3, Culture (part 1)](https://john.colagioia.net/blog/2026/05/10/good-ai-3.html)|Sun May 10 2026|
 |[Free Culture Book Club — Messages from the Universe](https://john.colagioia.net/blog/2026/05/09/messages-universe.html)|Sat May 09 2026|
 |[Toots 🦣 from 05/04 to 05/08](https://john.colagioia.net/blog/2026/05/08/week.html)|Fri May 08 2026|
-|[Real Life in Star Trek, The Nagus](https://john.colagioia.net/blog/2026/05/07/nagus.html)|Thu May 07 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
