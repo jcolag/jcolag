@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Storyteller](https://john.colagioia.net/blog/2026/05/28/storyteller.html)|Thu May 28 2026|
 |[Developer Diary, Missing Children’s Day](https://john.colagioia.net/blog/2026/05/25/missing.html)|Mon May 25 2026|
 |[The Inferior Woman](https://john.colagioia.net/blog/2026/05/24/inferior-woman.html)|Sun May 24 2026|
 |[Free Culture Book Club — Carriotepunk, part 2](https://john.colagioia.net/blog/2026/05/23/carriotepunk-2.html)|Sat May 23 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Good AI? Part 4, More Culture](https://john.colagioia.net/blog/2026/05/17/good-ai-4.html)|Sun May 17 2026|
 |[Free Culture Book Club — Carriotepunk, part 1](https://john.colagioia.net/blog/2026/05/16/carriotepunk-1.html)|Sat May 16 2026|
 |[Toots 🦣 from 05/11 to 05/15](https://john.colagioia.net/blog/2026/05/15/week.html)|Fri May 15 2026|
-|[Real Life in Star Trek, Vortex](https://john.colagioia.net/blog/2026/05/14/vortex.html)|Thu May 14 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
