@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Assyrian Eclipse](https://john.colagioia.net/blog/2026/06/15/assyrian-eclipse.html)|Mon Jun 15 2026|
 |[Taking Pride](https://john.colagioia.net/blog/2026/06/14/take-pride.html)|Sun Jun 14 2026|
 |[Free Culture Book Club — Neon Northern Lights, pt 1](https://john.colagioia.net/blog/2026/06/13/neon-northern-1.html)|Sat Jun 13 2026|
 |[Toots 🦣 from 06/08 to 06/12](https://john.colagioia.net/blog/2026/06/12/week.html)|Fri Jun 12 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 06/01 to 06/05](https://john.colagioia.net/blog/2026/06/05/week.html)|Fri Jun 05 2026|
 |[Real Life in Star Trek, Progress](https://john.colagioia.net/blog/2026/06/04/progress.html)|Thu Jun 04 2026|
 |[Text Filters for Jekyll](https://john.colagioia.net/blog/2026/06/03/jekyll-text-filters.html)|Wed Jun 03 2026|
-|[Developer Diary, Children’s Day](https://john.colagioia.net/blog/2026/06/01/children.html)|Mon Jun 01 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
