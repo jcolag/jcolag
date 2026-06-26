@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Dramatis Personae](https://john.colagioia.net/blog/2026/06/25/dramatis-personae.html)|Thu Jun 25 2026|
 |[Developer Diary, Battle of Cap-Français](https://john.colagioia.net/blog/2026/06/22/cap-francais.html)|Mon Jun 22 2026|
 |[Slow AI](https://john.colagioia.net/blog/2026/06/21/slow-ai.html)|Sun Jun 21 2026|
 |[Free Culture Book Club — Neon Northern Lights, pt 2](https://john.colagioia.net/blog/2026/06/20/neon-northern-2.html)|Sat Jun 20 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Taking Pride](https://john.colagioia.net/blog/2026/06/14/take-pride.html)|Sun Jun 14 2026|
 |[Free Culture Book Club — Neon Northern Lights, pt 1](https://john.colagioia.net/blog/2026/06/13/neon-northern-1.html)|Sat Jun 13 2026|
 |[Toots 🦣 from 06/08 to 06/12](https://john.colagioia.net/blog/2026/06/12/week.html)|Fri Jun 12 2026|
-|[Real Life in Star Trek, If Wishes Were Horses](https://john.colagioia.net/blog/2026/06/11/if-wishes-were-horses.html)|Thu Jun 11 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
