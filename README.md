@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Duet](https://john.colagioia.net/blog/2026/07/02/duet.html)|Thu Jul 02 2026|
 |[Developer Diary, Globe Fire](https://john.colagioia.net/blog/2026/06/29/globe-fire.html)|Mon Jun 29 2026|
 |[Years of the Modern](https://john.colagioia.net/blog/2026/06/28/years-modern.html)|Sun Jun 28 2026|
 |[Free Culture Book Club — Neon Northern Lights, pt 3](https://john.colagioia.net/blog/2026/06/27/neon-northern-3.html)|Sat Jun 27 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Slow AI](https://john.colagioia.net/blog/2026/06/21/slow-ai.html)|Sun Jun 21 2026|
 |[Free Culture Book Club — Neon Northern Lights, pt 2](https://john.colagioia.net/blog/2026/06/20/neon-northern-2.html)|Sat Jun 20 2026|
 |[Toots 🦣 from 06/15 to 06/19](https://john.colagioia.net/blog/2026/06/19/week.html)|Fri Jun 19 2026|
-|[Real Life in Star Trek, The Forsaken](https://john.colagioia.net/blog/2026/06/18/forsaken.html)|Thu Jun 18 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
