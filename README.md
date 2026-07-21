@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Seneca Falls, Day 2](https://john.colagioia.net/blog/2026/07/20/seneca-falls-2.html)|Mon Jul 20 2026|
 |[Think Big, Shop Small, part 1](https://john.colagioia.net/blog/2026/07/19/shop-small-1.html)|Sun Jul 19 2026|
 |[Free Culture Book Club — Galactic Mutant Animals, part 3](https://john.colagioia.net/blog/2026/07/18/gma-3.html)|Sat Jul 18 2026|
 |[Toots 🦣 from 07/13 to 07/17](https://john.colagioia.net/blog/2026/07/17/week.html)|Fri Jul 17 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Galactic Mutant Animals, part 2](https://john.colagioia.net/blog/2026/07/11/gma-2.html)|Sat Jul 11 2026|
 |[Toots 🦣 from 07/06 to 07/10](https://john.colagioia.net/blog/2026/07/10/week.html)|Fri Jul 10 2026|
 |[Real Life in Star Trek, In the Hands of the Prophets](https://john.colagioia.net/blog/2026/07/09/in-hands-prophets.html)|Thu Jul 09 2026|
-|[Developer Diary, Abolition Commemoration Day](https://john.colagioia.net/blog/2026/07/06/abolition.html)|Mon Jul 06 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
