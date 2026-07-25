@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 07/20 to 07/24](https://john.colagioia.net/blog/2026/07/24/week.html)|Fri Jul 24 2026|
 |[Real Life in Star Trek, The Homecoming](https://john.colagioia.net/blog/2026/07/23/homecoming.html)|Thu Jul 23 2026|
 |[Wikidata Queries](https://john.colagioia.net/blog/2026/07/22/wikidata.html)|Wed Jul 22 2026|
 |[Developer Diary, Seneca Falls, Day 2](https://john.colagioia.net/blog/2026/07/20/seneca-falls-2.html)|Mon Jul 20 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Season 1, DS9](https://john.colagioia.net/blog/2026/07/16/ds9-season-1.html)|Thu Jul 16 2026|
 |[Developer Diary, Naadam](https://john.colagioia.net/blog/2026/07/13/naadam.html)|Mon Jul 13 2026|
 |[Free Culture, Creator Obstacles](https://john.colagioia.net/blog/2026/07/12/free-culture-creators-1.html)|Sun Jul 12 2026|
-|[Free Culture Book Club — Galactic Mutant Animals, part 2](https://john.colagioia.net/blog/2026/07/11/gma-2.html)|Sat Jul 11 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
