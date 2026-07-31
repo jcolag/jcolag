@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, The Circle](https://john.colagioia.net/blog/2026/07/30/circle.html)|Thu Jul 30 2026|
 |[Logos for Dystopias](https://john.colagioia.net/blog/2026/07/29/logos-dystopia.html)|Wed Jul 29 2026|
 |[Developer Diary, Madame Guillotine Strikes](https://john.colagioia.net/blog/2026/07/27/robespierre.html)|Mon Jul 27 2026|
 |[Free Culture Book Club, In (Some) Depth](https://john.colagioia.net/blog/2026/07/26/book-club.html)|Sun Jul 26 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Wikidata Queries](https://john.colagioia.net/blog/2026/07/22/wikidata.html)|Wed Jul 22 2026|
 |[Developer Diary, Seneca Falls, Day 2](https://john.colagioia.net/blog/2026/07/20/seneca-falls-2.html)|Mon Jul 20 2026|
 |[Think Big, Shop Small, part 1](https://john.colagioia.net/blog/2026/07/19/shop-small-1.html)|Sun Jul 19 2026|
-|[Free Culture Book Club — Galactic Mutant Animals, part 3](https://john.colagioia.net/blog/2026/07/18/gma-3.html)|Sat Jul 18 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
