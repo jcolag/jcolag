@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Europa riconosciuta](https://john.colagioia.net/blog/2026/08/03/europa.html)|Mon Aug 03 2026|
 |[Reclaim the Center](https://john.colagioia.net/blog/2026/08/02/reclaim-center.html)|Sun Aug 02 2026|
 |[Free Culture Book Club — Titan Tactics](https://john.colagioia.net/blog/2026/08/01/titan-tactics.html)|Sat Aug 01 2026|
 |[Toots 🦣 from 07/27 to 07/31](https://john.colagioia.net/blog/2026/07/31/week.html)|Fri Jul 31 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club, In (Some) Depth](https://john.colagioia.net/blog/2026/07/26/book-club.html)|Sun Jul 26 2026|
 |[Free Culture Book Club — Galactic Mutant Animals, part 4](https://john.colagioia.net/blog/2026/07/25/gma-4.html)|Sat Jul 25 2026|
 |[Toots 🦣 from 07/20 to 07/24](https://john.colagioia.net/blog/2026/07/24/week.html)|Fri Jul 24 2026|
-|[Real Life in Star Trek, The Homecoming](https://john.colagioia.net/blog/2026/07/23/homecoming.html)|Thu Jul 23 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
