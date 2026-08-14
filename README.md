@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Invasive Procedures](https://john.colagioia.net/blog/2026/08/13/invasive-procedures.html)|Thu Aug 13 2026|
 |[Developer Diary, Pueblo Revolt](https://john.colagioia.net/blog/2026/08/10/pueblo.html)|Mon Aug 10 2026|
 |[Think Big, Shop Small, part 2](https://john.colagioia.net/blog/2026/08/09/shop-small-2.html)|Sun Aug 09 2026|
 |[Free Culture Book Club — Under the Net](https://john.colagioia.net/blog/2026/08/08/under-net.html)|Sat Aug 08 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Reclaim the Center](https://john.colagioia.net/blog/2026/08/02/reclaim-center.html)|Sun Aug 02 2026|
 |[Free Culture Book Club — Titan Tactics](https://john.colagioia.net/blog/2026/08/01/titan-tactics.html)|Sat Aug 01 2026|
 |[Toots 🦣 from 07/27 to 07/31](https://john.colagioia.net/blog/2026/07/31/week.html)|Fri Jul 31 2026|
-|[Real Life in Star Trek, The Circle](https://john.colagioia.net/blog/2026/07/30/circle.html)|Thu Jul 30 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
