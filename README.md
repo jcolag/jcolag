@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Cardassians](https://john.colagioia.net/blog/2026/08/20/cardassians.html)|Thu Aug 20 2026|
 |[Developer Diary, North River](https://john.colagioia.net/blog/2026/08/17/north-river.html)|Mon Aug 17 2026|
 |[Mitten Quest](https://john.colagioia.net/blog/2026/08/16/three.html)|Sun Aug 16 2026|
 |[Free Culture Book Club — Seven Sisters, Part 0](https://john.colagioia.net/blog/2026/08/15/seven-sisters-1.html)|Sat Aug 15 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Think Big, Shop Small, part 2](https://john.colagioia.net/blog/2026/08/09/shop-small-2.html)|Sun Aug 09 2026|
 |[Free Culture Book Club — Under the Net](https://john.colagioia.net/blog/2026/08/08/under-net.html)|Sat Aug 08 2026|
 |[Toots 🦣 from 08/03 to 08/07](https://john.colagioia.net/blog/2026/08/07/week.html)|Fri Aug 07 2026|
-|[Real Life in Star Trek, The Siege](https://john.colagioia.net/blog/2026/08/06/siege.html)|Thu Aug 06 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
