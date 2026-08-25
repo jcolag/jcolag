@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Developer Diary, Esmet-Akhom Graffito](https://john.colagioia.net/blog/2026/08/24/esmet-akhom.html)|Mon Aug 24 2026|
 |[Maxwell Smart’s Demon](https://john.colagioia.net/blog/2026/08/23/maxwell-demon.html)|Sun Aug 23 2026|
 |[Free Culture Book Club — Seven Sisters, part 1](https://john.colagioia.net/blog/2026/08/22/seven-sisters-2.html)|Sat Aug 22 2026|
 |[Toots 🦣 from 08/17 to 08/21](https://john.colagioia.net/blog/2026/08/21/week.html)|Fri Aug 21 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Free Culture Book Club — Seven Sisters, Part 0](https://john.colagioia.net/blog/2026/08/15/seven-sisters-1.html)|Sat Aug 15 2026|
 |[Toots 🦣 from 08/10 to 08/14](https://john.colagioia.net/blog/2026/08/14/week.html)|Fri Aug 14 2026|
 |[Real Life in Star Trek, Invasive Procedures](https://john.colagioia.net/blog/2026/08/13/invasive-procedures.html)|Thu Aug 13 2026|
-|[Developer Diary, Pueblo Revolt](https://john.colagioia.net/blog/2026/08/10/pueblo.html)|Mon Aug 10 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
