@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Toots 🦣 from 08/31 to 09/04](https://john.colagioia.net/blog/2026/09/04/week.html)|Fri Sep 04 2026|
 |[Real Life in Star Trek, Rules of Acquisition](https://john.colagioia.net/blog/2026/09/03/rules-acquisition.html)|Thu Sep 03 2026|
 |[Developer Diary, Romanian Language Day](https://john.colagioia.net/blog/2026/08/31/romanian.html)|Mon Aug 31 2026|
 |[Reading the Open MDW License](https://john.colagioia.net/blog/2026/08/30/open-mdw.html)|Sun Aug 30 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Developer Diary, Esmet-Akhom Graffito](https://john.colagioia.net/blog/2026/08/24/esmet-akhom.html)|Mon Aug 24 2026|
 |[Maxwell Smart’s Demon](https://john.colagioia.net/blog/2026/08/23/maxwell-demon.html)|Sun Aug 23 2026|
 |[Free Culture Book Club — Seven Sisters, part 1](https://john.colagioia.net/blog/2026/08/22/seven-sisters-2.html)|Sat Aug 22 2026|
-|[Toots 🦣 from 08/17 to 08/21](https://john.colagioia.net/blog/2026/08/21/week.html)|Fri Aug 21 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
