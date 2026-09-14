@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[What Next?](https://john.colagioia.net/blog/2026/09/13/what-next.html)|Sun Sep 13 2026|
 |[Free Culture Book Club — Fantastique Unfettered 2](https://john.colagioia.net/blog/2026/09/12/unfettered-2.html)|Sat Sep 12 2026|
 |[Toots 🦣 from 09/07 to 09/11](https://john.colagioia.net/blog/2026/09/11/week.html)|Fri Sep 11 2026|
 |[Real Life in Star Trek, Necessary Evil](https://john.colagioia.net/blog/2026/09/10/necessary-evil.html)|Thu Sep 10 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 08/31 to 09/04](https://john.colagioia.net/blog/2026/09/04/week.html)|Fri Sep 04 2026|
 |[Real Life in Star Trek, Rules of Acquisition](https://john.colagioia.net/blog/2026/09/03/rules-acquisition.html)|Thu Sep 03 2026|
 |[Developer Diary, Romanian Language Day](https://john.colagioia.net/blog/2026/08/31/romanian.html)|Mon Aug 31 2026|
-|[Reading the Open MDW License](https://john.colagioia.net/blog/2026/08/30/open-mdw.html)|Sun Aug 30 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
