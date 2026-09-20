@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — Fantastique Unfettered 3](https://john.colagioia.net/blog/2026/09/19/unfettered-3.html)|Sat Sep 19 2026|
 |[Toots 🦣 from 09/14 to 09/18](https://john.colagioia.net/blog/2026/09/18/week.html)|Fri Sep 18 2026|
 |[Real Life in Star Trek, Second Sight](https://john.colagioia.net/blog/2026/09/17/second-sight.html)|Thu Sep 17 2026|
 |[Developer Diary, Hindi Day](https://john.colagioia.net/blog/2026/09/14/hindi.html)|Mon Sep 14 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Necessary Evil](https://john.colagioia.net/blog/2026/09/10/necessary-evil.html)|Thu Sep 10 2026|
 |[Developer Diary, Umhlanga](https://john.colagioia.net/blog/2026/09/07/reed-dance.html)|Mon Sep 07 2026|
 |[Think Big, Shop Small, part 3](https://john.colagioia.net/blog/2026/09/06/shop-small-3.html)|Sun Sep 06 2026|
-|[Free Culture Book Club — Fantastique Unfettered 1](https://john.colagioia.net/blog/2026/09/05/unfettered-1.html)|Sat Sep 05 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
