@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Who, Now](https://john.colagioia.net/blog/2026/10/18/who.html)|Sun Oct 18 2026|
 |[Free Culture Book Club — Space Dwarf](https://john.colagioia.net/blog/2026/10/17/space-dwarf.html)|Sat Oct 17 2026|
 |[Toots 🦣 from 10/12 to 10/16](https://john.colagioia.net/blog/2026/10/16/week.html)|Fri Oct 16 2026|
 |[Real Life in Star Trek, Armageddon Game](https://john.colagioia.net/blog/2026/10/15/armageddon-game.html)|Thu Oct 15 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Toots 🦣 from 10/05 to 10/09](https://john.colagioia.net/blog/2026/10/09/week.html)|Fri Oct 09 2026|
 |[Real Life in Star Trek, The Alternate](https://john.colagioia.net/blog/2026/10/08/alternate.html)|Thu Oct 08 2026|
 |[Developer Diary, World Architecture Day](https://john.colagioia.net/blog/2026/10/05/architecture.html)|Mon Oct 05 2026|
-|[What Do We Want](https://john.colagioia.net/blog/2026/10/04/want.html)|Sun Oct 04 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
