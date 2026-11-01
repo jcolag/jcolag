@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Free Culture Book Club — forty~sixth](https://john.colagioia.net/blog/2026/10/31/forty-sixth.html)|Sat Oct 31 2026|
 |[Toots 🦣 from 10/26 to 10/30](https://john.colagioia.net/blog/2026/10/30/week.html)|Fri Oct 30 2026|
 |[Real Life in Star Trek, Paradise](https://john.colagioia.net/blog/2026/10/29/paradise.html)|Thu Oct 29 2026|
 |[Developer Diary, Intersex Awareness Day](https://john.colagioia.net/blog/2026/10/26/intersex.html)|Mon Oct 26 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Real Life in Star Trek, Whispers](https://john.colagioia.net/blog/2026/10/22/whispers.html)|Thu Oct 22 2026|
 |[Developer Diary, Jane Eyre](https://john.colagioia.net/blog/2026/10/19/jane-eyre.html)|Mon Oct 19 2026|
 |[Who, Now](https://john.colagioia.net/blog/2026/10/18/who.html)|Sun Oct 18 2026|
-|[Free Culture Book Club — Space Dwarf](https://john.colagioia.net/blog/2026/10/17/space-dwarf.html)|Sat Oct 17 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
