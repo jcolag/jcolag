@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Playing God](https://john.colagioia.net/blog/2026/11/12/playing-god.html)|Thu Nov 12 2026|
 |[Developer Diary, Balipratipada](https://john.colagioia.net/blog/2026/11/09/balipratipada.html)|Mon Nov 09 2026|
 |[Writing Representatives](https://john.colagioia.net/blog/2026/11/07/writing.html)|Sat Nov 07 2026|
 |[Free Culture Book Club — Operation Outbreak](https://john.colagioia.net/blog/2026/11/07/operation-outbreak.html)|Sat Nov 07 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Elections and Beyond](https://john.colagioia.net/blog/2026/11/01/voting.html)|Sun Nov 01 2026|
 |[Free Culture Book Club — forty~sixth](https://john.colagioia.net/blog/2026/10/31/forty-sixth.html)|Sat Oct 31 2026|
 |[Toots 🦣 from 10/26 to 10/30](https://john.colagioia.net/blog/2026/10/30/week.html)|Fri Oct 30 2026|
-|[Real Life in Star Trek, Paradise](https://john.colagioia.net/blog/2026/10/29/paradise.html)|Thu Oct 29 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
