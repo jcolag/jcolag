@@ -8,6 +8,7 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 
 |Title|Date|
 |-----|-------|
+|[Real Life in Star Trek, Blood Oath](https://john.colagioia.net/blog/2026/11/26/blood-oath.html)|Thu Nov 26 2026|
 |[Licensing with REUSE](https://john.colagioia.net/blog/2026/11/25/reuse.html)|Wed Nov 25 2026|
 |[Developer Diary, Thespis Performing](https://john.colagioia.net/blog/2026/11/23/thespis.html)|Mon Nov 23 2026|
 |[What Does One Do with Timelines, Anyway](https://john.colagioia.net/blog/2026/11/22/timelines.html)|Sun Nov 22 2026|
@@ -17,7 +18,6 @@ Here's a sample of topics I've been talking about, this past week or so on the b
 |[Literate Programming with Noweb](https://john.colagioia.net/blog/2026/11/18/literate.html)|Wed Nov 18 2026|
 |[Developer Diary, Icelandic Language Day](https://john.colagioia.net/blog/2026/11/16/icelandic.html)|Mon Nov 16 2026|
 |[Loneliness Epidemics](https://john.colagioia.net/blog/2026/11/15/men.html)|Sun Nov 15 2026|
-|[Free Culture Book Club — The Stick Saga](https://john.colagioia.net/blog/2026/11/14/stick-masterpiece.html)|Sat Nov 14 2026|
 
 Feel free to suggest ideas on any project or just poke at me to say "hi." Not literally poke, though. Have some self-respect.
 
